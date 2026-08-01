@@ -1,0 +1,5001 @@
+PaymentID,OrderID,Method,Amount,PaymentStatus
+1,1,PayPal,14128.46,Paid
+2,2,Visa,11494.03,Paid
+3,3,UPI,6567.91,Refunded
+4,4,PayPal,6937.56,Paid
+5,5,PayPal,8001.82,Paid
+6,6,Visa,14066.93,Paid
+7,7,PayPal,4607.84,Refunded
+8,8,PayPal,1504.63,Refunded
+9,9,Mastercard,12457.75,Paid
+10,10,UPI,7575.18,Refunded
+11,11,UPI,8033.79,Paid
+12,12,Mastercard,2247.49,Paid
+13,13,UPI,14901.65,Paid
+14,14,Mastercard,9583.52,Paid
+15,15,PayPal,7289.27,Paid
+16,16,Visa,11152.99,Refunded
+17,17,UPI,4588.42,Refunded
+18,18,Mastercard,5061.26,Paid
+19,19,UPI,2183.08,Paid
+20,20,Mastercard,1525.52,Paid
+21,21,UPI,1844.38,Paid
+22,22,UPI,5475.49,Refunded
+23,23,Mastercard,8593.03,Paid
+24,24,PayPal,1533.04,Refunded
+25,25,UPI,5819.98,Paid
+26,26,Gift Card,15373.64,Paid
+27,27,Mastercard,1282.07,Paid
+28,28,Gift Card,4863.18,Refunded
+29,29,PayPal,7602.99,Paid
+30,30,UPI,7746.36,Paid
+31,31,Mastercard,2555.29,Paid
+32,32,PayPal,7414.55,Paid
+33,33,UPI,5887.02,Paid
+34,34,Gift Card,5407.98,Paid
+35,35,Mastercard,5972.1,Paid
+36,36,Mastercard,4820.19,Paid
+37,37,UPI,16051.92,Paid
+38,38,Mastercard,1568.75,Refunded
+39,39,Visa,8184.48,Paid
+40,40,Gift Card,9789.88,Paid
+41,41,Visa,5499.09,Paid
+42,42,Mastercard,15430.22,Paid
+43,43,PayPal,10287.06,Paid
+44,44,Gift Card,1717.67,Paid
+45,45,Visa,4065.3,Refunded
+46,46,Gift Card,7326,Paid
+47,47,Visa,11056.47,Refunded
+48,48,Gift Card,7028.42,Paid
+49,49,Mastercard,5339.86,Paid
+50,50,Visa,3418.11,Paid
+51,51,Visa,5978.64,Paid
+52,52,Mastercard,11545.15,Paid
+53,53,Mastercard,660.7,Paid
+54,54,Visa,5831.11,Paid
+55,55,Visa,4818,Paid
+56,56,PayPal,7224.03,Paid
+57,57,Gift Card,2895.99,Paid
+58,58,PayPal,594.02,Paid
+59,59,PayPal,16473.78,Refunded
+60,60,Visa,10367.23,Paid
+61,61,Visa,14774.89,Refunded
+62,62,Gift Card,5659.89,Refunded
+63,63,Gift Card,10983.39,Paid
+64,64,Mastercard,4422.07,Refunded
+65,65,UPI,1263.99,Paid
+66,66,Mastercard,299.58,Paid
+67,67,PayPal,11835.33,Paid
+68,68,Gift Card,14985.33,Paid
+69,69,UPI,208,Paid
+70,70,Visa,10873.63,Paid
+71,71,Gift Card,5512.47,Paid
+72,72,PayPal,12103.32,Paid
+73,73,PayPal,3678.35,Paid
+74,74,PayPal,3350.08,Paid
+75,75,Gift Card,6895.65,Paid
+76,76,Mastercard,7138.57,Paid
+77,77,UPI,8491.48,Refunded
+78,78,Visa,12203.57,Paid
+79,79,PayPal,5074.71,Paid
+80,80,Mastercard,2802.99,Refunded
+81,81,PayPal,11178.54,Paid
+82,82,PayPal,13152.22,Paid
+83,83,Visa,12805.3,Refunded
+84,84,PayPal,7522.56,Refunded
+85,85,Visa,1146.38,Paid
+86,86,Visa,11057.06,Paid
+87,87,PayPal,5891.42,Paid
+88,88,Mastercard,11323.95,Paid
+89,89,Visa,5613.35,Refunded
+90,90,Gift Card,6360.72,Paid
+91,91,UPI,7945.43,Paid
+92,92,Visa,3679.51,Paid
+93,93,Visa,7339.36,Paid
+94,94,Mastercard,10567.51,Paid
+95,95,Mastercard,5425.44,Paid
+96,96,Visa,7025.12,Paid
+97,97,Mastercard,8708.08,Paid
+98,98,Mastercard,930.97,Refunded
+99,99,UPI,2249.14,Paid
+100,100,UPI,12296.8,Paid
+101,101,Mastercard,4300.65,Paid
+102,102,Visa,7070.3,Paid
+103,103,UPI,6156.88,Paid
+104,104,Gift Card,5929.23,Paid
+105,105,Gift Card,1458.79,Paid
+106,106,UPI,705.64,Paid
+107,107,UPI,2365.67,Paid
+108,108,UPI,4626.81,Paid
+109,109,Gift Card,10202.29,Refunded
+110,110,UPI,1204.5,Paid
+111,111,UPI,6796.58,Paid
+112,112,PayPal,6396.97,Paid
+113,113,Mastercard,1978.09,Paid
+114,114,Visa,17338.79,Refunded
+115,115,PayPal,6415.51,Paid
+116,116,Mastercard,8443.89,Paid
+117,117,Gift Card,7152.21,Paid
+118,118,PayPal,3172.45,Refunded
+119,119,Mastercard,10261.81,Paid
+120,120,Visa,8694.39,Paid
+121,121,Visa,3117.96,Refunded
+122,122,Mastercard,10072.06,Refunded
+123,123,UPI,2384.26,Paid
+124,124,Visa,6730.56,Refunded
+125,125,Mastercard,7042.05,Refunded
+126,126,Mastercard,3593.63,Paid
+127,127,PayPal,7363.31,Paid
+128,128,UPI,6925.42,Paid
+129,129,PayPal,12033.2,Refunded
+130,130,PayPal,1208.06,Paid
+131,131,Gift Card,8115.79,Paid
+132,132,Mastercard,10097.02,Paid
+133,133,PayPal,16285.74,Paid
+134,134,Mastercard,3147.28,Paid
+135,135,UPI,9122.91,Paid
+136,136,Visa,6754,Paid
+137,137,PayPal,1804.41,Paid
+138,138,Gift Card,4631,Paid
+139,139,Mastercard,2477.71,Paid
+140,140,Visa,7973.49,Paid
+141,141,Mastercard,16313.69,Refunded
+142,142,PayPal,10388.91,Paid
+143,143,UPI,10437.48,Paid
+144,144,PayPal,4680.4,Paid
+145,145,UPI,8936.06,Paid
+146,146,UPI,2752.54,Refunded
+147,147,Mastercard,6475.27,Paid
+148,148,Visa,5586.85,Paid
+149,149,Gift Card,1561.67,Refunded
+150,150,Gift Card,8999.21,Paid
+151,151,Mastercard,6461.95,Paid
+152,152,Gift Card,3739.43,Paid
+153,153,PayPal,7408.39,Paid
+154,154,UPI,2402.76,Paid
+155,155,Gift Card,3425.78,Paid
+156,156,Mastercard,6190.3,Paid
+157,157,UPI,1766.31,Refunded
+158,158,Visa,1124.54,Paid
+159,159,UPI,4061.24,Paid
+160,160,Mastercard,8067.86,Paid
+161,161,Visa,4170.27,Paid
+162,162,Gift Card,6509.75,Paid
+163,163,UPI,4449.76,Paid
+164,164,UPI,8400.59,Paid
+165,165,UPI,42.22,Paid
+166,166,PayPal,7208.07,Paid
+167,167,UPI,10915.9,Refunded
+168,168,PayPal,5006.14,Paid
+169,169,Mastercard,16467.77,Paid
+170,170,UPI,459.91,Refunded
+171,171,Mastercard,137.04,Paid
+172,172,Visa,5146.98,Paid
+173,173,Gift Card,7644.95,Paid
+174,174,Mastercard,6557.65,Paid
+175,175,Gift Card,12443.49,Paid
+176,176,Mastercard,6413.22,Refunded
+177,177,Gift Card,3241.4,Paid
+178,178,UPI,12811.19,Refunded
+179,179,UPI,3539.96,Paid
+180,180,PayPal,2378.02,Paid
+181,181,PayPal,4603.99,Paid
+182,182,PayPal,5703.22,Paid
+183,183,Gift Card,17078.37,Refunded
+184,184,UPI,3274.52,Refunded
+185,185,UPI,14439.64,Paid
+186,186,Visa,7537.93,Refunded
+187,187,PayPal,4527.54,Paid
+188,188,PayPal,2563.36,Refunded
+189,189,Mastercard,3132.78,Paid
+190,190,PayPal,2215.85,Refunded
+191,191,Gift Card,3022.42,Paid
+192,192,Gift Card,7832.64,Refunded
+193,193,PayPal,1407.95,Paid
+194,194,Gift Card,4360.22,Paid
+195,195,PayPal,7703.13,Paid
+196,196,Visa,322.14,Paid
+197,197,PayPal,5332.33,Paid
+198,198,Visa,8380.64,Paid
+199,199,UPI,8671.13,Paid
+200,200,Gift Card,4625.57,Paid
+201,201,PayPal,5706.73,Refunded
+202,202,Mastercard,9140.06,Paid
+203,203,Mastercard,5858.6,Paid
+204,204,Mastercard,4822.36,Paid
+205,205,Mastercard,4924.9,Paid
+206,206,Visa,1918.5,Refunded
+207,207,Gift Card,8690.14,Paid
+208,208,PayPal,3811.26,Paid
+209,209,UPI,1607.58,Paid
+210,210,Mastercard,7509.42,Paid
+211,211,Visa,4022.63,Paid
+212,212,Mastercard,8298.93,Paid
+213,213,UPI,5588.04,Refunded
+214,214,Visa,6508.2,Paid
+215,215,UPI,5385,Refunded
+216,216,Gift Card,3609.19,Refunded
+217,217,Mastercard,5473.43,Paid
+218,218,Visa,4899.58,Paid
+219,219,Gift Card,5277.08,Paid
+220,220,PayPal,4650.62,Paid
+221,221,Mastercard,7489.41,Paid
+222,222,Visa,4389.06,Paid
+223,223,PayPal,12358.19,Paid
+224,224,Mastercard,5045.24,Paid
+225,225,Mastercard,9964.88,Paid
+226,226,Visa,4095.05,Paid
+227,227,UPI,12735.76,Paid
+228,228,Gift Card,9420.27,Paid
+229,229,UPI,2873.15,Paid
+230,230,Gift Card,2008.76,Refunded
+231,231,Visa,11035.97,Paid
+232,232,PayPal,1156.65,Paid
+233,233,Visa,3890.69,Paid
+234,234,Visa,3859.15,Refunded
+235,235,Mastercard,5044.17,Paid
+236,236,Visa,3704.58,Paid
+237,237,Visa,7121.29,Refunded
+238,238,UPI,8914.05,Refunded
+239,239,Mastercard,12430.79,Paid
+240,240,Gift Card,9772.41,Refunded
+241,241,Gift Card,1616.93,Paid
+242,242,Gift Card,6517.73,Refunded
+243,243,Mastercard,8645.84,Paid
+244,244,Gift Card,15427.51,Paid
+245,245,Visa,5510.96,Paid
+246,246,PayPal,8980.78,Refunded
+247,247,UPI,13445.66,Paid
+248,248,Gift Card,9806.65,Paid
+249,249,Gift Card,4003.49,Paid
+250,250,PayPal,4008.92,Refunded
+251,251,PayPal,9881.59,Paid
+252,252,Gift Card,10310.57,Paid
+253,253,UPI,5577.58,Paid
+254,254,Gift Card,6246.01,Paid
+255,255,Visa,1697.92,Paid
+256,256,UPI,4987.06,Paid
+257,257,Mastercard,7886.77,Paid
+258,258,PayPal,2348.22,Paid
+259,259,Mastercard,7818.21,Paid
+260,260,Gift Card,9762.06,Paid
+261,261,Visa,5221.16,Paid
+262,262,PayPal,4177.16,Paid
+263,263,Mastercard,15472.6,Refunded
+264,264,PayPal,2010.92,Paid
+265,265,UPI,6077.17,Paid
+266,266,PayPal,1920.13,Paid
+267,267,Mastercard,3685.06,Refunded
+268,268,UPI,956.43,Paid
+269,269,Visa,1008.71,Refunded
+270,270,Mastercard,8680.64,Paid
+271,271,Visa,9416.46,Paid
+272,272,Mastercard,11493.48,Paid
+273,273,UPI,3955.98,Paid
+274,274,Gift Card,1083.74,Refunded
+275,275,UPI,7294.78,Paid
+276,276,UPI,14284.81,Paid
+277,277,UPI,7200.89,Paid
+278,278,Mastercard,3252.27,Paid
+279,279,Gift Card,1283.03,Paid
+280,280,PayPal,3668.81,Paid
+281,281,Gift Card,13765.92,Paid
+282,282,UPI,4641.38,Paid
+283,283,PayPal,2339.85,Paid
+284,284,Mastercard,3515.96,Paid
+285,285,UPI,3613.27,Paid
+286,286,Mastercard,1132,Paid
+287,287,Mastercard,9753.84,Refunded
+288,288,Gift Card,5110.59,Paid
+289,289,Mastercard,3580.17,Paid
+290,290,UPI,14474.01,Paid
+291,291,Visa,5040.93,Paid
+292,292,Mastercard,12832.91,Refunded
+293,293,Visa,2729,Paid
+294,294,Visa,4814.47,Paid
+295,295,Visa,12542.09,Refunded
+296,296,Gift Card,3844.55,Paid
+297,297,Visa,4644.98,Paid
+298,298,UPI,10287.35,Paid
+299,299,UPI,7789.32,Paid
+300,300,PayPal,2822.65,Paid
+301,301,Gift Card,8134.08,Paid
+302,302,Mastercard,11867.96,Paid
+303,303,UPI,10223.07,Paid
+304,304,Mastercard,7265.53,Paid
+305,305,Mastercard,6191.07,Refunded
+306,306,Mastercard,1078.38,Paid
+307,307,PayPal,3936.55,Paid
+308,308,UPI,14880.82,Paid
+309,309,Gift Card,8063.62,Paid
+310,310,PayPal,7292.44,Refunded
+311,311,Mastercard,3771.09,Paid
+312,312,Mastercard,2182.82,Refunded
+313,313,UPI,12463.9,Paid
+314,314,PayPal,8821.79,Paid
+315,315,Mastercard,14431.45,Refunded
+316,316,Gift Card,13372.4,Paid
+317,317,Mastercard,8562.57,Paid
+318,318,Gift Card,3282.68,Paid
+319,319,UPI,8400.14,Paid
+320,320,Visa,90.68,Paid
+321,321,UPI,1723.64,Paid
+322,322,Visa,15028.32,Paid
+323,323,PayPal,3543.31,Refunded
+324,324,Visa,78.93,Paid
+325,325,Mastercard,5491.11,Paid
+326,326,Mastercard,4335.72,Paid
+327,327,PayPal,4842.02,Paid
+328,328,Visa,6422.52,Paid
+329,329,Visa,8541.34,Paid
+330,330,Gift Card,5431.47,Paid
+331,331,Mastercard,4893.96,Paid
+332,332,Mastercard,2031.7,Paid
+333,333,PayPal,1203.47,Paid
+334,334,PayPal,3238.78,Paid
+335,335,UPI,8355.34,Paid
+336,336,Mastercard,7370.19,Paid
+337,337,PayPal,3079.25,Refunded
+338,338,Gift Card,7719.3,Paid
+339,339,Gift Card,1820.86,Paid
+340,340,PayPal,11495.66,Paid
+341,341,Visa,10577.23,Paid
+342,342,UPI,12511.89,Paid
+343,343,PayPal,7201.07,Paid
+344,344,Visa,13307.42,Paid
+345,345,PayPal,16062.74,Paid
+346,346,Visa,5622.28,Paid
+347,347,Visa,1373.29,Paid
+348,348,Gift Card,8458.8,Paid
+349,349,Gift Card,2275.66,Paid
+350,350,PayPal,2816.39,Paid
+351,351,PayPal,5543.96,Paid
+352,352,UPI,11228.97,Refunded
+353,353,Visa,4532.7,Paid
+354,354,Visa,1689.31,Paid
+355,355,Visa,7630.02,Paid
+356,356,Mastercard,3645.8,Paid
+357,357,Gift Card,7869.83,Paid
+358,358,Gift Card,14778.57,Paid
+359,359,PayPal,8801.89,Paid
+360,360,Gift Card,5285.91,Paid
+361,361,Visa,8918.7,Paid
+362,362,Gift Card,4612,Paid
+363,363,Mastercard,4416.07,Paid
+364,364,Visa,7541.34,Paid
+365,365,Gift Card,3433.06,Paid
+366,366,PayPal,792.46,Paid
+367,367,Gift Card,2455.01,Paid
+368,368,Visa,389.22,Paid
+369,369,Mastercard,1379.35,Paid
+370,370,UPI,995.2,Refunded
+371,371,Gift Card,7778.83,Paid
+372,372,Gift Card,12245.43,Refunded
+373,373,PayPal,7149.05,Paid
+374,374,Visa,5305.6,Refunded
+375,375,UPI,2045.87,Paid
+376,376,Gift Card,4041.67,Paid
+377,377,UPI,2441.64,Paid
+378,378,Visa,8072.73,Refunded
+379,379,Gift Card,7852.54,Paid
+380,380,Gift Card,9965.53,Paid
+381,381,Visa,4786.82,Paid
+382,382,Mastercard,565.47,Refunded
+383,383,UPI,7335.02,Paid
+384,384,Gift Card,2236.54,Paid
+385,385,PayPal,14622.21,Paid
+386,386,Gift Card,5533.54,Refunded
+387,387,UPI,11461.08,Paid
+388,388,Visa,8236.94,Paid
+389,389,Gift Card,1126.52,Paid
+390,390,PayPal,299.15,Refunded
+391,391,Gift Card,4042.39,Paid
+392,392,Mastercard,10408.93,Paid
+393,393,Visa,9632.47,Paid
+394,394,Mastercard,4422.24,Paid
+395,395,Gift Card,2430.94,Paid
+396,396,PayPal,10129.74,Paid
+397,397,Visa,1485.97,Paid
+398,398,Mastercard,11813.09,Paid
+399,399,UPI,8073.99,Refunded
+400,400,Mastercard,11624.34,Paid
+401,401,UPI,324.14,Paid
+402,402,Visa,3263.46,Refunded
+403,403,PayPal,993.59,Paid
+404,404,Visa,7452.23,Paid
+405,405,UPI,14302.63,Paid
+406,406,PayPal,5825.66,Paid
+407,407,Visa,4817.63,Paid
+408,408,Gift Card,3401.16,Paid
+409,409,Visa,4867.78,Paid
+410,410,Gift Card,450.03,Paid
+411,411,PayPal,10148.03,Paid
+412,412,PayPal,9010.99,Paid
+413,413,Visa,746.91,Paid
+414,414,PayPal,13649.87,Refunded
+415,415,UPI,4216.61,Paid
+416,416,Visa,5524.74,Refunded
+417,417,Gift Card,6071.59,Refunded
+418,418,Mastercard,6907.05,Paid
+419,419,Visa,394.62,Paid
+420,420,PayPal,1109.02,Paid
+421,421,UPI,4255.78,Paid
+422,422,Gift Card,5761.48,Refunded
+423,423,Mastercard,6638.75,Refunded
+424,424,Mastercard,11093.12,Paid
+425,425,Mastercard,1809.35,Paid
+426,426,Mastercard,7509.75,Paid
+427,427,Visa,2842,Refunded
+428,428,Mastercard,8320.07,Refunded
+429,429,Gift Card,750.91,Paid
+430,430,PayPal,8290.86,Paid
+431,431,UPI,3016.78,Paid
+432,432,Gift Card,2573.13,Refunded
+433,433,Mastercard,4825.8,Paid
+434,434,Mastercard,10271.57,Paid
+435,435,Gift Card,12424.07,Paid
+436,436,Mastercard,11643.37,Paid
+437,437,PayPal,4153.22,Paid
+438,438,UPI,1607,Paid
+439,439,UPI,1112.14,Paid
+440,440,PayPal,4433.8,Refunded
+441,441,Mastercard,5261.77,Refunded
+442,442,Mastercard,7976.13,Refunded
+443,443,Mastercard,3427.89,Paid
+444,444,Visa,1746.45,Paid
+445,445,Visa,8370.15,Paid
+446,446,PayPal,9822.91,Paid
+447,447,UPI,1271.24,Paid
+448,448,Mastercard,7477.84,Paid
+449,449,Gift Card,3671.97,Paid
+450,450,Visa,2691.42,Refunded
+451,451,Gift Card,1282.48,Refunded
+452,452,PayPal,4067.63,Paid
+453,453,UPI,8634.83,Paid
+454,454,Visa,6302.21,Paid
+455,455,UPI,8808.78,Paid
+456,456,Mastercard,5621.92,Refunded
+457,457,Mastercard,2307.03,Paid
+458,458,PayPal,11326.41,Paid
+459,459,PayPal,3106.04,Paid
+460,460,Gift Card,2056.23,Paid
+461,461,Mastercard,1324.06,Paid
+462,462,Gift Card,11696.88,Paid
+463,463,Mastercard,1236.35,Paid
+464,464,UPI,665.26,Refunded
+465,465,Visa,4540.11,Paid
+466,466,UPI,9842.37,Paid
+467,467,Visa,1103.31,Paid
+468,468,UPI,6556.39,Paid
+469,469,Gift Card,147.79,Refunded
+470,470,UPI,2280.92,Paid
+471,471,Mastercard,10422.85,Paid
+472,472,Mastercard,11661.96,Refunded
+473,473,Visa,1173.95,Paid
+474,474,Mastercard,13433.85,Paid
+475,475,Visa,8184.13,Paid
+476,476,UPI,4007.52,Paid
+477,477,Mastercard,9572.9,Refunded
+478,478,Gift Card,7374.99,Paid
+479,479,UPI,11003.88,Paid
+480,480,Mastercard,3170.61,Paid
+481,481,Gift Card,1072.48,Paid
+482,482,PayPal,1666.18,Paid
+483,483,Mastercard,16045.65,Paid
+484,484,Visa,3777.5,Paid
+485,485,Gift Card,1239.27,Paid
+486,486,Mastercard,10553.75,Paid
+487,487,Visa,5804.55,Refunded
+488,488,UPI,302.28,Paid
+489,489,Visa,5337.6,Paid
+490,490,Visa,10939.09,Refunded
+491,491,Visa,12812.79,Paid
+492,492,Visa,5114.61,Paid
+493,493,Mastercard,10940.52,Paid
+494,494,Visa,3433.84,Refunded
+495,495,Mastercard,5326.51,Paid
+496,496,Mastercard,9415.05,Refunded
+497,497,UPI,12722.82,Paid
+498,498,PayPal,2615.62,Paid
+499,499,Gift Card,4385.38,Paid
+500,500,Visa,1395.34,Refunded
+501,501,Visa,3313.4,Paid
+502,502,Mastercard,4917.49,Paid
+503,503,Gift Card,3563.92,Refunded
+504,504,Gift Card,7187.82,Refunded
+505,505,Gift Card,5716.5,Paid
+506,506,PayPal,2300.67,Paid
+507,507,Gift Card,11444.59,Paid
+508,508,PayPal,7093.22,Paid
+509,509,UPI,5278.18,Refunded
+510,510,UPI,7120.9,Refunded
+511,511,PayPal,13441.31,Paid
+512,512,UPI,6374.42,Refunded
+513,513,Gift Card,5952.12,Refunded
+514,514,UPI,7936.42,Paid
+515,515,Gift Card,6814.09,Paid
+516,516,Visa,2795.35,Paid
+517,517,PayPal,2291.61,Paid
+518,518,Visa,7403.53,Paid
+519,519,Gift Card,13929.98,Paid
+520,520,Mastercard,713.63,Paid
+521,521,Mastercard,9784.62,Paid
+522,522,PayPal,3367.04,Paid
+523,523,UPI,3978.24,Refunded
+524,524,PayPal,6703.72,Paid
+525,525,Visa,9924.77,Paid
+526,526,PayPal,3886.89,Refunded
+527,527,Mastercard,11016.77,Paid
+528,528,PayPal,9254.81,Paid
+529,529,UPI,13514.43,Paid
+530,530,Gift Card,8467.09,Paid
+531,531,PayPal,4594.39,Paid
+532,532,Visa,4092.06,Paid
+533,533,Visa,9501.43,Refunded
+534,534,Gift Card,5649.82,Paid
+535,535,Visa,9872.01,Paid
+536,536,PayPal,8374.65,Paid
+537,537,PayPal,2884.05,Paid
+538,538,UPI,12636.79,Paid
+539,539,PayPal,8432.65,Refunded
+540,540,Mastercard,4083.23,Paid
+541,541,PayPal,13965.13,Paid
+542,542,PayPal,4369.5,Paid
+543,543,UPI,5760.14,Refunded
+544,544,PayPal,12549.62,Refunded
+545,545,PayPal,9028.63,Paid
+546,546,Mastercard,4359.92,Paid
+547,547,Gift Card,10414.17,Paid
+548,548,Mastercard,9611.92,Paid
+549,549,Mastercard,13993.3,Paid
+550,550,PayPal,5959.59,Refunded
+551,551,Visa,10249.99,Paid
+552,552,PayPal,14425.08,Paid
+553,553,Gift Card,6244.68,Paid
+554,554,Visa,3219.32,Refunded
+555,555,UPI,10943.58,Refunded
+556,556,Visa,17618.85,Paid
+557,557,Gift Card,4505.45,Paid
+558,558,Visa,4298.61,Paid
+559,559,PayPal,2793.31,Paid
+560,560,Mastercard,10046.46,Paid
+561,561,Mastercard,7738.1,Paid
+562,562,Visa,4959.32,Paid
+563,563,Visa,14313.45,Paid
+564,564,Gift Card,9436.72,Paid
+565,565,Visa,9940.05,Paid
+566,566,PayPal,10582.03,Refunded
+567,567,Mastercard,2775.96,Paid
+568,568,Visa,5232.52,Paid
+569,569,Visa,6942.69,Refunded
+570,570,Gift Card,8043.98,Refunded
+571,571,Visa,12226.33,Paid
+572,572,Visa,245.91,Paid
+573,573,PayPal,2562.43,Paid
+574,574,Visa,2107.71,Paid
+575,575,Gift Card,8900.4,Paid
+576,576,Gift Card,6370.81,Refunded
+577,577,Mastercard,9590.13,Paid
+578,578,UPI,14354.22,Paid
+579,579,UPI,2912.73,Paid
+580,580,Gift Card,8705.09,Paid
+581,581,Gift Card,1435.63,Paid
+582,582,Visa,10755.08,Paid
+583,583,UPI,5291.14,Refunded
+584,584,Gift Card,6645.47,Paid
+585,585,Gift Card,8163.95,Refunded
+586,586,Visa,5080.69,Paid
+587,587,UPI,6239.03,Refunded
+588,588,PayPal,4994.72,Paid
+589,589,Gift Card,12434.57,Paid
+590,590,Mastercard,1966.9,Paid
+591,591,PayPal,3948.59,Refunded
+592,592,Visa,6399.15,Paid
+593,593,Visa,2594.72,Paid
+594,594,UPI,6000.14,Paid
+595,595,UPI,5873.72,Paid
+596,596,Mastercard,4436.43,Refunded
+597,597,UPI,1189.89,Paid
+598,598,PayPal,9438.37,Paid
+599,599,Gift Card,4255.82,Refunded
+600,600,Gift Card,5559.98,Paid
+601,601,PayPal,7724.29,Paid
+602,602,UPI,5761.18,Paid
+603,603,Gift Card,6008.71,Paid
+604,604,Gift Card,4936.37,Paid
+605,605,Visa,4030.51,Refunded
+606,606,UPI,8341.07,Paid
+607,607,UPI,4990.4,Refunded
+608,608,Visa,9891.23,Paid
+609,609,PayPal,11881.88,Paid
+610,610,Visa,7694.36,Paid
+611,611,Gift Card,7941.15,Paid
+612,612,Gift Card,12346.11,Paid
+613,613,Gift Card,13779.13,Refunded
+614,614,Gift Card,7491.46,Paid
+615,615,Gift Card,5176.18,Paid
+616,616,UPI,1197.74,Paid
+617,617,UPI,2457.14,Paid
+618,618,UPI,12894.98,Refunded
+619,619,Visa,11033.26,Refunded
+620,620,Gift Card,1592,Paid
+621,621,UPI,10494.55,Paid
+622,622,Visa,2291.17,Paid
+623,623,Gift Card,1341.62,Paid
+624,624,Visa,7633.29,Paid
+625,625,PayPal,2053.26,Paid
+626,626,PayPal,4167.58,Refunded
+627,627,Visa,8479.28,Paid
+628,628,Gift Card,11429.05,Paid
+629,629,Gift Card,8636.69,Paid
+630,630,Gift Card,1601.83,Paid
+631,631,Gift Card,11090.53,Refunded
+632,632,Visa,12263.83,Refunded
+633,633,Gift Card,7341.73,Paid
+634,634,Visa,2373.92,Paid
+635,635,Mastercard,4670.94,Paid
+636,636,UPI,7172.69,Paid
+637,637,Gift Card,9176.64,Paid
+638,638,UPI,2315.5,Paid
+639,639,PayPal,4341.94,Paid
+640,640,Visa,403.89,Paid
+641,641,UPI,9154.48,Paid
+642,642,Gift Card,14685.28,Paid
+643,643,Visa,14081.82,Paid
+644,644,PayPal,4864.09,Paid
+645,645,UPI,6627.33,Paid
+646,646,PayPal,4214.75,Refunded
+647,647,PayPal,530.7,Paid
+648,648,PayPal,14831.28,Paid
+649,649,Mastercard,456.83,Paid
+650,650,UPI,1615.92,Refunded
+651,651,Mastercard,4894.53,Paid
+652,652,PayPal,8862.59,Paid
+653,653,Gift Card,4362.3,Paid
+654,654,Visa,4875.9,Paid
+655,655,Mastercard,13122.4,Paid
+656,656,Visa,5984.09,Paid
+657,657,Mastercard,14127.99,Paid
+658,658,PayPal,3422.49,Refunded
+659,659,UPI,9605.11,Paid
+660,660,Mastercard,10185.99,Paid
+661,661,Gift Card,3373.62,Refunded
+662,662,Gift Card,7360.23,Refunded
+663,663,UPI,7153.66,Paid
+664,664,UPI,11319.3,Paid
+665,665,PayPal,3094.56,Paid
+666,666,PayPal,7863.19,Paid
+667,667,Visa,9137.15,Paid
+668,668,Visa,10065.59,Paid
+669,669,Visa,7466.44,Refunded
+670,670,UPI,6639.59,Paid
+671,671,Visa,4582.08,Paid
+672,672,Mastercard,5495.73,Paid
+673,673,UPI,13895.19,Paid
+674,674,PayPal,4967.98,Paid
+675,675,Visa,4773.17,Paid
+676,676,UPI,13231.53,Refunded
+677,677,Mastercard,4232.89,Paid
+678,678,PayPal,8758.68,Refunded
+679,679,Gift Card,3484.68,Paid
+680,680,PayPal,2255.01,Refunded
+681,681,Mastercard,6863.7,Paid
+682,682,PayPal,12462.36,Refunded
+683,683,Gift Card,5611.03,Paid
+684,684,Mastercard,5613.94,Paid
+685,685,PayPal,4235.61,Paid
+686,686,Gift Card,9182.97,Refunded
+687,687,Mastercard,3069.33,Paid
+688,688,Visa,485.02,Paid
+689,689,Mastercard,3621.32,Paid
+690,690,Mastercard,10094.48,Paid
+691,691,Gift Card,3604.14,Paid
+692,692,UPI,10922.9,Paid
+693,693,Mastercard,928.98,Paid
+694,694,PayPal,887.48,Paid
+695,695,PayPal,12871.25,Paid
+696,696,Mastercard,2157.82,Refunded
+697,697,Gift Card,15797.05,Paid
+698,698,Mastercard,1405.61,Paid
+699,699,Visa,2902.55,Paid
+700,700,Visa,3400.42,Refunded
+701,701,UPI,4721.9,Refunded
+702,702,Gift Card,5994.89,Paid
+703,703,PayPal,7157.45,Paid
+704,704,Visa,9250.57,Refunded
+705,705,Gift Card,4545.45,Refunded
+706,706,PayPal,7366.02,Refunded
+707,707,Visa,8741.66,Refunded
+708,708,Visa,1840.28,Paid
+709,709,UPI,760.08,Paid
+710,710,Mastercard,3504.88,Paid
+711,711,UPI,562.76,Paid
+712,712,Gift Card,15201.37,Paid
+713,713,Gift Card,2008.55,Paid
+714,714,Visa,8355.07,Paid
+715,715,Gift Card,12800.06,Paid
+716,716,UPI,5325.54,Paid
+717,717,Mastercard,2885.82,Refunded
+718,718,PayPal,4013.53,Paid
+719,719,UPI,8663.07,Paid
+720,720,Mastercard,7777.99,Paid
+721,721,Gift Card,5105.52,Paid
+722,722,PayPal,3842.18,Paid
+723,723,Visa,8075.03,Paid
+724,724,Visa,13901.89,Paid
+725,725,Mastercard,4957.3,Refunded
+726,726,UPI,7687.45,Paid
+727,727,Visa,9041.18,Paid
+728,728,Mastercard,3038.54,Paid
+729,729,UPI,5766.92,Refunded
+730,730,Mastercard,5952.3,Refunded
+731,731,PayPal,4942.13,Refunded
+732,732,Gift Card,10092.83,Paid
+733,733,Gift Card,8240.03,Paid
+734,734,Visa,17318.7,Paid
+735,735,PayPal,6936.56,Paid
+736,736,Mastercard,9132.35,Refunded
+737,737,UPI,5260.7,Paid
+738,738,Visa,5147.23,Paid
+739,739,Mastercard,2323.69,Paid
+740,740,Visa,6442.22,Refunded
+741,741,Mastercard,2274.78,Paid
+742,742,PayPal,5991.21,Paid
+743,743,Mastercard,8411.79,Paid
+744,744,Visa,16015.28,Refunded
+745,745,Mastercard,5309.84,Paid
+746,746,Mastercard,2272.75,Paid
+747,747,Gift Card,5482.23,Paid
+748,748,UPI,9792.74,Paid
+749,749,Mastercard,5285.46,Paid
+750,750,PayPal,6078.95,Paid
+751,751,UPI,11941.9,Paid
+752,752,Gift Card,7728.67,Refunded
+753,753,PayPal,2470.31,Paid
+754,754,UPI,4449.25,Paid
+755,755,PayPal,4526.88,Refunded
+756,756,Visa,662.79,Paid
+757,757,Gift Card,7135.02,Paid
+758,758,PayPal,8827.35,Refunded
+759,759,Mastercard,1585.52,Paid
+760,760,Visa,1027.23,Paid
+761,761,PayPal,5571.23,Refunded
+762,762,Visa,6110.25,Paid
+763,763,Gift Card,5979.47,Paid
+764,764,Gift Card,6697.2,Paid
+765,765,UPI,2003.22,Paid
+766,766,PayPal,14868.65,Paid
+767,767,Gift Card,10212.16,Paid
+768,768,UPI,4622.72,Paid
+769,769,Visa,5953.86,Paid
+770,770,UPI,2370.25,Paid
+771,771,UPI,1622.07,Paid
+772,772,Visa,5975.43,Paid
+773,773,Visa,7477.41,Paid
+774,774,UPI,3133.46,Refunded
+775,775,PayPal,1282.48,Paid
+776,776,Mastercard,14075.04,Paid
+777,777,Mastercard,1595.15,Paid
+778,778,UPI,52.47,Paid
+779,779,Visa,10821.97,Paid
+780,780,UPI,10790.06,Refunded
+781,781,Mastercard,4124.49,Paid
+782,782,Gift Card,320.09,Refunded
+783,783,PayPal,3913.41,Refunded
+784,784,Visa,10486.68,Paid
+785,785,PayPal,203.14,Paid
+786,786,Gift Card,4789.06,Paid
+787,787,Visa,7038.81,Refunded
+788,788,Visa,2470.31,Paid
+789,789,UPI,8562.32,Paid
+790,790,Mastercard,27.53,Paid
+791,791,PayPal,14804.65,Paid
+792,792,UPI,5383.13,Paid
+793,793,Visa,11960.91,Refunded
+794,794,Mastercard,3050.18,Paid
+795,795,Mastercard,17687.63,Refunded
+796,796,PayPal,1520.58,Paid
+797,797,PayPal,4056.67,Paid
+798,798,Visa,9171.65,Paid
+799,799,Visa,2122.94,Refunded
+800,800,Mastercard,9722.88,Paid
+801,801,Mastercard,625.49,Paid
+802,802,Gift Card,9190.27,Paid
+803,803,PayPal,14430.07,Refunded
+804,804,UPI,5203.39,Refunded
+805,805,Mastercard,4004.61,Paid
+806,806,UPI,8591.55,Paid
+807,807,UPI,7443.49,Paid
+808,808,Mastercard,587.48,Refunded
+809,809,PayPal,7131.81,Paid
+810,810,UPI,6895.18,Paid
+811,811,PayPal,6210.43,Paid
+812,812,UPI,5248.26,Paid
+813,813,Mastercard,8992.65,Paid
+814,814,Gift Card,1735.35,Paid
+815,815,Gift Card,8583.11,Paid
+816,816,Visa,8549.75,Paid
+817,817,PayPal,9554.13,Refunded
+818,818,Gift Card,564.29,Paid
+819,819,Mastercard,12335.02,Paid
+820,820,Visa,5017.31,Paid
+821,821,UPI,7110.97,Paid
+822,822,PayPal,2044.11,Paid
+823,823,PayPal,7915.65,Paid
+824,824,PayPal,1986.09,Paid
+825,825,Gift Card,5967.17,Paid
+826,826,Mastercard,2995.88,Refunded
+827,827,Gift Card,6039.03,Paid
+828,828,Gift Card,3198.25,Paid
+829,829,PayPal,1227.93,Refunded
+830,830,UPI,7883.24,Paid
+831,831,Visa,394.19,Paid
+832,832,PayPal,1414.79,Refunded
+833,833,UPI,7394.45,Paid
+834,834,Gift Card,7292.74,Refunded
+835,835,UPI,9046.94,Paid
+836,836,Visa,8153.71,Paid
+837,837,PayPal,5216.46,Paid
+838,838,UPI,4547.19,Refunded
+839,839,PayPal,12646.75,Paid
+840,840,Mastercard,3548.33,Refunded
+841,841,Visa,6205.62,Paid
+842,842,UPI,14035.07,Paid
+843,843,PayPal,6678.18,Paid
+844,844,Gift Card,988.92,Refunded
+845,845,Visa,4036.76,Paid
+846,846,Mastercard,6318.21,Paid
+847,847,PayPal,3595.4,Paid
+848,848,PayPal,1602.68,Paid
+849,849,Visa,6508.28,Paid
+850,850,PayPal,16607.15,Refunded
+851,851,Mastercard,357.09,Paid
+852,852,Gift Card,196.95,Paid
+853,853,Visa,5801.63,Paid
+854,854,UPI,3969.4,Paid
+855,855,PayPal,1167.47,Paid
+856,856,UPI,2535.05,Refunded
+857,857,Mastercard,2872.74,Paid
+858,858,Mastercard,11309.94,Paid
+859,859,Mastercard,963.35,Paid
+860,860,Visa,2155.64,Paid
+861,861,PayPal,5168.98,Paid
+862,862,Gift Card,5956.56,Paid
+863,863,PayPal,7636.53,Refunded
+864,864,Mastercard,6472.55,Paid
+865,865,Mastercard,3688.15,Paid
+866,866,PayPal,11395.83,Refunded
+867,867,Mastercard,4787.15,Refunded
+868,868,Gift Card,9368.14,Refunded
+869,869,PayPal,8087.34,Paid
+870,870,PayPal,9667.92,Paid
+871,871,Gift Card,17831.29,Paid
+872,872,Mastercard,13108.47,Refunded
+873,873,PayPal,13179.77,Paid
+874,874,Visa,11382.62,Refunded
+875,875,UPI,5443.16,Paid
+876,876,Gift Card,8256,Paid
+877,877,PayPal,6154.52,Paid
+878,878,PayPal,4462.35,Paid
+879,879,Visa,5333.93,Paid
+880,880,Mastercard,3618.73,Paid
+881,881,Visa,16748.35,Paid
+882,882,PayPal,6981.42,Paid
+883,883,Visa,2097.55,Paid
+884,884,UPI,10280.61,Paid
+885,885,Mastercard,4003.6,Paid
+886,886,PayPal,11931.92,Paid
+887,887,Gift Card,1213.88,Paid
+888,888,Gift Card,503.95,Paid
+889,889,Visa,9278.39,Refunded
+890,890,Visa,4707.12,Paid
+891,891,UPI,7510.94,Refunded
+892,892,PayPal,13434.74,Paid
+893,893,Visa,1206.24,Refunded
+894,894,Gift Card,10043.23,Paid
+895,895,Mastercard,2948.69,Paid
+896,896,Visa,6597.75,Paid
+897,897,Gift Card,6947.13,Refunded
+898,898,Mastercard,5551.57,Paid
+899,899,Visa,2455.89,Paid
+900,900,PayPal,12214.19,Paid
+901,901,UPI,2087.9,Paid
+902,902,PayPal,1009.78,Paid
+903,903,Visa,3178.98,Paid
+904,904,PayPal,4957.74,Paid
+905,905,Gift Card,5388.65,Paid
+906,906,PayPal,3788.7,Paid
+907,907,Mastercard,3591.39,Paid
+908,908,Visa,4802.66,Paid
+909,909,Gift Card,6310.64,Paid
+910,910,Mastercard,5977.7,Paid
+911,911,Mastercard,11691.77,Paid
+912,912,Visa,327.28,Paid
+913,913,Mastercard,10129.11,Paid
+914,914,Visa,4226.83,Paid
+915,915,Mastercard,288.33,Paid
+916,916,Visa,13369.05,Paid
+917,917,Visa,11823.73,Paid
+918,918,Gift Card,10920.06,Paid
+919,919,Mastercard,1477.71,Refunded
+920,920,PayPal,4013.25,Paid
+921,921,Visa,8922.91,Refunded
+922,922,Gift Card,385.55,Paid
+923,923,PayPal,7874.27,Paid
+924,924,Visa,1531.2,Paid
+925,925,PayPal,4221.69,Paid
+926,926,Visa,4361.6,Paid
+927,927,Mastercard,11652.41,Paid
+928,928,Gift Card,6933.49,Paid
+929,929,UPI,2911.68,Refunded
+930,930,UPI,7636.5,Refunded
+931,931,Gift Card,1723.15,Paid
+932,932,Visa,5577.91,Refunded
+933,933,PayPal,8175.41,Refunded
+934,934,UPI,6896.27,Paid
+935,935,UPI,7398,Paid
+936,936,UPI,10025.52,Paid
+937,937,Gift Card,13914.93,Paid
+938,938,PayPal,8279.28,Paid
+939,939,Gift Card,11049.29,Refunded
+940,940,UPI,1171.79,Paid
+941,941,Visa,305.19,Paid
+942,942,Visa,7376.75,Paid
+943,943,Mastercard,781.21,Refunded
+944,944,UPI,6785.47,Refunded
+945,945,Gift Card,5584.33,Paid
+946,946,Gift Card,14057.95,Paid
+947,947,Visa,3936.35,Paid
+948,948,UPI,4723.86,Paid
+949,949,Mastercard,4289.78,Paid
+950,950,Gift Card,9276.79,Refunded
+951,951,Mastercard,4149.39,Paid
+952,952,Visa,344.22,Paid
+953,953,PayPal,13392.47,Paid
+954,954,Mastercard,4391.11,Paid
+955,955,PayPal,11719.2,Paid
+956,956,UPI,8701.03,Paid
+957,957,PayPal,7484.99,Paid
+958,958,Mastercard,5614.23,Paid
+959,959,PayPal,9641.9,Paid
+960,960,UPI,9948.42,Paid
+961,961,PayPal,3398.07,Paid
+962,962,Mastercard,14651.26,Paid
+963,963,Mastercard,6961.35,Refunded
+964,964,Gift Card,2491.45,Paid
+965,965,UPI,1354.4,Paid
+966,966,Gift Card,9633.44,Paid
+967,967,UPI,8079.05,Paid
+968,968,Mastercard,7172.26,Paid
+969,969,Mastercard,3912.85,Paid
+970,970,Mastercard,3768.81,Paid
+971,971,Gift Card,4557.61,Paid
+972,972,Mastercard,10152.78,Paid
+973,973,PayPal,8931.25,Refunded
+974,974,Mastercard,6786.98,Paid
+975,975,PayPal,3033.04,Refunded
+976,976,Gift Card,3882.13,Paid
+977,977,Gift Card,1493.66,Paid
+978,978,Mastercard,12081.41,Refunded
+979,979,Gift Card,4369.7,Paid
+980,980,Gift Card,2578.78,Paid
+981,981,Visa,8262.96,Paid
+982,982,Gift Card,8207.24,Paid
+983,983,Visa,4772.91,Refunded
+984,984,Gift Card,2487.77,Paid
+985,985,Visa,1065.51,Refunded
+986,986,PayPal,6023.06,Paid
+987,987,PayPal,8726.56,Paid
+988,988,Mastercard,6123.09,Paid
+989,989,UPI,7084.69,Paid
+990,990,Mastercard,1255.79,Refunded
+991,991,Mastercard,14726.08,Refunded
+992,992,UPI,15783.75,Paid
+993,993,Mastercard,2361.93,Paid
+994,994,Mastercard,6201.04,Paid
+995,995,Gift Card,744.84,Paid
+996,996,PayPal,8408.8,Paid
+997,997,Mastercard,5380.19,Paid
+998,998,Mastercard,12206.69,Paid
+999,999,Gift Card,11219.8,Paid
+1000,1000,Visa,106.69,Refunded
+1001,1001,PayPal,4211.96,Paid
+1002,1002,PayPal,12629.44,Paid
+1003,1003,Mastercard,4741.73,Refunded
+1004,1004,Mastercard,5987.73,Refunded
+1005,1005,UPI,13441.47,Paid
+1006,1006,Visa,5304.46,Paid
+1007,1007,UPI,16678.88,Paid
+1008,1008,UPI,9018.07,Paid
+1009,1009,PayPal,1552.28,Paid
+1010,1010,PayPal,4279.5,Paid
+1011,1011,Mastercard,5598.12,Paid
+1012,1012,Visa,3016.56,Paid
+1013,1013,Visa,3466.11,Paid
+1014,1014,PayPal,7506.73,Paid
+1015,1015,UPI,3405.86,Paid
+1016,1016,PayPal,13462.79,Paid
+1017,1017,Visa,2849.82,Paid
+1018,1018,UPI,3958.42,Refunded
+1019,1019,Gift Card,8590.96,Paid
+1020,1020,UPI,7003.21,Paid
+1021,1021,Gift Card,5950.93,Paid
+1022,1022,PayPal,5500.62,Paid
+1023,1023,Visa,11080.62,Paid
+1024,1024,Mastercard,7408,Paid
+1025,1025,Visa,10947.36,Paid
+1026,1026,Visa,2152.17,Refunded
+1027,1027,Gift Card,5132.3,Refunded
+1028,1028,Gift Card,9585.92,Paid
+1029,1029,Gift Card,7332.69,Paid
+1030,1030,UPI,7140.46,Paid
+1031,1031,UPI,2023.16,Paid
+1032,1032,PayPal,7957.87,Paid
+1033,1033,Mastercard,7480.98,Refunded
+1034,1034,PayPal,434.13,Paid
+1035,1035,UPI,17374.44,Refunded
+1036,1036,UPI,5731.76,Paid
+1037,1037,Mastercard,10226.1,Paid
+1038,1038,Mastercard,7415.23,Paid
+1039,1039,UPI,81.69,Refunded
+1040,1040,Mastercard,3127.58,Paid
+1041,1041,Gift Card,5569.5,Paid
+1042,1042,Visa,5816.86,Paid
+1043,1043,Visa,7623.42,Paid
+1044,1044,UPI,4362.23,Paid
+1045,1045,PayPal,10078.31,Paid
+1046,1046,Mastercard,5383.12,Paid
+1047,1047,Visa,656.36,Paid
+1048,1048,PayPal,5299.61,Paid
+1049,1049,PayPal,2204.26,Refunded
+1050,1050,PayPal,1355.93,Refunded
+1051,1051,Visa,5550.99,Paid
+1052,1052,Gift Card,9260.77,Refunded
+1053,1053,PayPal,4601.37,Paid
+1054,1054,Gift Card,2986.48,Paid
+1055,1055,Gift Card,633.95,Paid
+1056,1056,Gift Card,5245.8,Paid
+1057,1057,PayPal,724.29,Paid
+1058,1058,Gift Card,10522.47,Paid
+1059,1059,Mastercard,4764.52,Paid
+1060,1060,Mastercard,2372.5,Paid
+1061,1061,Visa,15274.06,Paid
+1062,1062,UPI,7923.8,Paid
+1063,1063,Gift Card,3845.4,Paid
+1064,1064,UPI,6174.3,Paid
+1065,1065,PayPal,7994.93,Paid
+1066,1066,Mastercard,934.19,Paid
+1067,1067,PayPal,6261.65,Paid
+1068,1068,PayPal,7270.03,Paid
+1069,1069,Visa,7950.13,Paid
+1070,1070,Visa,12283.62,Paid
+1071,1071,Mastercard,7420.99,Paid
+1072,1072,Mastercard,1265.53,Paid
+1073,1073,Gift Card,8799.93,Paid
+1074,1074,Visa,2222.6,Paid
+1075,1075,Gift Card,6337.21,Paid
+1076,1076,PayPal,9142.31,Paid
+1077,1077,Visa,9009.92,Paid
+1078,1078,Mastercard,10828.38,Paid
+1079,1079,PayPal,6043.35,Refunded
+1080,1080,Gift Card,3946.9,Paid
+1081,1081,UPI,4140.85,Paid
+1082,1082,Gift Card,8925.06,Refunded
+1083,1083,UPI,8887.76,Paid
+1084,1084,Gift Card,11824.97,Paid
+1085,1085,Gift Card,2753.04,Refunded
+1086,1086,Mastercard,6850.08,Paid
+1087,1087,UPI,6922.93,Paid
+1088,1088,PayPal,11480.46,Paid
+1089,1089,Visa,5710.18,Paid
+1090,1090,Visa,9660.84,Paid
+1091,1091,Gift Card,1084.72,Paid
+1092,1092,Mastercard,13921.69,Paid
+1093,1093,Gift Card,17503.31,Paid
+1094,1094,UPI,10516.67,Paid
+1095,1095,Mastercard,8280.68,Paid
+1096,1096,Gift Card,2120.44,Refunded
+1097,1097,Gift Card,1354.32,Paid
+1098,1098,Visa,1461.49,Paid
+1099,1099,Mastercard,8805.46,Paid
+1100,1100,Mastercard,7012,Refunded
+1101,1101,Mastercard,5320.8,Refunded
+1102,1102,PayPal,124.82,Paid
+1103,1103,PayPal,15926.48,Refunded
+1104,1104,Visa,1315.3,Paid
+1105,1105,Gift Card,604.02,Paid
+1106,1106,Gift Card,7571.25,Paid
+1107,1107,UPI,12030.61,Paid
+1108,1108,Visa,10212.31,Paid
+1109,1109,Gift Card,2599.23,Paid
+1110,1110,Mastercard,11090.68,Paid
+1111,1111,UPI,4942.4,Paid
+1112,1112,UPI,4505.51,Paid
+1113,1113,Gift Card,7749.66,Paid
+1114,1114,UPI,10197.83,Paid
+1115,1115,UPI,7281.3,Paid
+1116,1116,Mastercard,1313.16,Paid
+1117,1117,PayPal,10965.78,Paid
+1118,1118,Gift Card,4150.95,Paid
+1119,1119,Gift Card,8878.42,Paid
+1120,1120,UPI,8151.76,Refunded
+1121,1121,Mastercard,6591.96,Paid
+1122,1122,Gift Card,2006.03,Refunded
+1123,1123,Visa,4613.12,Refunded
+1124,1124,Visa,7926.77,Paid
+1125,1125,Visa,10833.07,Paid
+1126,1126,PayPal,11868.72,Paid
+1127,1127,UPI,6901.78,Paid
+1128,1128,PayPal,3852.98,Paid
+1129,1129,PayPal,832.01,Refunded
+1130,1130,Gift Card,2181.15,Refunded
+1131,1131,UPI,2108.14,Paid
+1132,1132,Visa,7372.15,Paid
+1133,1133,Gift Card,8516.81,Paid
+1134,1134,Mastercard,3832.41,Paid
+1135,1135,Mastercard,3192.01,Paid
+1136,1136,Mastercard,13191.71,Paid
+1137,1137,Mastercard,13641.18,Paid
+1138,1138,Visa,12976.27,Paid
+1139,1139,Gift Card,2100.54,Paid
+1140,1140,Gift Card,9870.23,Paid
+1141,1141,Mastercard,3087.02,Refunded
+1142,1142,Gift Card,10884.55,Paid
+1143,1143,Gift Card,6771.52,Refunded
+1144,1144,UPI,8097.02,Paid
+1145,1145,Mastercard,588.91,Refunded
+1146,1146,Mastercard,8108.89,Refunded
+1147,1147,Visa,7055.67,Refunded
+1148,1148,PayPal,12943.69,Refunded
+1149,1149,PayPal,1193.38,Paid
+1150,1150,UPI,453.59,Paid
+1151,1151,PayPal,6283.96,Paid
+1152,1152,Mastercard,2450.63,Paid
+1153,1153,UPI,7202.7,Paid
+1154,1154,UPI,12693.36,Refunded
+1155,1155,Visa,9319.73,Refunded
+1156,1156,Gift Card,3938.94,Paid
+1157,1157,Gift Card,18139.91,Paid
+1158,1158,Mastercard,5291.96,Paid
+1159,1159,PayPal,7059.28,Paid
+1160,1160,Mastercard,683.29,Refunded
+1161,1161,UPI,911.54,Paid
+1162,1162,Mastercard,7269.16,Paid
+1163,1163,UPI,6713.08,Paid
+1164,1164,Visa,3233.59,Paid
+1165,1165,Mastercard,4538.67,Paid
+1166,1166,Visa,10770.33,Paid
+1167,1167,Mastercard,10017.98,Paid
+1168,1168,UPI,1601.83,Paid
+1169,1169,Mastercard,16939.5,Paid
+1170,1170,Gift Card,9562.2,Paid
+1171,1171,PayPal,3825.05,Paid
+1172,1172,Visa,5082.75,Paid
+1173,1173,Visa,6787.3,Paid
+1174,1174,Mastercard,10536.53,Paid
+1175,1175,UPI,10897.86,Paid
+1176,1176,Mastercard,4835.9,Paid
+1177,1177,Gift Card,4357.19,Paid
+1178,1178,Mastercard,5772,Paid
+1179,1179,Mastercard,6396.1,Paid
+1180,1180,Visa,12474.32,Paid
+1181,1181,Mastercard,10729.17,Paid
+1182,1182,UPI,5004.31,Paid
+1183,1183,PayPal,5742.64,Paid
+1184,1184,UPI,7783.19,Refunded
+1185,1185,Mastercard,3776.46,Paid
+1186,1186,Gift Card,4234.12,Paid
+1187,1187,UPI,11331.08,Paid
+1188,1188,Gift Card,7886.46,Paid
+1189,1189,Mastercard,5259.1,Paid
+1190,1190,Gift Card,9756.93,Paid
+1191,1191,Gift Card,9982.97,Paid
+1192,1192,Visa,6647.31,Paid
+1193,1193,Gift Card,1941.82,Refunded
+1194,1194,PayPal,9181.47,Paid
+1195,1195,Visa,7451.7,Refunded
+1196,1196,PayPal,374.51,Refunded
+1197,1197,UPI,3275.56,Refunded
+1198,1198,Visa,1185.81,Refunded
+1199,1199,Gift Card,7503.54,Refunded
+1200,1200,UPI,2121.72,Paid
+1201,1201,Gift Card,1361.47,Refunded
+1202,1202,Visa,14830.18,Paid
+1203,1203,PayPal,3697.96,Paid
+1204,1204,Visa,11882.77,Paid
+1205,1205,Mastercard,9703.48,Paid
+1206,1206,Visa,3765.76,Refunded
+1207,1207,PayPal,7274.38,Paid
+1208,1208,Visa,4781.8,Paid
+1209,1209,Visa,10216.31,Refunded
+1210,1210,PayPal,947.98,Paid
+1211,1211,Gift Card,6490.81,Paid
+1212,1212,Visa,12250.67,Paid
+1213,1213,PayPal,3906.04,Refunded
+1214,1214,PayPal,11636.77,Paid
+1215,1215,UPI,6037.12,Paid
+1216,1216,Visa,5915.79,Refunded
+1217,1217,Visa,2735.18,Refunded
+1218,1218,Mastercard,2655.46,Paid
+1219,1219,Visa,6316.31,Paid
+1220,1220,Mastercard,11702.1,Refunded
+1221,1221,Visa,4818.91,Paid
+1222,1222,PayPal,8904.48,Paid
+1223,1223,PayPal,17536.46,Paid
+1224,1224,Gift Card,13522.79,Refunded
+1225,1225,PayPal,11569.41,Paid
+1226,1226,Mastercard,1665.5,Paid
+1227,1227,Gift Card,10239.07,Paid
+1228,1228,Gift Card,1393.4,Refunded
+1229,1229,Visa,1877.02,Paid
+1230,1230,Mastercard,12416,Paid
+1231,1231,Gift Card,1283,Refunded
+1232,1232,Mastercard,11016.48,Refunded
+1233,1233,UPI,9681.55,Paid
+1234,1234,UPI,5132.12,Paid
+1235,1235,Mastercard,3753.19,Paid
+1236,1236,Mastercard,3661.92,Paid
+1237,1237,UPI,5308.01,Paid
+1238,1238,UPI,8201.07,Paid
+1239,1239,Visa,3310.91,Paid
+1240,1240,Mastercard,2276.49,Paid
+1241,1241,UPI,9206.07,Paid
+1242,1242,Gift Card,5711.55,Refunded
+1243,1243,PayPal,3171.24,Paid
+1244,1244,Visa,909.34,Refunded
+1245,1245,Mastercard,9660.14,Paid
+1246,1246,UPI,5268.52,Paid
+1247,1247,UPI,4612.85,Paid
+1248,1248,Visa,7639.64,Paid
+1249,1249,Gift Card,6139.52,Paid
+1250,1250,Visa,1419.1,Paid
+1251,1251,PayPal,8241.49,Paid
+1252,1252,Gift Card,11907.14,Paid
+1253,1253,Mastercard,10908.5,Refunded
+1254,1254,Visa,9415.31,Paid
+1255,1255,UPI,4623.09,Paid
+1256,1256,Gift Card,1306.36,Refunded
+1257,1257,PayPal,6346.19,Paid
+1258,1258,UPI,7090.51,Paid
+1259,1259,PayPal,7708.26,Refunded
+1260,1260,PayPal,9637.74,Paid
+1261,1261,Visa,17606.75,Paid
+1262,1262,Visa,13786.28,Paid
+1263,1263,UPI,3268.37,Paid
+1264,1264,UPI,7150.8,Paid
+1265,1265,Visa,5836.15,Paid
+1266,1266,Mastercard,8981.88,Paid
+1267,1267,PayPal,4673.51,Paid
+1268,1268,Visa,9049.92,Paid
+1269,1269,Mastercard,4565.62,Refunded
+1270,1270,PayPal,4798.71,Paid
+1271,1271,UPI,5147.64,Paid
+1272,1272,PayPal,8410.97,Paid
+1273,1273,Gift Card,441.28,Paid
+1274,1274,Gift Card,681.61,Paid
+1275,1275,PayPal,3646.26,Paid
+1276,1276,PayPal,3657.33,Refunded
+1277,1277,UPI,7468.38,Refunded
+1278,1278,Visa,13358.35,Paid
+1279,1279,Visa,2851.16,Paid
+1280,1280,PayPal,4245.57,Refunded
+1281,1281,UPI,2280.28,Paid
+1282,1282,PayPal,649.29,Refunded
+1283,1283,Gift Card,2363.96,Paid
+1284,1284,UPI,7122.19,Paid
+1285,1285,Visa,490.95,Paid
+1286,1286,PayPal,8452.22,Refunded
+1287,1287,Gift Card,2294.09,Paid
+1288,1288,Visa,858.14,Paid
+1289,1289,Visa,6614.22,Paid
+1290,1290,Gift Card,6864.76,Paid
+1291,1291,PayPal,1429.88,Paid
+1292,1292,Visa,2476.74,Paid
+1293,1293,Mastercard,4901.55,Paid
+1294,1294,Mastercard,5528.69,Refunded
+1295,1295,UPI,12835.9,Paid
+1296,1296,PayPal,7249.74,Paid
+1297,1297,Visa,3206.02,Paid
+1298,1298,PayPal,11736.45,Refunded
+1299,1299,Gift Card,1431.26,Paid
+1300,1300,Gift Card,5763.58,Refunded
+1301,1301,Mastercard,6752.69,Paid
+1302,1302,Mastercard,1267.9,Paid
+1303,1303,Gift Card,5927.76,Paid
+1304,1304,PayPal,3318.65,Refunded
+1305,1305,PayPal,11708.91,Paid
+1306,1306,Mastercard,7533.81,Paid
+1307,1307,Mastercard,1403.55,Paid
+1308,1308,PayPal,3251.84,Paid
+1309,1309,Gift Card,983.62,Paid
+1310,1310,Mastercard,6116.44,Paid
+1311,1311,UPI,1793.72,Paid
+1312,1312,Visa,5959.46,Paid
+1313,1313,Mastercard,481,Refunded
+1314,1314,UPI,6115.1,Paid
+1315,1315,Visa,9065.9,Refunded
+1316,1316,PayPal,1604.5,Paid
+1317,1317,UPI,7034.62,Paid
+1318,1318,PayPal,11781.5,Paid
+1319,1319,PayPal,3063.7,Paid
+1320,1320,UPI,6831.33,Paid
+1321,1321,UPI,10801.06,Paid
+1322,1322,Visa,10136.1,Paid
+1323,1323,UPI,8093.05,Paid
+1324,1324,PayPal,2794.93,Refunded
+1325,1325,UPI,13923.03,Paid
+1326,1326,Mastercard,8301.9,Refunded
+1327,1327,UPI,928.86,Paid
+1328,1328,Gift Card,17403.29,Paid
+1329,1329,Mastercard,2838.92,Paid
+1330,1330,Visa,11666.76,Paid
+1331,1331,UPI,11184.98,Paid
+1332,1332,Mastercard,790.2,Refunded
+1333,1333,Visa,5461.1,Refunded
+1334,1334,Visa,9677.74,Refunded
+1335,1335,PayPal,4144.57,Refunded
+1336,1336,Visa,3530.77,Paid
+1337,1337,Mastercard,9229.92,Paid
+1338,1338,PayPal,11056.08,Paid
+1339,1339,Gift Card,9532.9,Paid
+1340,1340,UPI,5148.62,Paid
+1341,1341,Gift Card,276.31,Paid
+1342,1342,PayPal,7994.69,Paid
+1343,1343,Visa,4494.03,Paid
+1344,1344,Visa,6242.21,Paid
+1345,1345,UPI,9830.78,Paid
+1346,1346,PayPal,9200.59,Paid
+1347,1347,PayPal,4581.7,Refunded
+1348,1348,Mastercard,1663.15,Refunded
+1349,1349,Mastercard,3640.56,Paid
+1350,1350,Visa,4639.03,Paid
+1351,1351,Visa,18198.26,Paid
+1352,1352,PayPal,7632.04,Refunded
+1353,1353,UPI,278.04,Paid
+1354,1354,PayPal,6083.46,Refunded
+1355,1355,PayPal,4016.2,Refunded
+1356,1356,Gift Card,5007.7,Paid
+1357,1357,PayPal,898.71,Paid
+1358,1358,Visa,11261.4,Paid
+1359,1359,Visa,9730.17,Refunded
+1360,1360,Visa,7657.26,Paid
+1361,1361,Gift Card,8478.44,Paid
+1362,1362,Gift Card,4007.18,Paid
+1363,1363,PayPal,11533.21,Paid
+1364,1364,UPI,1843.63,Paid
+1365,1365,Visa,14402.59,Paid
+1366,1366,UPI,13645.53,Refunded
+1367,1367,Gift Card,1559.14,Paid
+1368,1368,Gift Card,1345.76,Paid
+1369,1369,Mastercard,16619.77,Paid
+1370,1370,Mastercard,9357.64,Paid
+1371,1371,Gift Card,5957.46,Paid
+1372,1372,Mastercard,2518.96,Refunded
+1373,1373,UPI,7411.94,Paid
+1374,1374,Visa,396.01,Paid
+1375,1375,Mastercard,9336.97,Paid
+1376,1376,Visa,10750.94,Paid
+1377,1377,Mastercard,2285.65,Paid
+1378,1378,Visa,6307.9,Paid
+1379,1379,UPI,5780.53,Paid
+1380,1380,Visa,5990.23,Paid
+1381,1381,UPI,3754.31,Refunded
+1382,1382,Visa,3912.66,Paid
+1383,1383,Gift Card,1230.53,Paid
+1384,1384,Gift Card,3162.14,Paid
+1385,1385,Visa,10089.53,Refunded
+1386,1386,UPI,6863.53,Paid
+1387,1387,Mastercard,5871.68,Paid
+1388,1388,Gift Card,10142.29,Refunded
+1389,1389,UPI,6535.63,Paid
+1390,1390,Gift Card,6062.61,Paid
+1391,1391,Mastercard,566.99,Paid
+1392,1392,Gift Card,7221.73,Refunded
+1393,1393,Gift Card,7459.54,Paid
+1394,1394,Gift Card,3916.84,Paid
+1395,1395,Visa,11803.45,Paid
+1396,1396,PayPal,6273,Paid
+1397,1397,UPI,9090.15,Paid
+1398,1398,UPI,5092.9,Paid
+1399,1399,UPI,17648.42,Paid
+1400,1400,Visa,10114.1,Paid
+1401,1401,Mastercard,3830.53,Paid
+1402,1402,Mastercard,2072.28,Paid
+1403,1403,Visa,13024.46,Refunded
+1404,1404,Gift Card,600.36,Paid
+1405,1405,Visa,2868.95,Paid
+1406,1406,PayPal,3258.53,Paid
+1407,1407,UPI,5846.07,Paid
+1408,1408,Visa,4266.15,Paid
+1409,1409,PayPal,15695.32,Paid
+1410,1410,Mastercard,13591.41,Paid
+1411,1411,Gift Card,9726.45,Paid
+1412,1412,Visa,4436.15,Refunded
+1413,1413,Mastercard,11943.83,Paid
+1414,1414,UPI,6547.3,Paid
+1415,1415,UPI,3629.18,Paid
+1416,1416,Gift Card,3112.51,Paid
+1417,1417,Visa,11287.29,Paid
+1418,1418,UPI,289.42,Paid
+1419,1419,Mastercard,4708.1,Paid
+1420,1420,Visa,5323.61,Paid
+1421,1421,PayPal,1539.61,Paid
+1422,1422,Visa,4369.47,Paid
+1423,1423,Visa,2616.07,Paid
+1424,1424,UPI,4429.67,Paid
+1425,1425,Gift Card,1505.75,Refunded
+1426,1426,Mastercard,17232.1,Paid
+1427,1427,Gift Card,577.35,Refunded
+1428,1428,UPI,8237.08,Paid
+1429,1429,Visa,2481.82,Paid
+1430,1430,Visa,10919.31,Paid
+1431,1431,Visa,6135.44,Paid
+1432,1432,Mastercard,6930.35,Refunded
+1433,1433,Mastercard,2487.12,Paid
+1434,1434,Visa,13710.11,Refunded
+1435,1435,Visa,7474.05,Paid
+1436,1436,Gift Card,12977.46,Paid
+1437,1437,UPI,5689.84,Paid
+1438,1438,Gift Card,5330.17,Paid
+1439,1439,UPI,4688.41,Paid
+1440,1440,PayPal,2853.6,Paid
+1441,1441,Gift Card,4962.62,Paid
+1442,1442,Visa,2921.8,Refunded
+1443,1443,Visa,6805.62,Refunded
+1444,1444,Gift Card,4530.55,Paid
+1445,1445,UPI,1892.94,Paid
+1446,1446,Gift Card,5321.63,Refunded
+1447,1447,PayPal,12938.95,Refunded
+1448,1448,PayPal,14284.07,Refunded
+1449,1449,PayPal,4289.03,Paid
+1450,1450,PayPal,8968.1,Paid
+1451,1451,Gift Card,13462.34,Paid
+1452,1452,Gift Card,10186.51,Paid
+1453,1453,Gift Card,5011.16,Paid
+1454,1454,PayPal,11381.13,Paid
+1455,1455,Visa,5827.35,Paid
+1456,1456,UPI,1632.18,Paid
+1457,1457,PayPal,10933.89,Paid
+1458,1458,UPI,1609.43,Paid
+1459,1459,Mastercard,2167.19,Paid
+1460,1460,PayPal,4222.73,Paid
+1461,1461,Gift Card,11240.49,Paid
+1462,1462,Gift Card,9549.98,Paid
+1463,1463,PayPal,2498.41,Paid
+1464,1464,Mastercard,14858.18,Paid
+1465,1465,Mastercard,6366.52,Paid
+1466,1466,Gift Card,3244.03,Paid
+1467,1467,UPI,3153.1,Paid
+1468,1468,Gift Card,7638.22,Paid
+1469,1469,Gift Card,5954.1,Paid
+1470,1470,UPI,3578.64,Paid
+1471,1471,PayPal,7153.46,Refunded
+1472,1472,Gift Card,15196.17,Paid
+1473,1473,UPI,2342.71,Paid
+1474,1474,Gift Card,8333.15,Paid
+1475,1475,PayPal,12705.3,Paid
+1476,1476,UPI,3631.35,Paid
+1477,1477,Mastercard,10509.83,Paid
+1478,1478,UPI,4828.8,Refunded
+1479,1479,Gift Card,2445.52,Refunded
+1480,1480,Gift Card,12811.4,Paid
+1481,1481,Gift Card,6105.88,Paid
+1482,1482,PayPal,2207.74,Paid
+1483,1483,Visa,2454.54,Paid
+1484,1484,Visa,2868.21,Paid
+1485,1485,Visa,2841.98,Refunded
+1486,1486,Mastercard,10293.29,Refunded
+1487,1487,Gift Card,4972.33,Paid
+1488,1488,Visa,13466.08,Paid
+1489,1489,Gift Card,8179.28,Paid
+1490,1490,Mastercard,5586.4,Paid
+1491,1491,Gift Card,5646.09,Paid
+1492,1492,Mastercard,3129.8,Paid
+1493,1493,Gift Card,3181.42,Paid
+1494,1494,Mastercard,2880.98,Paid
+1495,1495,Gift Card,10205.43,Refunded
+1496,1496,PayPal,5465.16,Refunded
+1497,1497,Mastercard,9779.35,Paid
+1498,1498,PayPal,872.63,Paid
+1499,1499,Gift Card,1131.64,Paid
+1500,1500,PayPal,12052.85,Paid
+1501,1501,Mastercard,5460.44,Paid
+1502,1502,Visa,962.25,Refunded
+1503,1503,UPI,9592.76,Refunded
+1504,1504,Visa,17032.27,Paid
+1505,1505,UPI,4001.88,Refunded
+1506,1506,Mastercard,8028.4,Paid
+1507,1507,Gift Card,880.19,Paid
+1508,1508,UPI,6332.27,Paid
+1509,1509,Gift Card,7388.18,Refunded
+1510,1510,Mastercard,4956.81,Refunded
+1511,1511,Mastercard,2722.12,Refunded
+1512,1512,Gift Card,3364.84,Refunded
+1513,1513,Visa,12310.48,Paid
+1514,1514,UPI,361.14,Paid
+1515,1515,Gift Card,8903.66,Refunded
+1516,1516,UPI,13448.54,Paid
+1517,1517,PayPal,5049.55,Paid
+1518,1518,UPI,6753.77,Paid
+1519,1519,Gift Card,6600.86,Paid
+1520,1520,PayPal,826.18,Paid
+1521,1521,UPI,6641.22,Paid
+1522,1522,Visa,11247.81,Paid
+1523,1523,Mastercard,8035.61,Paid
+1524,1524,PayPal,3211.98,Paid
+1525,1525,Mastercard,4280.13,Refunded
+1526,1526,UPI,726.59,Paid
+1527,1527,PayPal,5606.41,Paid
+1528,1528,Gift Card,12015.75,Paid
+1529,1529,PayPal,5945.63,Paid
+1530,1530,Gift Card,1346.1,Paid
+1531,1531,Mastercard,2427.17,Paid
+1532,1532,UPI,989.04,Paid
+1533,1533,UPI,5014.18,Paid
+1534,1534,Gift Card,899.76,Paid
+1535,1535,PayPal,5307.25,Paid
+1536,1536,PayPal,5054.8,Refunded
+1537,1537,Visa,7753.58,Paid
+1538,1538,UPI,8852.86,Paid
+1539,1539,Mastercard,5908.68,Paid
+1540,1540,PayPal,7329.08,Paid
+1541,1541,Visa,1835.86,Paid
+1542,1542,UPI,390.71,Paid
+1543,1543,PayPal,5843.35,Paid
+1544,1544,PayPal,13660.97,Paid
+1545,1545,Visa,127.18,Paid
+1546,1546,UPI,1924.52,Paid
+1547,1547,Visa,9658.39,Refunded
+1548,1548,PayPal,13690.14,Paid
+1549,1549,PayPal,5747.72,Paid
+1550,1550,Mastercard,9575.12,Paid
+1551,1551,UPI,4601.58,Paid
+1552,1552,Visa,93.6,Paid
+1553,1553,Visa,6014.87,Paid
+1554,1554,UPI,2086.81,Paid
+1555,1555,Visa,3109.75,Paid
+1556,1556,Mastercard,8837.05,Refunded
+1557,1557,Mastercard,11979.32,Paid
+1558,1558,Mastercard,8204.48,Refunded
+1559,1559,UPI,13313.39,Paid
+1560,1560,UPI,18111.86,Paid
+1561,1561,UPI,6715.25,Paid
+1562,1562,Mastercard,10679.23,Paid
+1563,1563,Gift Card,489.87,Paid
+1564,1564,Gift Card,10048.01,Refunded
+1565,1565,Visa,7783.69,Refunded
+1566,1566,UPI,3443.87,Paid
+1567,1567,Visa,214.8,Paid
+1568,1568,Gift Card,2119.28,Paid
+1569,1569,Mastercard,5513.25,Refunded
+1570,1570,UPI,12888.72,Refunded
+1571,1571,UPI,1129.66,Paid
+1572,1572,PayPal,1419.08,Refunded
+1573,1573,Mastercard,3392.02,Paid
+1574,1574,Gift Card,10559.29,Paid
+1575,1575,UPI,2119.08,Paid
+1576,1576,Gift Card,8546.3,Paid
+1577,1577,Mastercard,4861.8,Paid
+1578,1578,Visa,7808.75,Paid
+1579,1579,PayPal,1408.19,Paid
+1580,1580,UPI,1282.12,Paid
+1581,1581,Gift Card,15916.49,Paid
+1582,1582,UPI,11385.07,Paid
+1583,1583,Gift Card,8171.75,Refunded
+1584,1584,UPI,5015.45,Paid
+1585,1585,Visa,407.56,Refunded
+1586,1586,Mastercard,2407.43,Paid
+1587,1587,Mastercard,4690.65,Refunded
+1588,1588,UPI,9453.22,Paid
+1589,1589,Visa,1210.17,Paid
+1590,1590,Mastercard,2112.2,Refunded
+1591,1591,Mastercard,3811.17,Refunded
+1592,1592,Gift Card,4192.01,Refunded
+1593,1593,UPI,12587.02,Paid
+1594,1594,Visa,14354.69,Paid
+1595,1595,Visa,13457.06,Refunded
+1596,1596,PayPal,10995.56,Refunded
+1597,1597,Gift Card,410.34,Paid
+1598,1598,Gift Card,15456.8,Paid
+1599,1599,Gift Card,6630.07,Paid
+1600,1600,Mastercard,8538.12,Paid
+1601,1601,UPI,9867.13,Paid
+1602,1602,PayPal,12158.52,Paid
+1603,1603,UPI,6386.33,Paid
+1604,1604,Visa,2587.44,Paid
+1605,1605,PayPal,8545.59,Paid
+1606,1606,UPI,6665.11,Refunded
+1607,1607,Visa,11287.13,Refunded
+1608,1608,Mastercard,8154.01,Paid
+1609,1609,Gift Card,11570.15,Paid
+1610,1610,PayPal,3211.31,Paid
+1611,1611,UPI,2332.78,Refunded
+1612,1612,Gift Card,2848.74,Paid
+1613,1613,UPI,10477.07,Paid
+1614,1614,PayPal,1407.65,Paid
+1615,1615,Visa,13281.14,Paid
+1616,1616,PayPal,7324.59,Paid
+1617,1617,Mastercard,2306.09,Paid
+1618,1618,Mastercard,2090.25,Paid
+1619,1619,Gift Card,1192.31,Paid
+1620,1620,Visa,15163.25,Paid
+1621,1621,Visa,7612.45,Paid
+1622,1622,Mastercard,2531.22,Paid
+1623,1623,Visa,8058.22,Refunded
+1624,1624,Mastercard,2374.23,Paid
+1625,1625,PayPal,4283.17,Refunded
+1626,1626,Visa,221.59,Paid
+1627,1627,PayPal,3919.7,Paid
+1628,1628,UPI,7029.65,Refunded
+1629,1629,UPI,2064.51,Refunded
+1630,1630,PayPal,4835.23,Refunded
+1631,1631,Mastercard,3453.22,Paid
+1632,1632,Visa,3219.22,Paid
+1633,1633,UPI,14800.24,Paid
+1634,1634,Mastercard,9316.56,Paid
+1635,1635,UPI,2394.33,Refunded
+1636,1636,Mastercard,13260.22,Paid
+1637,1637,Visa,7772.86,Refunded
+1638,1638,Gift Card,2078.28,Paid
+1639,1639,UPI,7019.21,Paid
+1640,1640,UPI,3550.35,Paid
+1641,1641,PayPal,14447.25,Paid
+1642,1642,Gift Card,9977.34,Paid
+1643,1643,Visa,12704.75,Paid
+1644,1644,Visa,6803.68,Paid
+1645,1645,Visa,14198.73,Paid
+1646,1646,Visa,248.72,Paid
+1647,1647,Visa,4629.41,Paid
+1648,1648,PayPal,11848.17,Paid
+1649,1649,Visa,5437.63,Paid
+1650,1650,Mastercard,5378.9,Refunded
+1651,1651,Mastercard,12598.48,Paid
+1652,1652,Visa,1520.6,Paid
+1653,1653,Gift Card,10141.24,Paid
+1654,1654,Visa,8889.77,Refunded
+1655,1655,Mastercard,10234.79,Paid
+1656,1656,Gift Card,9925.86,Paid
+1657,1657,PayPal,10376.95,Paid
+1658,1658,Gift Card,6512.83,Paid
+1659,1659,UPI,1239.27,Refunded
+1660,1660,UPI,7354.23,Refunded
+1661,1661,PayPal,9313.99,Refunded
+1662,1662,UPI,4516.53,Refunded
+1663,1663,Gift Card,4802.37,Paid
+1664,1664,PayPal,1605.95,Paid
+1665,1665,Visa,1949.34,Paid
+1666,1666,Mastercard,1393.28,Paid
+1667,1667,Gift Card,433.29,Paid
+1668,1668,PayPal,11606.22,Paid
+1669,1669,PayPal,12994.17,Paid
+1670,1670,Gift Card,4883.67,Paid
+1671,1671,Mastercard,1561.81,Paid
+1672,1672,Visa,4908.23,Paid
+1673,1673,Mastercard,6077.5,Paid
+1674,1674,Mastercard,12041.74,Paid
+1675,1675,Visa,8735.02,Paid
+1676,1676,Gift Card,2495.99,Paid
+1677,1677,Gift Card,3527.59,Paid
+1678,1678,Visa,2821.42,Paid
+1679,1679,Gift Card,3837.4,Paid
+1680,1680,Mastercard,6964.39,Refunded
+1681,1681,UPI,10133.36,Paid
+1682,1682,PayPal,603.6,Paid
+1683,1683,Mastercard,4538.04,Paid
+1684,1684,UPI,5317.47,Paid
+1685,1685,Gift Card,13267.26,Refunded
+1686,1686,PayPal,11014.21,Paid
+1687,1687,Gift Card,7652.38,Refunded
+1688,1688,PayPal,9523.61,Paid
+1689,1689,Visa,7654.97,Refunded
+1690,1690,Mastercard,1539.52,Paid
+1691,1691,Visa,7336.6,Paid
+1692,1692,Mastercard,1185,Paid
+1693,1693,Visa,8463.36,Paid
+1694,1694,UPI,1906.82,Paid
+1695,1695,UPI,5714.49,Paid
+1696,1696,UPI,3233.91,Paid
+1697,1697,Visa,6832.01,Paid
+1698,1698,PayPal,2654.82,Paid
+1699,1699,Mastercard,451.65,Paid
+1700,1700,Mastercard,5512.9,Refunded
+1701,1701,Visa,2501.37,Paid
+1702,1702,Gift Card,597.11,Refunded
+1703,1703,PayPal,5782.65,Paid
+1704,1704,UPI,2078.93,Paid
+1705,1705,Mastercard,6901.43,Paid
+1706,1706,PayPal,10688.96,Paid
+1707,1707,Mastercard,10051.29,Paid
+1708,1708,Mastercard,19265.53,Paid
+1709,1709,Mastercard,9332.01,Paid
+1710,1710,Gift Card,8045.21,Paid
+1711,1711,Mastercard,6120.47,Refunded
+1712,1712,UPI,9071.78,Refunded
+1713,1713,PayPal,7494.67,Refunded
+1714,1714,PayPal,3614.53,Paid
+1715,1715,UPI,873.71,Paid
+1716,1716,Mastercard,9461.57,Refunded
+1717,1717,Visa,3113.87,Paid
+1718,1718,Gift Card,5607.09,Paid
+1719,1719,Visa,4310.78,Paid
+1720,1720,Mastercard,10256.23,Refunded
+1721,1721,PayPal,434.14,Refunded
+1722,1722,Mastercard,7652.87,Paid
+1723,1723,PayPal,10412.62,Paid
+1724,1724,PayPal,11960.43,Paid
+1725,1725,UPI,4048.87,Paid
+1726,1726,Visa,11729.36,Refunded
+1727,1727,Visa,6501.52,Refunded
+1728,1728,Visa,10630.74,Refunded
+1729,1729,Mastercard,1966.65,Paid
+1730,1730,Mastercard,6603.39,Paid
+1731,1731,Mastercard,8111.2,Paid
+1732,1732,PayPal,11645.16,Paid
+1733,1733,PayPal,8197.13,Paid
+1734,1734,Gift Card,5578.62,Refunded
+1735,1735,UPI,10202.04,Paid
+1736,1736,UPI,10181.16,Paid
+1737,1737,Mastercard,10565.39,Paid
+1738,1738,Mastercard,3103.54,Paid
+1739,1739,Mastercard,8100.93,Paid
+1740,1740,Visa,6208.82,Paid
+1741,1741,UPI,8485.64,Paid
+1742,1742,Gift Card,4428.5,Paid
+1743,1743,Visa,5497.96,Paid
+1744,1744,Mastercard,10940.18,Paid
+1745,1745,Gift Card,1426.17,Paid
+1746,1746,UPI,5705.06,Paid
+1747,1747,UPI,7641.95,Paid
+1748,1748,PayPal,8926.55,Paid
+1749,1749,Mastercard,9723.47,Paid
+1750,1750,Gift Card,16931.62,Paid
+1751,1751,Gift Card,9214.48,Paid
+1752,1752,UPI,6215.55,Paid
+1753,1753,UPI,17437.71,Paid
+1754,1754,PayPal,17122.3,Paid
+1755,1755,Mastercard,6612.07,Paid
+1756,1756,Mastercard,4934.81,Paid
+1757,1757,Visa,11209.28,Paid
+1758,1758,PayPal,3541.61,Paid
+1759,1759,Mastercard,3698.9,Paid
+1760,1760,Mastercard,13672.62,Refunded
+1761,1761,UPI,1090.57,Paid
+1762,1762,Visa,4062.31,Paid
+1763,1763,Mastercard,2975.19,Paid
+1764,1764,Visa,1000.06,Refunded
+1765,1765,Gift Card,8216.81,Paid
+1766,1766,UPI,5425.75,Paid
+1767,1767,Mastercard,6017.1,Refunded
+1768,1768,PayPal,17146.72,Paid
+1769,1769,Visa,7342.37,Paid
+1770,1770,Visa,4548.9,Paid
+1771,1771,Visa,1534.87,Paid
+1772,1772,UPI,7719.94,Paid
+1773,1773,Visa,361.14,Refunded
+1774,1774,UPI,11377.39,Paid
+1775,1775,Visa,2800.82,Paid
+1776,1776,PayPal,9099.12,Refunded
+1777,1777,Visa,13353.42,Paid
+1778,1778,Mastercard,719.24,Paid
+1779,1779,PayPal,10122.04,Refunded
+1780,1780,PayPal,4635.67,Paid
+1781,1781,Mastercard,5777.99,Paid
+1782,1782,Gift Card,5237.95,Paid
+1783,1783,Mastercard,4129.02,Paid
+1784,1784,Visa,4684.26,Paid
+1785,1785,Gift Card,3456.39,Paid
+1786,1786,UPI,7476.55,Paid
+1787,1787,Mastercard,5483.87,Refunded
+1788,1788,PayPal,3568.28,Paid
+1789,1789,Visa,5930.77,Paid
+1790,1790,Visa,443.36,Paid
+1791,1791,Mastercard,3725.06,Paid
+1792,1792,PayPal,10823.4,Paid
+1793,1793,UPI,6974.99,Paid
+1794,1794,Gift Card,3223.86,Refunded
+1795,1795,Visa,2569.08,Paid
+1796,1796,UPI,10270.79,Refunded
+1797,1797,Mastercard,8367.26,Paid
+1798,1798,UPI,7817.73,Paid
+1799,1799,Mastercard,2555.11,Paid
+1800,1800,PayPal,7479.59,Paid
+1801,1801,Visa,5565.2,Refunded
+1802,1802,PayPal,943.88,Paid
+1803,1803,Mastercard,1129.76,Paid
+1804,1804,UPI,3456.02,Refunded
+1805,1805,Visa,747.34,Paid
+1806,1806,Gift Card,2267.3,Refunded
+1807,1807,PayPal,5190.22,Paid
+1808,1808,Gift Card,7156.98,Refunded
+1809,1809,UPI,5123,Paid
+1810,1810,PayPal,3969.82,Refunded
+1811,1811,UPI,2263.77,Paid
+1812,1812,PayPal,7230.19,Refunded
+1813,1813,Mastercard,4658.74,Paid
+1814,1814,PayPal,5122.67,Paid
+1815,1815,Gift Card,2543.73,Paid
+1816,1816,Visa,2144.43,Paid
+1817,1817,Visa,6517.81,Paid
+1818,1818,Gift Card,4149.32,Paid
+1819,1819,UPI,5235.78,Refunded
+1820,1820,Mastercard,4908.23,Paid
+1821,1821,Gift Card,7841.19,Paid
+1822,1822,Mastercard,1350.08,Paid
+1823,1823,Gift Card,746.3,Paid
+1824,1824,Mastercard,10138.57,Paid
+1825,1825,Mastercard,15062.82,Paid
+1826,1826,Mastercard,11962.42,Paid
+1827,1827,Gift Card,14712.17,Paid
+1828,1828,PayPal,9410.82,Paid
+1829,1829,Mastercard,12592.49,Paid
+1830,1830,Visa,11858.74,Refunded
+1831,1831,Gift Card,5505.37,Paid
+1832,1832,Mastercard,7636.49,Refunded
+1833,1833,Mastercard,4096.79,Refunded
+1834,1834,UPI,5848.18,Paid
+1835,1835,PayPal,4349.08,Paid
+1836,1836,Gift Card,7588.83,Paid
+1837,1837,Mastercard,5821.33,Paid
+1838,1838,PayPal,12023.09,Refunded
+1839,1839,Gift Card,537.27,Refunded
+1840,1840,Visa,6432.63,Refunded
+1841,1841,Mastercard,9256.76,Paid
+1842,1842,UPI,7339.97,Paid
+1843,1843,UPI,3080.74,Refunded
+1844,1844,Gift Card,1329.67,Paid
+1845,1845,Visa,3322.87,Paid
+1846,1846,UPI,13641.52,Paid
+1847,1847,Gift Card,4076.11,Paid
+1848,1848,Mastercard,6476.05,Paid
+1849,1849,PayPal,11969.09,Paid
+1850,1850,Mastercard,1123.44,Paid
+1851,1851,Gift Card,6359.56,Paid
+1852,1852,PayPal,7237.57,Paid
+1853,1853,UPI,5151.64,Paid
+1854,1854,Gift Card,2825.57,Paid
+1855,1855,Gift Card,10926.58,Paid
+1856,1856,UPI,7922.75,Paid
+1857,1857,PayPal,6775.59,Paid
+1858,1858,Gift Card,14431.37,Paid
+1859,1859,Gift Card,10548.02,Paid
+1860,1860,Mastercard,5108.23,Paid
+1861,1861,Gift Card,892.07,Paid
+1862,1862,Gift Card,2751.57,Paid
+1863,1863,PayPal,5933.99,Paid
+1864,1864,Gift Card,6176.24,Refunded
+1865,1865,Mastercard,3056.98,Refunded
+1866,1866,Mastercard,14692.6,Paid
+1867,1867,PayPal,2166.46,Paid
+1868,1868,Gift Card,1552.12,Paid
+1869,1869,Mastercard,1239.27,Paid
+1870,1870,UPI,6816.89,Paid
+1871,1871,Visa,7605.03,Paid
+1872,1872,Visa,10919.14,Paid
+1873,1873,Mastercard,2796.48,Refunded
+1874,1874,Gift Card,4909.32,Refunded
+1875,1875,Mastercard,14807.74,Refunded
+1876,1876,UPI,10078.76,Paid
+1877,1877,UPI,11918.47,Paid
+1878,1878,Visa,5422.5,Paid
+1879,1879,Mastercard,386.83,Paid
+1880,1880,Mastercard,6605.07,Paid
+1881,1881,Visa,10503.41,Paid
+1882,1882,Gift Card,2587.26,Paid
+1883,1883,Visa,15007.94,Paid
+1884,1884,PayPal,1763.38,Paid
+1885,1885,UPI,3170.08,Refunded
+1886,1886,Visa,3164.78,Paid
+1887,1887,UPI,7848.14,Paid
+1888,1888,Visa,3516.66,Refunded
+1889,1889,Visa,2023.63,Paid
+1890,1890,Mastercard,5420.68,Paid
+1891,1891,UPI,3140.48,Paid
+1892,1892,UPI,15784.99,Refunded
+1893,1893,UPI,2357.39,Paid
+1894,1894,Mastercard,1923.85,Paid
+1895,1895,Visa,3087.88,Paid
+1896,1896,Mastercard,6413.71,Paid
+1897,1897,UPI,4171.65,Paid
+1898,1898,Mastercard,7152.16,Paid
+1899,1899,Visa,264.35,Paid
+1900,1900,Mastercard,2284.59,Paid
+1901,1901,Mastercard,4635.05,Paid
+1902,1902,UPI,10012.92,Paid
+1903,1903,Mastercard,6698.41,Paid
+1904,1904,Visa,5751.37,Paid
+1905,1905,Visa,5810.37,Paid
+1906,1906,PayPal,1403.55,Paid
+1907,1907,Gift Card,1840.62,Paid
+1908,1908,Visa,14768.57,Paid
+1909,1909,PayPal,2176.14,Paid
+1910,1910,Mastercard,2651.12,Paid
+1911,1911,PayPal,2895.67,Paid
+1912,1912,UPI,2192.16,Paid
+1913,1913,Visa,3486.43,Refunded
+1914,1914,Visa,6861.75,Paid
+1915,1915,Visa,9558.64,Paid
+1916,1916,PayPal,1576.78,Paid
+1917,1917,PayPal,11045.24,Paid
+1918,1918,PayPal,5224.4,Paid
+1919,1919,Gift Card,5038.8,Paid
+1920,1920,PayPal,6292.26,Paid
+1921,1921,UPI,4062.57,Paid
+1922,1922,Gift Card,8910.13,Paid
+1923,1923,Mastercard,8164.07,Paid
+1924,1924,Gift Card,8598.61,Paid
+1925,1925,Mastercard,6180,Paid
+1926,1926,PayPal,2921.98,Paid
+1927,1927,Visa,496.53,Paid
+1928,1928,Visa,9170.83,Paid
+1929,1929,Mastercard,3383.64,Paid
+1930,1930,Gift Card,7452.16,Paid
+1931,1931,UPI,1237.35,Paid
+1932,1932,PayPal,6562.13,Refunded
+1933,1933,PayPal,4218.87,Paid
+1934,1934,UPI,5679.89,Paid
+1935,1935,Gift Card,11766.78,Refunded
+1936,1936,Visa,5230.45,Paid
+1937,1937,Visa,3021.8,Paid
+1938,1938,Gift Card,12212.48,Paid
+1939,1939,Gift Card,1803.92,Paid
+1940,1940,Mastercard,3029.89,Refunded
+1941,1941,Gift Card,5277.79,Paid
+1942,1942,Gift Card,7668.42,Paid
+1943,1943,UPI,16336.46,Paid
+1944,1944,Mastercard,8702.26,Paid
+1945,1945,Mastercard,9073.07,Refunded
+1946,1946,Mastercard,5428.1,Paid
+1947,1947,UPI,2807.09,Paid
+1948,1948,Mastercard,14435.15,Paid
+1949,1949,UPI,7929.29,Paid
+1950,1950,PayPal,10371.57,Paid
+1951,1951,Mastercard,102.59,Paid
+1952,1952,PayPal,6854.86,Paid
+1953,1953,Visa,3755.78,Refunded
+1954,1954,Mastercard,444.25,Refunded
+1955,1955,Gift Card,6431.18,Refunded
+1956,1956,Mastercard,5876.26,Paid
+1957,1957,Mastercard,15590.18,Paid
+1958,1958,Gift Card,5354.13,Refunded
+1959,1959,Gift Card,1173.95,Paid
+1960,1960,Mastercard,6499.34,Paid
+1961,1961,PayPal,16400.04,Paid
+1962,1962,UPI,6519.83,Refunded
+1963,1963,Mastercard,10512.1,Refunded
+1964,1964,Visa,3543.93,Paid
+1965,1965,UPI,7554.71,Paid
+1966,1966,Visa,13310.3,Paid
+1967,1967,UPI,3603.23,Paid
+1968,1968,PayPal,2364.75,Paid
+1969,1969,Gift Card,3956.41,Paid
+1970,1970,PayPal,7048.94,Paid
+1971,1971,Gift Card,7420.12,Paid
+1972,1972,PayPal,2580.09,Paid
+1973,1973,PayPal,7275.71,Paid
+1974,1974,Visa,2018.49,Paid
+1975,1975,UPI,5963.07,Paid
+1976,1976,Gift Card,4339.34,Paid
+1977,1977,UPI,2156.37,Paid
+1978,1978,Mastercard,4860.9,Paid
+1979,1979,PayPal,6798.94,Paid
+1980,1980,PayPal,2008.55,Paid
+1981,1981,Visa,8838.18,Refunded
+1982,1982,UPI,2991.23,Refunded
+1983,1983,Gift Card,12242.15,Paid
+1984,1984,PayPal,10241.79,Paid
+1985,1985,PayPal,12784.09,Paid
+1986,1986,Mastercard,5994,Paid
+1987,1987,Visa,5563.16,Refunded
+1988,1988,Gift Card,12881.02,Refunded
+1989,1989,Visa,11225.36,Refunded
+1990,1990,Visa,6457.69,Paid
+1991,1991,PayPal,3583.13,Refunded
+1992,1992,UPI,2213.21,Paid
+1993,1993,UPI,5799.85,Paid
+1994,1994,Mastercard,818.4,Paid
+1995,1995,Mastercard,5741.66,Refunded
+1996,1996,PayPal,1063.35,Paid
+1997,1997,PayPal,5944.36,Paid
+1998,1998,PayPal,10043.67,Refunded
+1999,1999,Gift Card,2852,Refunded
+2000,2000,Mastercard,8442.41,Refunded
+2001,2001,Mastercard,653.03,Refunded
+2002,2002,PayPal,3725.94,Paid
+2003,2003,PayPal,6915.47,Paid
+2004,2004,Visa,13824.09,Paid
+2005,2005,Visa,1688.49,Refunded
+2006,2006,Gift Card,8998.46,Paid
+2007,2007,Gift Card,9620.32,Paid
+2008,2008,Mastercard,6561.73,Paid
+2009,2009,Gift Card,6743.3,Paid
+2010,2010,Gift Card,7403.96,Refunded
+2011,2011,PayPal,7162.06,Paid
+2012,2012,Mastercard,1304.82,Refunded
+2013,2013,Mastercard,7526.45,Paid
+2014,2014,PayPal,11494.89,Paid
+2015,2015,Gift Card,5597.47,Refunded
+2016,2016,Mastercard,11653.16,Paid
+2017,2017,UPI,7226.02,Paid
+2018,2018,Visa,7181.93,Refunded
+2019,2019,Visa,312.97,Refunded
+2020,2020,UPI,9360.92,Paid
+2021,2021,PayPal,5153.77,Paid
+2022,2022,UPI,12149.33,Paid
+2023,2023,Gift Card,10265.87,Paid
+2024,2024,Visa,1619.01,Paid
+2025,2025,Gift Card,6850.5,Paid
+2026,2026,Gift Card,2767.35,Paid
+2027,2027,Mastercard,3590.74,Paid
+2028,2028,UPI,4758.85,Refunded
+2029,2029,Visa,10091.39,Refunded
+2030,2030,Gift Card,1101.58,Paid
+2031,2031,UPI,8340.4,Refunded
+2032,2032,Visa,2641.62,Paid
+2033,2033,PayPal,5010.93,Paid
+2034,2034,Mastercard,4432.07,Paid
+2035,2035,Visa,6330.47,Paid
+2036,2036,UPI,10974.5,Paid
+2037,2037,UPI,6379.75,Refunded
+2038,2038,UPI,11354.53,Paid
+2039,2039,Visa,1002.23,Paid
+2040,2040,UPI,1625.16,Refunded
+2041,2041,Gift Card,9447.91,Paid
+2042,2042,Mastercard,8905.07,Paid
+2043,2043,Gift Card,6679.2,Paid
+2044,2044,UPI,2940.89,Paid
+2045,2045,UPI,1236.07,Paid
+2046,2046,Mastercard,5035.18,Paid
+2047,2047,Gift Card,2054.55,Paid
+2048,2048,Visa,9113.76,Paid
+2049,2049,PayPal,8319.82,Paid
+2050,2050,Mastercard,3554.02,Refunded
+2051,2051,PayPal,1053.84,Refunded
+2052,2052,UPI,3816.15,Paid
+2053,2053,PayPal,8029.44,Paid
+2054,2054,Mastercard,1715.66,Refunded
+2055,2055,Visa,8711.14,Paid
+2056,2056,UPI,6650.56,Refunded
+2057,2057,Visa,4287.62,Paid
+2058,2058,Mastercard,4317.31,Refunded
+2059,2059,PayPal,20069.3,Paid
+2060,2060,UPI,2290.52,Paid
+2061,2061,Mastercard,9325.81,Paid
+2062,2062,Mastercard,1956.6,Paid
+2063,2063,Mastercard,11876.91,Refunded
+2064,2064,Gift Card,15406.7,Paid
+2065,2065,Visa,14990.65,Paid
+2066,2066,Mastercard,9322.5,Paid
+2067,2067,UPI,10369.41,Paid
+2068,2068,Gift Card,2588.86,Refunded
+2069,2069,PayPal,9085.12,Refunded
+2070,2070,Mastercard,58.3,Refunded
+2071,2071,Gift Card,12405.16,Paid
+2072,2072,Visa,472.76,Refunded
+2073,2073,Gift Card,15176.71,Paid
+2074,2074,Mastercard,13947.86,Paid
+2075,2075,Mastercard,9291.93,Paid
+2076,2076,UPI,7686.48,Paid
+2077,2077,Gift Card,3595.4,Paid
+2078,2078,Mastercard,12355.78,Paid
+2079,2079,Visa,9829.85,Paid
+2080,2080,Mastercard,9195.9,Paid
+2081,2081,PayPal,2730.11,Paid
+2082,2082,PayPal,9509.81,Refunded
+2083,2083,Mastercard,10113.63,Refunded
+2084,2084,UPI,1651.84,Refunded
+2085,2085,UPI,2886.03,Paid
+2086,2086,Mastercard,8202.94,Refunded
+2087,2087,Gift Card,3123.11,Paid
+2088,2088,UPI,3309.94,Paid
+2089,2089,PayPal,13201.21,Paid
+2090,2090,Mastercard,11761.68,Paid
+2091,2091,PayPal,599.46,Paid
+2092,2092,Visa,3890.81,Paid
+2093,2093,Gift Card,1270.49,Paid
+2094,2094,Visa,9910.18,Paid
+2095,2095,PayPal,4368.48,Paid
+2096,2096,PayPal,8136.17,Paid
+2097,2097,UPI,3946.71,Paid
+2098,2098,PayPal,8990.91,Paid
+2099,2099,PayPal,9353.2,Paid
+2100,2100,Visa,2772.5,Paid
+2101,2101,Gift Card,2342.7,Paid
+2102,2102,Gift Card,4875.54,Paid
+2103,2103,Gift Card,8609.23,Paid
+2104,2104,UPI,5758.85,Paid
+2105,2105,PayPal,5689.1,Paid
+2106,2106,Mastercard,8379.63,Refunded
+2107,2107,Mastercard,5804.54,Paid
+2108,2108,PayPal,2033.23,Paid
+2109,2109,UPI,1454.09,Refunded
+2110,2110,Visa,3546.03,Paid
+2111,2111,Mastercard,4544.82,Paid
+2112,2112,Gift Card,2119.51,Refunded
+2113,2113,Gift Card,12651.86,Refunded
+2114,2114,PayPal,1472.83,Paid
+2115,2115,UPI,21159.19,Paid
+2116,2116,Visa,16773.52,Refunded
+2117,2117,Visa,5572.89,Paid
+2118,2118,UPI,3774.78,Paid
+2119,2119,Gift Card,6883.94,Paid
+2120,2120,Mastercard,12751.81,Paid
+2121,2121,PayPal,5455.42,Paid
+2122,2122,Gift Card,5478.51,Paid
+2123,2123,UPI,3936,Paid
+2124,2124,PayPal,658.03,Paid
+2125,2125,Gift Card,4319.09,Refunded
+2126,2126,UPI,9243.78,Paid
+2127,2127,Visa,1423.39,Paid
+2128,2128,Mastercard,2876.3,Paid
+2129,2129,Mastercard,15566.24,Paid
+2130,2130,Visa,512.23,Paid
+2131,2131,Mastercard,4759.88,Paid
+2132,2132,Mastercard,1526.44,Paid
+2133,2133,Mastercard,1252.13,Paid
+2134,2134,Visa,8848.88,Refunded
+2135,2135,Mastercard,1863.52,Paid
+2136,2136,Visa,9589.86,Paid
+2137,2137,UPI,7486.64,Refunded
+2138,2138,UPI,11821.25,Paid
+2139,2139,PayPal,3647.4,Paid
+2140,2140,Visa,6120.67,Paid
+2141,2141,Visa,7508.55,Paid
+2142,2142,PayPal,10144.61,Paid
+2143,2143,UPI,7610.42,Paid
+2144,2144,UPI,4224.88,Refunded
+2145,2145,Gift Card,15153.03,Paid
+2146,2146,Mastercard,18696.83,Paid
+2147,2147,UPI,7041.94,Paid
+2148,2148,PayPal,5960.76,Refunded
+2149,2149,Visa,3023.86,Paid
+2150,2150,UPI,5182.4,Paid
+2151,2151,Gift Card,14151.4,Paid
+2152,2152,UPI,5694.39,Paid
+2153,2153,Mastercard,889.51,Paid
+2154,2154,PayPal,809.92,Paid
+2155,2155,Gift Card,3228.95,Refunded
+2156,2156,Visa,11062.21,Paid
+2157,2157,UPI,7234.97,Paid
+2158,2158,PayPal,2374.89,Paid
+2159,2159,Mastercard,786.23,Refunded
+2160,2160,Mastercard,4498.17,Paid
+2161,2161,PayPal,4237.34,Refunded
+2162,2162,Mastercard,2874.6,Paid
+2163,2163,UPI,3935.68,Paid
+2164,2164,Visa,12132.89,Paid
+2165,2165,PayPal,7363.41,Paid
+2166,2166,Gift Card,9327.53,Refunded
+2167,2167,Gift Card,2223.43,Paid
+2168,2168,Gift Card,5993.86,Paid
+2169,2169,PayPal,12764.48,Paid
+2170,2170,PayPal,18013.49,Paid
+2171,2171,PayPal,5910.03,Paid
+2172,2172,UPI,8096.77,Paid
+2173,2173,UPI,1999.1,Paid
+2174,2174,PayPal,7617.69,Paid
+2175,2175,Mastercard,2948.69,Paid
+2176,2176,UPI,8966.19,Paid
+2177,2177,Gift Card,5730.8,Paid
+2178,2178,PayPal,2691.34,Paid
+2179,2179,Mastercard,12731.25,Refunded
+2180,2180,Mastercard,8147.76,Paid
+2181,2181,UPI,3888.26,Paid
+2182,2182,PayPal,10601.55,Refunded
+2183,2183,UPI,12362.59,Paid
+2184,2184,Mastercard,4673.81,Paid
+2185,2185,PayPal,5658.56,Paid
+2186,2186,PayPal,4069.41,Paid
+2187,2187,PayPal,1573.43,Paid
+2188,2188,PayPal,9193.82,Paid
+2189,2189,Visa,1256.03,Paid
+2190,2190,UPI,11805.47,Paid
+2191,2191,PayPal,4721.9,Paid
+2192,2192,Mastercard,5458.28,Paid
+2193,2193,Gift Card,4862.1,Refunded
+2194,2194,PayPal,4497.62,Paid
+2195,2195,Visa,7569.82,Refunded
+2196,2196,UPI,2805.38,Paid
+2197,2197,Mastercard,9013.79,Refunded
+2198,2198,Mastercard,2462.53,Paid
+2199,2199,PayPal,15064.76,Paid
+2200,2200,UPI,10292.31,Refunded
+2201,2201,Visa,7988.37,Refunded
+2202,2202,Visa,1958.31,Paid
+2203,2203,UPI,12413.32,Refunded
+2204,2204,PayPal,3989.04,Paid
+2205,2205,Visa,10777.32,Paid
+2206,2206,Gift Card,2232.33,Paid
+2207,2207,UPI,549.84,Refunded
+2208,2208,UPI,8495.34,Paid
+2209,2209,Gift Card,3256.03,Refunded
+2210,2210,PayPal,219.55,Refunded
+2211,2211,UPI,1067.01,Paid
+2212,2212,Mastercard,4138.27,Paid
+2213,2213,Visa,5144.42,Refunded
+2214,2214,PayPal,855.35,Paid
+2215,2215,Visa,6276.92,Paid
+2216,2216,Mastercard,11443.2,Paid
+2217,2217,PayPal,8510.24,Paid
+2218,2218,UPI,7609.19,Refunded
+2219,2219,UPI,2494.75,Refunded
+2220,2220,Visa,14655.23,Paid
+2221,2221,PayPal,5204.11,Paid
+2222,2222,Mastercard,8844.21,Paid
+2223,2223,Mastercard,5691.52,Paid
+2224,2224,PayPal,9755.16,Paid
+2225,2225,Gift Card,8989.16,Paid
+2226,2226,UPI,984.09,Paid
+2227,2227,Mastercard,9387.24,Paid
+2228,2228,Mastercard,6678.93,Paid
+2229,2229,PayPal,9107.08,Paid
+2230,2230,UPI,3481.75,Refunded
+2231,2231,Gift Card,4690.57,Paid
+2232,2232,Gift Card,8764.12,Paid
+2233,2233,Visa,10376.26,Paid
+2234,2234,Mastercard,558.12,Paid
+2235,2235,Mastercard,2930.39,Paid
+2236,2236,PayPal,3354.29,Paid
+2237,2237,UPI,10486.11,Refunded
+2238,2238,PayPal,7430.8,Paid
+2239,2239,Gift Card,4509.45,Paid
+2240,2240,PayPal,5773.73,Paid
+2241,2241,UPI,7058.33,Paid
+2242,2242,UPI,3848.6,Paid
+2243,2243,PayPal,1832.28,Paid
+2244,2244,Mastercard,1354.94,Paid
+2245,2245,UPI,7020.85,Paid
+2246,2246,Visa,4263.77,Refunded
+2247,2247,Gift Card,8180.85,Paid
+2248,2248,Visa,3162.21,Paid
+2249,2249,Mastercard,7914.1,Refunded
+2250,2250,Gift Card,4204.6,Paid
+2251,2251,Visa,1206.53,Paid
+2252,2252,Gift Card,1391.03,Paid
+2253,2253,UPI,5527.14,Paid
+2254,2254,Visa,6644.94,Paid
+2255,2255,UPI,7670.99,Refunded
+2256,2256,PayPal,3457.75,Refunded
+2257,2257,Gift Card,4567.87,Refunded
+2258,2258,Mastercard,2633.19,Refunded
+2259,2259,Visa,8815.22,Paid
+2260,2260,UPI,9351.12,Paid
+2261,2261,Visa,9432.04,Paid
+2262,2262,PayPal,15568.81,Paid
+2263,2263,Visa,11372.1,Paid
+2264,2264,Gift Card,13973.01,Paid
+2265,2265,Visa,15186.44,Paid
+2266,2266,Visa,1071.1,Refunded
+2267,2267,Gift Card,12347.64,Paid
+2268,2268,Visa,8755.29,Refunded
+2269,2269,PayPal,6117.79,Paid
+2270,2270,Mastercard,4112.49,Paid
+2271,2271,Gift Card,5192.6,Paid
+2272,2272,Gift Card,18015.21,Refunded
+2273,2273,UPI,7241.95,Paid
+2274,2274,PayPal,9681.13,Paid
+2275,2275,Visa,2912.09,Paid
+2276,2276,PayPal,6739.66,Paid
+2277,2277,UPI,7035.04,Paid
+2278,2278,Mastercard,3844.31,Paid
+2279,2279,PayPal,502.51,Refunded
+2280,2280,Mastercard,2213.2,Refunded
+2281,2281,Gift Card,1344.05,Refunded
+2282,2282,UPI,3579.57,Paid
+2283,2283,Mastercard,4051.86,Paid
+2284,2284,Gift Card,6348.23,Refunded
+2285,2285,Gift Card,2172.12,Paid
+2286,2286,Mastercard,12340.72,Refunded
+2287,2287,Visa,13965.5,Paid
+2288,2288,UPI,8440.56,Refunded
+2289,2289,Visa,1305.04,Refunded
+2290,2290,Gift Card,12672.94,Paid
+2291,2291,PayPal,8052.8,Paid
+2292,2292,Visa,13239.65,Paid
+2293,2293,Mastercard,7775.78,Paid
+2294,2294,UPI,4518.68,Paid
+2295,2295,Visa,5399.29,Refunded
+2296,2296,Mastercard,16501.35,Paid
+2297,2297,Mastercard,5805.91,Paid
+2298,2298,Gift Card,9798.17,Paid
+2299,2299,Visa,9178.58,Refunded
+2300,2300,Visa,2490.07,Paid
+2301,2301,Mastercard,8181.26,Paid
+2302,2302,Mastercard,3755.96,Paid
+2303,2303,PayPal,2627.18,Paid
+2304,2304,Gift Card,8456.26,Refunded
+2305,2305,UPI,5556.71,Paid
+2306,2306,Mastercard,3071.02,Paid
+2307,2307,Visa,3905.36,Paid
+2308,2308,Visa,11856.74,Paid
+2309,2309,PayPal,7940.4,Paid
+2310,2310,Visa,3768.79,Refunded
+2311,2311,Mastercard,11555.08,Paid
+2312,2312,UPI,4972.71,Refunded
+2313,2313,Visa,5258.07,Paid
+2314,2314,Gift Card,3507.89,Paid
+2315,2315,Gift Card,6769.31,Paid
+2316,2316,Visa,472.76,Paid
+2317,2317,Visa,10220.44,Refunded
+2318,2318,Visa,12874.74,Paid
+2319,2319,Mastercard,512.94,Paid
+2320,2320,Visa,11821.75,Paid
+2321,2321,PayPal,7384.11,Paid
+2322,2322,UPI,5930.29,Paid
+2323,2323,PayPal,11514.95,Paid
+2324,2324,Visa,8225.22,Paid
+2325,2325,UPI,3310.28,Refunded
+2326,2326,UPI,12993.26,Paid
+2327,2327,PayPal,6134.86,Paid
+2328,2328,Mastercard,1661.42,Paid
+2329,2329,Gift Card,8262.24,Paid
+2330,2330,Mastercard,15354.33,Refunded
+2331,2331,UPI,14679.75,Paid
+2332,2332,Visa,8761.59,Refunded
+2333,2333,Gift Card,12048.99,Paid
+2334,2334,Gift Card,112.31,Refunded
+2335,2335,Visa,6775.53,Refunded
+2336,2336,PayPal,14961.67,Paid
+2337,2337,Visa,7822.98,Refunded
+2338,2338,Visa,7640.74,Refunded
+2339,2339,UPI,1482.56,Paid
+2340,2340,Gift Card,15674.79,Refunded
+2341,2341,PayPal,6351.19,Paid
+2342,2342,UPI,3902.63,Paid
+2343,2343,Mastercard,2671.72,Refunded
+2344,2344,PayPal,5105.33,Paid
+2345,2345,PayPal,9165.91,Paid
+2346,2346,UPI,14285.88,Paid
+2347,2347,Gift Card,7671.31,Refunded
+2348,2348,Mastercard,6159.51,Refunded
+2349,2349,UPI,6284.87,Paid
+2350,2350,UPI,13904.59,Paid
+2351,2351,PayPal,6743.53,Refunded
+2352,2352,Gift Card,12717.26,Paid
+2353,2353,UPI,9550.78,Paid
+2354,2354,Visa,11766.58,Paid
+2355,2355,UPI,5713.21,Refunded
+2356,2356,PayPal,2322.62,Paid
+2357,2357,UPI,1534.84,Refunded
+2358,2358,Mastercard,9283.25,Paid
+2359,2359,Visa,3675.43,Paid
+2360,2360,Gift Card,10427.25,Paid
+2361,2361,UPI,3505.2,Paid
+2362,2362,Visa,5537.1,Refunded
+2363,2363,Visa,8708.03,Paid
+2364,2364,Gift Card,3564.81,Paid
+2365,2365,Visa,9379.01,Paid
+2366,2366,PayPal,14081.93,Paid
+2367,2367,UPI,2360.61,Paid
+2368,2368,UPI,3775.64,Paid
+2369,2369,Visa,2687.08,Paid
+2370,2370,UPI,1383.21,Paid
+2371,2371,Visa,7862.73,Paid
+2372,2372,UPI,1345.33,Paid
+2373,2373,Mastercard,1405.24,Paid
+2374,2374,Gift Card,3977.38,Paid
+2375,2375,UPI,3134.1,Paid
+2376,2376,PayPal,5047.75,Paid
+2377,2377,PayPal,10114.39,Paid
+2378,2378,Mastercard,8435,Paid
+2379,2379,PayPal,3267.81,Refunded
+2380,2380,Mastercard,7918.02,Refunded
+2381,2381,PayPal,5882.07,Paid
+2382,2382,Mastercard,3270.84,Paid
+2383,2383,Gift Card,466.82,Paid
+2384,2384,Gift Card,2863.86,Paid
+2385,2385,Mastercard,509.29,Paid
+2386,2386,Mastercard,8460.19,Paid
+2387,2387,Gift Card,4360.83,Paid
+2388,2388,UPI,9234.82,Paid
+2389,2389,PayPal,9886.81,Paid
+2390,2390,Visa,6508.85,Refunded
+2391,2391,PayPal,10462.84,Paid
+2392,2392,Visa,7422.43,Paid
+2393,2393,Gift Card,6817.29,Paid
+2394,2394,UPI,3240.28,Paid
+2395,2395,Gift Card,7517.67,Refunded
+2396,2396,UPI,3944.95,Refunded
+2397,2397,Visa,7013.96,Paid
+2398,2398,PayPal,6330.83,Paid
+2399,2399,Mastercard,4827.74,Paid
+2400,2400,Visa,4749.2,Refunded
+2401,2401,Visa,2769.85,Paid
+2402,2402,UPI,1020.58,Paid
+2403,2403,Visa,7721.91,Paid
+2404,2404,Visa,9497.29,Paid
+2405,2405,Visa,3510.39,Paid
+2406,2406,Gift Card,3873.88,Paid
+2407,2407,PayPal,8144.94,Paid
+2408,2408,PayPal,3430.13,Paid
+2409,2409,PayPal,1069.18,Paid
+2410,2410,Visa,4589.19,Refunded
+2411,2411,Visa,4399.48,Refunded
+2412,2412,PayPal,8431.95,Paid
+2413,2413,Mastercard,7807.85,Paid
+2414,2414,UPI,6414.42,Paid
+2415,2415,Visa,3505,Refunded
+2416,2416,Gift Card,2536.24,Refunded
+2417,2417,Gift Card,8294,Paid
+2418,2418,Mastercard,7540.92,Refunded
+2419,2419,PayPal,15870.2,Paid
+2420,2420,Visa,6180.78,Paid
+2421,2421,Gift Card,9844.69,Paid
+2422,2422,UPI,7309.71,Paid
+2423,2423,Gift Card,12244.21,Refunded
+2424,2424,UPI,7115.11,Paid
+2425,2425,PayPal,3682.73,Paid
+2426,2426,UPI,11994.46,Paid
+2427,2427,Mastercard,1339.41,Refunded
+2428,2428,PayPal,13630.65,Paid
+2429,2429,UPI,3181.64,Paid
+2430,2430,PayPal,5570.85,Paid
+2431,2431,Mastercard,6850.49,Paid
+2432,2432,Mastercard,2421.55,Paid
+2433,2433,PayPal,2779.83,Refunded
+2434,2434,Visa,14373.01,Refunded
+2435,2435,Mastercard,6662.23,Paid
+2436,2436,Visa,6367.36,Refunded
+2437,2437,Visa,10606.28,Paid
+2438,2438,PayPal,4755.71,Paid
+2439,2439,PayPal,6608.98,Paid
+2440,2440,Visa,4584.84,Paid
+2441,2441,Mastercard,2756.1,Paid
+2442,2442,Mastercard,979.73,Paid
+2443,2443,Mastercard,7822.87,Paid
+2444,2444,PayPal,8984.97,Paid
+2445,2445,Gift Card,4342.82,Paid
+2446,2446,PayPal,6414.44,Paid
+2447,2447,Gift Card,6126.41,Paid
+2448,2448,UPI,6316.81,Paid
+2449,2449,Gift Card,7213.83,Paid
+2450,2450,Visa,4173.74,Paid
+2451,2451,Visa,4900.17,Paid
+2452,2452,Visa,7634.48,Paid
+2453,2453,PayPal,14218.7,Paid
+2454,2454,Gift Card,3494.84,Paid
+2455,2455,UPI,9638.34,Refunded
+2456,2456,UPI,6044.81,Paid
+2457,2457,UPI,5093.28,Refunded
+2458,2458,Mastercard,2536.25,Refunded
+2459,2459,UPI,3826.41,Paid
+2460,2460,Mastercard,9616.53,Paid
+2461,2461,Visa,4132.8,Paid
+2462,2462,PayPal,2124.98,Paid
+2463,2463,Gift Card,11181.75,Paid
+2464,2464,PayPal,8191.25,Paid
+2465,2465,Gift Card,1326.75,Refunded
+2466,2466,Visa,272.15,Paid
+2467,2467,UPI,7865.09,Paid
+2468,2468,UPI,9525.03,Paid
+2469,2469,Mastercard,6281.24,Paid
+2470,2470,Visa,9062.31,Refunded
+2471,2471,Gift Card,2756.14,Paid
+2472,2472,Mastercard,1329.67,Paid
+2473,2473,Visa,10679.91,Paid
+2474,2474,UPI,1780.44,Paid
+2475,2475,Gift Card,6267.09,Paid
+2476,2476,Mastercard,10603.76,Paid
+2477,2477,Gift Card,11275.31,Paid
+2478,2478,Gift Card,4509.75,Paid
+2479,2479,Mastercard,7196.54,Paid
+2480,2480,Gift Card,12438.41,Paid
+2481,2481,Gift Card,7777.42,Paid
+2482,2482,Mastercard,6708.57,Paid
+2483,2483,Mastercard,6203.23,Paid
+2484,2484,Gift Card,1659.76,Refunded
+2485,2485,Mastercard,1534.76,Paid
+2486,2486,Visa,2353.16,Paid
+2487,2487,Gift Card,18009,Paid
+2488,2488,Mastercard,15018.43,Paid
+2489,2489,Visa,9616.61,Paid
+2490,2490,PayPal,10939.64,Paid
+2491,2491,Visa,7557.34,Paid
+2492,2492,Visa,3573.31,Paid
+2493,2493,Mastercard,2735.52,Paid
+2494,2494,PayPal,1924.75,Refunded
+2495,2495,Visa,4151.78,Paid
+2496,2496,UPI,14404.21,Refunded
+2497,2497,UPI,8417.61,Paid
+2498,2498,Gift Card,6614.62,Paid
+2499,2499,PayPal,10676.64,Refunded
+2500,2500,PayPal,4863.2,Refunded
+2501,2501,PayPal,2836.88,Paid
+2502,2502,PayPal,1491.53,Paid
+2503,2503,Visa,3615.94,Paid
+2504,2504,Visa,2063.84,Paid
+2505,2505,Mastercard,1261.4,Paid
+2506,2506,Gift Card,12510.32,Paid
+2507,2507,UPI,2987.8,Paid
+2508,2508,Visa,7390.95,Paid
+2509,2509,Visa,392.89,Paid
+2510,2510,Gift Card,4872.11,Paid
+2511,2511,PayPal,394.62,Paid
+2512,2512,Mastercard,11142.87,Paid
+2513,2513,PayPal,5453.08,Paid
+2514,2514,Visa,1681.42,Paid
+2515,2515,Visa,295.48,Refunded
+2516,2516,UPI,1487.11,Refunded
+2517,2517,UPI,4574.5,Paid
+2518,2518,Gift Card,1139.73,Paid
+2519,2519,Visa,7891.39,Paid
+2520,2520,Visa,4647.45,Refunded
+2521,2521,Mastercard,563.24,Paid
+2522,2522,Gift Card,6238.82,Paid
+2523,2523,Gift Card,8893.14,Paid
+2524,2524,Mastercard,5448.72,Refunded
+2525,2525,Mastercard,17512.56,Paid
+2526,2526,Gift Card,4149.33,Paid
+2527,2527,PayPal,5487.19,Paid
+2528,2528,UPI,626.98,Paid
+2529,2529,Mastercard,4173.74,Paid
+2530,2530,Visa,13252.53,Refunded
+2531,2531,Visa,1312.17,Paid
+2532,2532,Gift Card,5442.84,Paid
+2533,2533,Gift Card,11577.11,Paid
+2534,2534,UPI,6361.47,Paid
+2535,2535,PayPal,188.74,Paid
+2536,2536,PayPal,2431.6,Paid
+2537,2537,Gift Card,5485.69,Refunded
+2538,2538,PayPal,7064.37,Refunded
+2539,2539,PayPal,9112.3,Paid
+2540,2540,PayPal,8100.77,Refunded
+2541,2541,PayPal,5784.03,Paid
+2542,2542,UPI,4197.29,Paid
+2543,2543,Gift Card,8474.91,Paid
+2544,2544,Gift Card,2833.77,Refunded
+2545,2545,Visa,10225.81,Paid
+2546,2546,UPI,3068.06,Paid
+2547,2547,Mastercard,2146.13,Paid
+2548,2548,PayPal,10803.79,Refunded
+2549,2549,Visa,11526.56,Paid
+2550,2550,UPI,4616.68,Paid
+2551,2551,UPI,7140.85,Paid
+2552,2552,UPI,2820.94,Paid
+2553,2553,UPI,2249.99,Paid
+2554,2554,UPI,7252.86,Paid
+2555,2555,PayPal,12647.6,Paid
+2556,2556,Mastercard,434.47,Refunded
+2557,2557,Mastercard,7511.68,Paid
+2558,2558,Mastercard,6961.77,Paid
+2559,2559,UPI,2659.36,Paid
+2560,2560,Mastercard,841.74,Paid
+2561,2561,PayPal,920.74,Refunded
+2562,2562,Mastercard,10499.73,Refunded
+2563,2563,Gift Card,2412.66,Refunded
+2564,2564,PayPal,1029.86,Paid
+2565,2565,UPI,3684.56,Paid
+2566,2566,Visa,8578.12,Paid
+2567,2567,Gift Card,2691.54,Refunded
+2568,2568,PayPal,7616.9,Paid
+2569,2569,Gift Card,11979.03,Paid
+2570,2570,Mastercard,1812.61,Paid
+2571,2571,UPI,20614.53,Paid
+2572,2572,Gift Card,12292.4,Paid
+2573,2573,PayPal,3735.82,Refunded
+2574,2574,Gift Card,10392.55,Paid
+2575,2575,Mastercard,884.5,Paid
+2576,2576,Mastercard,3359.98,Paid
+2577,2577,Visa,3754.62,Paid
+2578,2578,UPI,6131.08,Refunded
+2579,2579,Mastercard,5307.05,Paid
+2580,2580,Mastercard,3864.23,Paid
+2581,2581,Gift Card,4199.39,Refunded
+2582,2582,Visa,4862.59,Paid
+2583,2583,Visa,1995.8,Refunded
+2584,2584,Visa,2776.71,Paid
+2585,2585,UPI,11917.42,Refunded
+2586,2586,Visa,5772.31,Paid
+2587,2587,Visa,6670.04,Paid
+2588,2588,PayPal,10366.77,Paid
+2589,2589,Visa,9558.55,Paid
+2590,2590,Visa,1405.61,Paid
+2591,2591,Mastercard,8916.48,Refunded
+2592,2592,Mastercard,13451.81,Paid
+2593,2593,PayPal,1663.54,Paid
+2594,2594,PayPal,6805.09,Paid
+2595,2595,Mastercard,9619.5,Paid
+2596,2596,Gift Card,8100.33,Paid
+2597,2597,Mastercard,9176.28,Refunded
+2598,2598,UPI,5377.7,Paid
+2599,2599,UPI,14362.16,Paid
+2600,2600,Gift Card,7214.66,Paid
+2601,2601,Visa,5029.54,Paid
+2602,2602,Visa,5183.72,Paid
+2603,2603,Mastercard,5611.42,Paid
+2604,2604,Mastercard,7948.36,Paid
+2605,2605,UPI,1077.71,Refunded
+2606,2606,Gift Card,5298.22,Refunded
+2607,2607,UPI,2495.09,Paid
+2608,2608,UPI,13265.18,Refunded
+2609,2609,Gift Card,7660.06,Refunded
+2610,2610,Gift Card,6275.18,Paid
+2611,2611,PayPal,5876.82,Refunded
+2612,2612,UPI,14201.72,Paid
+2613,2613,Mastercard,7677.7,Paid
+2614,2614,UPI,1401.49,Paid
+2615,2615,Visa,4273.38,Paid
+2616,2616,UPI,1269.41,Paid
+2617,2617,PayPal,5571.94,Paid
+2618,2618,PayPal,6917.92,Paid
+2619,2619,UPI,8898.23,Paid
+2620,2620,UPI,11309.68,Paid
+2621,2621,Visa,2954.85,Paid
+2622,2622,PayPal,1546.41,Refunded
+2623,2623,UPI,9280.01,Paid
+2624,2624,Mastercard,3656.63,Paid
+2625,2625,Visa,10454.07,Paid
+2626,2626,PayPal,9638.62,Paid
+2627,2627,Gift Card,1507.33,Refunded
+2628,2628,PayPal,5829.11,Paid
+2629,2629,Visa,7662.16,Paid
+2630,2630,PayPal,6545.77,Paid
+2631,2631,Gift Card,3942.36,Paid
+2632,2632,Gift Card,9156.5,Refunded
+2633,2633,PayPal,5371.13,Paid
+2634,2634,Visa,5186.39,Paid
+2635,2635,UPI,7646.72,Paid
+2636,2636,Gift Card,1314.28,Paid
+2637,2637,Mastercard,13248.66,Paid
+2638,2638,PayPal,3217.8,Paid
+2639,2639,Visa,14588.23,Paid
+2640,2640,UPI,7419.86,Paid
+2641,2641,Visa,7843.58,Paid
+2642,2642,Gift Card,1903.12,Paid
+2643,2643,Mastercard,2650.3,Paid
+2644,2644,PayPal,4130.99,Paid
+2645,2645,PayPal,7549.54,Paid
+2646,2646,UPI,7428.75,Paid
+2647,2647,Gift Card,7080.25,Paid
+2648,2648,Mastercard,10749.25,Paid
+2649,2649,Gift Card,7181.48,Paid
+2650,2650,Gift Card,4865.28,Refunded
+2651,2651,PayPal,4254.51,Paid
+2652,2652,Mastercard,4803.8,Paid
+2653,2653,Visa,5260.45,Paid
+2654,2654,Gift Card,5680.09,Paid
+2655,2655,Visa,1474.29,Paid
+2656,2656,Visa,12660.4,Paid
+2657,2657,Mastercard,3386.12,Refunded
+2658,2658,UPI,5844.26,Paid
+2659,2659,UPI,2972.1,Refunded
+2660,2660,Mastercard,2210.71,Paid
+2661,2661,Gift Card,3693.41,Paid
+2662,2662,Gift Card,11852.64,Paid
+2663,2663,UPI,4675.73,Paid
+2664,2664,Mastercard,13235.88,Paid
+2665,2665,Visa,4887.98,Paid
+2666,2666,PayPal,10789.46,Paid
+2667,2667,Mastercard,5625.71,Paid
+2668,2668,Visa,9638.58,Paid
+2669,2669,PayPal,2719.51,Paid
+2670,2670,Visa,6800.6,Paid
+2671,2671,Mastercard,6145.57,Paid
+2672,2672,PayPal,7628.49,Refunded
+2673,2673,Visa,866.57,Paid
+2674,2674,UPI,6619.91,Paid
+2675,2675,UPI,8090.32,Paid
+2676,2676,Gift Card,4916.97,Refunded
+2677,2677,UPI,9802.7,Paid
+2678,2678,UPI,672.09,Paid
+2679,2679,UPI,852.64,Paid
+2680,2680,Mastercard,9444.94,Paid
+2681,2681,UPI,9151.27,Refunded
+2682,2682,UPI,11263.8,Paid
+2683,2683,Visa,1091.49,Paid
+2684,2684,Visa,3155.73,Paid
+2685,2685,PayPal,14456.29,Refunded
+2686,2686,Visa,562.85,Paid
+2687,2687,Visa,4461,Paid
+2688,2688,Gift Card,3776.71,Paid
+2689,2689,Visa,3701.38,Paid
+2690,2690,UPI,1646.53,Paid
+2691,2691,Visa,11050.2,Paid
+2692,2692,Gift Card,6418.23,Paid
+2693,2693,Mastercard,2481.29,Paid
+2694,2694,PayPal,4300.93,Paid
+2695,2695,Gift Card,1463,Paid
+2696,2696,UPI,7200.01,Paid
+2697,2697,Visa,4563.41,Paid
+2698,2698,Mastercard,3647.02,Paid
+2699,2699,Gift Card,5837.89,Paid
+2700,2700,Mastercard,2336.67,Paid
+2701,2701,UPI,3008.57,Refunded
+2702,2702,Visa,2337.21,Paid
+2703,2703,Gift Card,8713.16,Paid
+2704,2704,PayPal,620.13,Paid
+2705,2705,PayPal,1925.02,Paid
+2706,2706,Visa,10461.82,Paid
+2707,2707,UPI,6058.29,Paid
+2708,2708,Visa,5350.79,Paid
+2709,2709,PayPal,4106.97,Refunded
+2710,2710,UPI,5492.53,Paid
+2711,2711,Gift Card,8068.15,Paid
+2712,2712,Visa,5395.09,Paid
+2713,2713,UPI,3350.45,Paid
+2714,2714,PayPal,17345.92,Paid
+2715,2715,PayPal,5857.4,Paid
+2716,2716,PayPal,4024.24,Paid
+2717,2717,Mastercard,6147.19,Paid
+2718,2718,UPI,7146.61,Refunded
+2719,2719,PayPal,12009.81,Paid
+2720,2720,Gift Card,5343.74,Paid
+2721,2721,Visa,3562.41,Paid
+2722,2722,PayPal,14461.79,Paid
+2723,2723,Gift Card,3802.34,Paid
+2724,2724,Visa,6552.85,Paid
+2725,2725,Gift Card,9072.77,Paid
+2726,2726,Mastercard,5976.85,Paid
+2727,2727,Gift Card,5127.09,Paid
+2728,2728,Gift Card,1768.95,Paid
+2729,2729,Visa,3249.09,Paid
+2730,2730,UPI,902.87,Paid
+2731,2731,PayPal,12324.28,Paid
+2732,2732,Mastercard,3374.24,Paid
+2733,2733,PayPal,4553.24,Paid
+2734,2734,Visa,6474.22,Paid
+2735,2735,Visa,7884.81,Paid
+2736,2736,Mastercard,5248.42,Paid
+2737,2737,PayPal,11221.44,Paid
+2738,2738,Gift Card,2363.88,Refunded
+2739,2739,Gift Card,1635.42,Paid
+2740,2740,Gift Card,7891.53,Paid
+2741,2741,UPI,12072.53,Paid
+2742,2742,UPI,5339.27,Paid
+2743,2743,PayPal,3759.93,Paid
+2744,2744,Mastercard,6383.57,Paid
+2745,2745,PayPal,8542.48,Paid
+2746,2746,Visa,9283.02,Paid
+2747,2747,Gift Card,14613.8,Paid
+2748,2748,Visa,5401.83,Refunded
+2749,2749,PayPal,3768.41,Paid
+2750,2750,Gift Card,8093.56,Refunded
+2751,2751,Gift Card,5194.32,Refunded
+2752,2752,PayPal,3369.4,Refunded
+2753,2753,PayPal,5317.49,Refunded
+2754,2754,PayPal,11796.68,Paid
+2755,2755,Mastercard,176.22,Paid
+2756,2756,Visa,11000.84,Refunded
+2757,2757,Mastercard,1465.75,Paid
+2758,2758,UPI,1435.72,Refunded
+2759,2759,PayPal,6354.66,Paid
+2760,2760,Visa,5832.33,Paid
+2761,2761,Visa,2025.4,Paid
+2762,2762,Visa,11891.29,Paid
+2763,2763,PayPal,10449.84,Paid
+2764,2764,Gift Card,2071.24,Paid
+2765,2765,Gift Card,7344.36,Paid
+2766,2766,UPI,8476.46,Paid
+2767,2767,PayPal,1226.05,Paid
+2768,2768,Mastercard,1477.96,Paid
+2769,2769,PayPal,6295.9,Paid
+2770,2770,Visa,1506.57,Paid
+2771,2771,UPI,4295.2,Paid
+2772,2772,UPI,7188.66,Refunded
+2773,2773,PayPal,6637.15,Refunded
+2774,2774,PayPal,3787.61,Paid
+2775,2775,Gift Card,7145.05,Refunded
+2776,2776,Visa,9862.7,Paid
+2777,2777,Mastercard,13757.13,Refunded
+2778,2778,PayPal,12260.97,Paid
+2779,2779,Gift Card,8396.79,Paid
+2780,2780,PayPal,6729.39,Refunded
+2781,2781,Mastercard,1298.89,Paid
+2782,2782,PayPal,6349.87,Paid
+2783,2783,Visa,2588.95,Paid
+2784,2784,Mastercard,4096.82,Refunded
+2785,2785,UPI,7270,Paid
+2786,2786,Mastercard,11767.94,Paid
+2787,2787,Mastercard,11128.92,Paid
+2788,2788,Gift Card,8437.07,Paid
+2789,2789,Visa,6944.41,Refunded
+2790,2790,Visa,9465.19,Refunded
+2791,2791,PayPal,7815.8,Paid
+2792,2792,Mastercard,5704.17,Refunded
+2793,2793,PayPal,7453.87,Paid
+2794,2794,Mastercard,11313.65,Paid
+2795,2795,PayPal,719.22,Paid
+2796,2796,UPI,2090.25,Paid
+2797,2797,Gift Card,3972.41,Refunded
+2798,2798,Gift Card,1478.38,Paid
+2799,2799,Visa,5193.13,Paid
+2800,2800,Mastercard,4504.9,Paid
+2801,2801,Gift Card,10149.52,Paid
+2802,2802,Gift Card,11019.89,Paid
+2803,2803,PayPal,3403.05,Refunded
+2804,2804,Visa,1328.71,Paid
+2805,2805,Mastercard,967.74,Paid
+2806,2806,PayPal,5132.67,Refunded
+2807,2807,UPI,234.98,Refunded
+2808,2808,Gift Card,1512.39,Paid
+2809,2809,UPI,1028.04,Paid
+2810,2810,PayPal,2717.24,Paid
+2811,2811,Visa,4341.43,Refunded
+2812,2812,UPI,2316.06,Paid
+2813,2813,Visa,9525.69,Paid
+2814,2814,Visa,1013.44,Paid
+2815,2815,Visa,3657.32,Paid
+2816,2816,UPI,4620.43,Refunded
+2817,2817,Gift Card,4506.14,Paid
+2818,2818,Gift Card,6873.27,Paid
+2819,2819,UPI,11814.75,Paid
+2820,2820,Mastercard,8472.98,Paid
+2821,2821,PayPal,9617.24,Paid
+2822,2822,UPI,609.1,Paid
+2823,2823,Gift Card,4444.47,Refunded
+2824,2824,Visa,2839.49,Paid
+2825,2825,Mastercard,10489.44,Paid
+2826,2826,Gift Card,3537.6,Refunded
+2827,2827,Visa,869.39,Paid
+2828,2828,Gift Card,7332.08,Paid
+2829,2829,UPI,9836.93,Paid
+2830,2830,Visa,6669.69,Paid
+2831,2831,Gift Card,6418.15,Paid
+2832,2832,Gift Card,9539.84,Paid
+2833,2833,Gift Card,7712.13,Paid
+2834,2834,Visa,9078.58,Paid
+2835,2835,Gift Card,1081.83,Paid
+2836,2836,Gift Card,7277.89,Paid
+2837,2837,PayPal,12612.83,Refunded
+2838,2838,PayPal,9015.29,Paid
+2839,2839,Visa,8753.6,Paid
+2840,2840,PayPal,577.78,Refunded
+2841,2841,Visa,4512.12,Refunded
+2842,2842,PayPal,10356.09,Paid
+2843,2843,PayPal,4576.95,Paid
+2844,2844,Gift Card,13852.38,Paid
+2845,2845,Visa,10976.46,Refunded
+2846,2846,Mastercard,7222.99,Refunded
+2847,2847,Mastercard,8508.81,Refunded
+2848,2848,Mastercard,13728.5,Refunded
+2849,2849,Mastercard,6739.99,Paid
+2850,2850,PayPal,2638.59,Paid
+2851,2851,Visa,8789.67,Paid
+2852,2852,Mastercard,8181.06,Paid
+2853,2853,Mastercard,10207.39,Paid
+2854,2854,PayPal,14972.97,Paid
+2855,2855,Gift Card,4424.73,Paid
+2856,2856,Mastercard,7267.07,Paid
+2857,2857,PayPal,9774.34,Paid
+2858,2858,Mastercard,7333.98,Paid
+2859,2859,Mastercard,11832.29,Paid
+2860,2860,PayPal,6013.49,Paid
+2861,2861,UPI,3130.33,Paid
+2862,2862,PayPal,4506.22,Paid
+2863,2863,PayPal,7251.9,Paid
+2864,2864,Gift Card,2850.94,Paid
+2865,2865,Gift Card,1741.45,Paid
+2866,2866,Visa,9640.3,Paid
+2867,2867,Visa,6019.62,Paid
+2868,2868,Mastercard,774.67,Paid
+2869,2869,Visa,11308.83,Paid
+2870,2870,PayPal,13482.4,Paid
+2871,2871,Visa,6902.52,Paid
+2872,2872,Gift Card,16707.61,Paid
+2873,2873,PayPal,11409.43,Paid
+2874,2874,PayPal,788.38,Refunded
+2875,2875,Visa,8542.88,Paid
+2876,2876,UPI,5680.28,Paid
+2877,2877,Mastercard,708.58,Paid
+2878,2878,Gift Card,5620.32,Paid
+2879,2879,Gift Card,4754.31,Paid
+2880,2880,Visa,1785.18,Paid
+2881,2881,UPI,6368.56,Paid
+2882,2882,Gift Card,18365.47,Paid
+2883,2883,UPI,9993.47,Paid
+2884,2884,UPI,2239.9,Paid
+2885,2885,Gift Card,4823.99,Refunded
+2886,2886,UPI,2382.74,Paid
+2887,2887,PayPal,11147.66,Paid
+2888,2888,Visa,7876.9,Paid
+2889,2889,UPI,2129.09,Paid
+2890,2890,Mastercard,10215.47,Paid
+2891,2891,PayPal,3985.15,Refunded
+2892,2892,Mastercard,6808.25,Paid
+2893,2893,Visa,9021.83,Paid
+2894,2894,UPI,5598.79,Paid
+2895,2895,Gift Card,2582.38,Paid
+2896,2896,Visa,1681.1,Paid
+2897,2897,Gift Card,18948.13,Paid
+2898,2898,Visa,9789.92,Paid
+2899,2899,Gift Card,3071.65,Paid
+2900,2900,PayPal,21748.48,Paid
+2901,2901,Gift Card,3753.15,Paid
+2902,2902,PayPal,9079.51,Paid
+2903,2903,UPI,16786.63,Paid
+2904,2904,Visa,5599.6,Paid
+2905,2905,UPI,5409.44,Refunded
+2906,2906,Visa,6626.37,Refunded
+2907,2907,Visa,6369.17,Paid
+2908,2908,Gift Card,2336.17,Refunded
+2909,2909,PayPal,4091.63,Paid
+2910,2910,PayPal,3063.03,Paid
+2911,2911,PayPal,4493.54,Paid
+2912,2912,Gift Card,10300.2,Paid
+2913,2913,Gift Card,7937.92,Paid
+2914,2914,Gift Card,14156.8,Paid
+2915,2915,Mastercard,4085.27,Paid
+2916,2916,Visa,2035.35,Paid
+2917,2917,PayPal,1588.64,Paid
+2918,2918,Mastercard,9131.13,Paid
+2919,2919,UPI,2583.58,Paid
+2920,2920,Gift Card,2901.21,Refunded
+2921,2921,Mastercard,2271.21,Refunded
+2922,2922,Visa,4981.61,Paid
+2923,2923,PayPal,6156.59,Paid
+2924,2924,Gift Card,9453.75,Paid
+2925,2925,Gift Card,11637.81,Paid
+2926,2926,PayPal,6257.53,Paid
+2927,2927,PayPal,8895.62,Refunded
+2928,2928,Gift Card,8618.21,Paid
+2929,2929,UPI,5651.87,Paid
+2930,2930,Gift Card,4971.14,Paid
+2931,2931,Gift Card,2910.95,Paid
+2932,2932,Mastercard,3068,Paid
+2933,2933,Mastercard,7066.05,Paid
+2934,2934,Visa,4622.79,Refunded
+2935,2935,Mastercard,12388.57,Paid
+2936,2936,UPI,9172.77,Paid
+2937,2937,Visa,15413.8,Paid
+2938,2938,Mastercard,4153.62,Paid
+2939,2939,Mastercard,9191.1,Paid
+2940,2940,UPI,16107.89,Paid
+2941,2941,Visa,6702.59,Refunded
+2942,2942,Gift Card,4157.2,Paid
+2943,2943,Gift Card,2711.34,Paid
+2944,2944,PayPal,2843.07,Paid
+2945,2945,Visa,1113.03,Paid
+2946,2946,Mastercard,11085.26,Paid
+2947,2947,Visa,477.34,Paid
+2948,2948,Mastercard,4507.93,Paid
+2949,2949,Visa,2827.41,Paid
+2950,2950,Mastercard,7420.25,Paid
+2951,2951,PayPal,3395.65,Paid
+2952,2952,UPI,3553.52,Paid
+2953,2953,Visa,15015.06,Paid
+2954,2954,Mastercard,3475.81,Paid
+2955,2955,Gift Card,13369.14,Paid
+2956,2956,Gift Card,8097.23,Refunded
+2957,2957,Visa,9872.68,Paid
+2958,2958,Gift Card,12588.01,Paid
+2959,2959,Mastercard,9305.46,Paid
+2960,2960,PayPal,3297.08,Paid
+2961,2961,Visa,924.44,Refunded
+2962,2962,Gift Card,3656.63,Refunded
+2963,2963,Gift Card,3264.91,Paid
+2964,2964,UPI,2453.74,Paid
+2965,2965,Mastercard,4119.6,Paid
+2966,2966,Gift Card,7549.38,Paid
+2967,2967,Mastercard,3086.27,Paid
+2968,2968,Visa,15569,Paid
+2969,2969,Gift Card,4470.97,Paid
+2970,2970,Visa,4032.15,Refunded
+2971,2971,UPI,3498.19,Paid
+2972,2972,UPI,12944.47,Paid
+2973,2973,Visa,12094.55,Paid
+2974,2974,UPI,8256.28,Paid
+2975,2975,Visa,403.9,Paid
+2976,2976,Visa,2992.6,Refunded
+2977,2977,Visa,12320.31,Paid
+2978,2978,Visa,1887.79,Paid
+2979,2979,Mastercard,16658.62,Paid
+2980,2980,Visa,6968.49,Paid
+2981,2981,Mastercard,2646.82,Paid
+2982,2982,Mastercard,6342.51,Refunded
+2983,2983,PayPal,3243.84,Refunded
+2984,2984,UPI,1598.29,Refunded
+2985,2985,Visa,6452.94,Paid
+2986,2986,Visa,5836.12,Paid
+2987,2987,UPI,3923.13,Paid
+2988,2988,Visa,12374.26,Paid
+2989,2989,PayPal,5892.44,Paid
+2990,2990,Mastercard,3358.47,Paid
+2991,2991,Visa,4550.86,Paid
+2992,2992,PayPal,11672.05,Paid
+2993,2993,Visa,8526.08,Paid
+2994,2994,PayPal,2300.12,Paid
+2995,2995,Visa,8240.86,Paid
+2996,2996,UPI,363.51,Paid
+2997,2997,Mastercard,9388.45,Paid
+2998,2998,Mastercard,7439.69,Paid
+2999,2999,PayPal,3936.52,Paid
+3000,3000,PayPal,7700.73,Refunded
+3001,3001,Mastercard,3529.51,Paid
+3002,3002,PayPal,3921.1,Refunded
+3003,3003,UPI,12397.63,Paid
+3004,3004,Mastercard,10538.9,Paid
+3005,3005,PayPal,3242.56,Paid
+3006,3006,PayPal,2137.95,Paid
+3007,3007,Gift Card,11580.14,Paid
+3008,3008,UPI,660.92,Paid
+3009,3009,UPI,12534.36,Paid
+3010,3010,Mastercard,571.51,Refunded
+3011,3011,Visa,1078.91,Paid
+3012,3012,Gift Card,5483.5,Paid
+3013,3013,PayPal,5845.71,Paid
+3014,3014,PayPal,4765.65,Paid
+3015,3015,Gift Card,6333,Paid
+3016,3016,Visa,10885.97,Paid
+3017,3017,PayPal,3143.42,Paid
+3018,3018,PayPal,10954.3,Paid
+3019,3019,UPI,3831.47,Paid
+3020,3020,PayPal,11461.11,Paid
+3021,3021,Mastercard,5115.5,Paid
+3022,3022,UPI,11661.57,Paid
+3023,3023,UPI,408.33,Paid
+3024,3024,Mastercard,4246.41,Paid
+3025,3025,PayPal,8631.36,Refunded
+3026,3026,UPI,8225.58,Paid
+3027,3027,UPI,10286.04,Paid
+3028,3028,Visa,8995.88,Paid
+3029,3029,PayPal,1370.66,Paid
+3030,3030,PayPal,9882.58,Paid
+3031,3031,UPI,8406.4,Paid
+3032,3032,Mastercard,870.3,Paid
+3033,3033,Mastercard,12153.79,Paid
+3034,3034,PayPal,9168.85,Paid
+3035,3035,Gift Card,1570.73,Paid
+3036,3036,UPI,6659.27,Paid
+3037,3037,PayPal,5541.53,Paid
+3038,3038,UPI,1937.49,Paid
+3039,3039,Gift Card,9518.79,Paid
+3040,3040,Mastercard,3025.33,Paid
+3041,3041,Visa,11220.93,Paid
+3042,3042,PayPal,8145.04,Paid
+3043,3043,Visa,12502.46,Paid
+3044,3044,UPI,517.08,Paid
+3045,3045,PayPal,6423.36,Paid
+3046,3046,PayPal,4258.5,Paid
+3047,3047,PayPal,2505.75,Paid
+3048,3048,Gift Card,3269.76,Refunded
+3049,3049,PayPal,13000.91,Refunded
+3050,3050,Mastercard,3242.22,Paid
+3051,3051,PayPal,5260.95,Paid
+3052,3052,Gift Card,7142.85,Refunded
+3053,3053,PayPal,1883.7,Paid
+3054,3054,PayPal,3646.36,Paid
+3055,3055,Mastercard,5792.18,Paid
+3056,3056,Visa,3092.17,Paid
+3057,3057,Visa,1928.43,Paid
+3058,3058,Visa,6432.7,Paid
+3059,3059,Gift Card,4095.33,Paid
+3060,3060,Gift Card,2604.42,Paid
+3061,3061,Mastercard,6361.11,Paid
+3062,3062,UPI,7615.46,Paid
+3063,3063,UPI,4002.21,Paid
+3064,3064,Gift Card,2050,Paid
+3065,3065,UPI,3183.23,Paid
+3066,3066,Mastercard,6127.78,Paid
+3067,3067,UPI,3572.68,Paid
+3068,3068,Gift Card,10488.82,Paid
+3069,3069,Gift Card,9689.15,Refunded
+3070,3070,PayPal,9969.19,Paid
+3071,3071,UPI,11206.59,Refunded
+3072,3072,Visa,7618.14,Paid
+3073,3073,Mastercard,6598.88,Paid
+3074,3074,PayPal,10056.63,Paid
+3075,3075,Visa,6613.52,Paid
+3076,3076,Gift Card,1837.66,Paid
+3077,3077,Visa,3425.25,Paid
+3078,3078,PayPal,2953.31,Refunded
+3079,3079,PayPal,7614.67,Paid
+3080,3080,UPI,4384.12,Paid
+3081,3081,Visa,9282.05,Paid
+3082,3082,Mastercard,2061.44,Paid
+3083,3083,UPI,12104.85,Paid
+3084,3084,UPI,10661.48,Paid
+3085,3085,PayPal,2649.11,Paid
+3086,3086,PayPal,1166.46,Refunded
+3087,3087,Gift Card,3847.02,Paid
+3088,3088,Gift Card,6010.85,Paid
+3089,3089,Visa,2248.1,Paid
+3090,3090,PayPal,6596.15,Refunded
+3091,3091,UPI,6913,Paid
+3092,3092,Gift Card,111.99,Paid
+3093,3093,Gift Card,12020.56,Paid
+3094,3094,Gift Card,4449.09,Paid
+3095,3095,Mastercard,2268.14,Paid
+3096,3096,Gift Card,12506.8,Refunded
+3097,3097,Gift Card,5550.59,Paid
+3098,3098,PayPal,3978.73,Paid
+3099,3099,Visa,15750.59,Paid
+3100,3100,Gift Card,1373.55,Paid
+3101,3101,Mastercard,10406.43,Refunded
+3102,3102,Gift Card,9956.05,Paid
+3103,3103,Visa,3886.19,Paid
+3104,3104,Mastercard,9198.02,Paid
+3105,3105,Visa,6658.18,Paid
+3106,3106,Mastercard,7879.31,Paid
+3107,3107,Visa,13400.9,Paid
+3108,3108,UPI,1503.65,Paid
+3109,3109,Mastercard,93.6,Paid
+3110,3110,Gift Card,8308.4,Refunded
+3111,3111,PayPal,3014.67,Paid
+3112,3112,Visa,8428.17,Paid
+3113,3113,PayPal,2597.78,Paid
+3114,3114,Visa,2050.89,Paid
+3115,3115,PayPal,2676.22,Paid
+3116,3116,Mastercard,5813.17,Paid
+3117,3117,Visa,9331.77,Paid
+3118,3118,Mastercard,5651.72,Paid
+3119,3119,Mastercard,3984.09,Paid
+3120,3120,PayPal,13730.16,Paid
+3121,3121,Mastercard,1103.43,Refunded
+3122,3122,PayPal,4467.29,Paid
+3123,3123,UPI,9203.66,Paid
+3124,3124,UPI,7663.89,Paid
+3125,3125,PayPal,3878.25,Paid
+3126,3126,Visa,4636.28,Paid
+3127,3127,Mastercard,16192.37,Paid
+3128,3128,Visa,5851.61,Paid
+3129,3129,Mastercard,1912.32,Paid
+3130,3130,Visa,4727.74,Refunded
+3131,3131,Mastercard,5978.27,Paid
+3132,3132,PayPal,10456.73,Refunded
+3133,3133,Visa,8404.49,Paid
+3134,3134,Mastercard,7229.44,Paid
+3135,3135,Visa,1677.15,Paid
+3136,3136,Visa,3665.54,Paid
+3137,3137,Gift Card,6913.81,Paid
+3138,3138,Gift Card,7541.49,Paid
+3139,3139,UPI,5911.15,Paid
+3140,3140,Mastercard,12041.2,Paid
+3141,3141,PayPal,9111.49,Paid
+3142,3142,Gift Card,4134.03,Paid
+3143,3143,UPI,8433.3,Paid
+3144,3144,Gift Card,6995.57,Paid
+3145,3145,Visa,6542.13,Paid
+3146,3146,UPI,5073.37,Paid
+3147,3147,PayPal,11705.46,Refunded
+3148,3148,UPI,9896.22,Paid
+3149,3149,Mastercard,12269.77,Paid
+3150,3150,Visa,7551.42,Paid
+3151,3151,PayPal,2392.25,Paid
+3152,3152,Visa,4676.68,Refunded
+3153,3153,Mastercard,1962.92,Refunded
+3154,3154,UPI,3649.72,Paid
+3155,3155,Visa,6710.91,Paid
+3156,3156,PayPal,8188.33,Paid
+3157,3157,PayPal,5667.8,Refunded
+3158,3158,Gift Card,3711.91,Paid
+3159,3159,Visa,8064.4,Paid
+3160,3160,Gift Card,5726.95,Paid
+3161,3161,Mastercard,3013.16,Paid
+3162,3162,Visa,4105.68,Paid
+3163,3163,Visa,3306.02,Paid
+3164,3164,Gift Card,5688.77,Paid
+3165,3165,Gift Card,311,Paid
+3166,3166,UPI,7694.28,Paid
+3167,3167,Visa,10612.25,Paid
+3168,3168,Mastercard,14172,Paid
+3169,3169,Visa,328.3,Refunded
+3170,3170,PayPal,1658.21,Paid
+3171,3171,Gift Card,260.21,Refunded
+3172,3172,Visa,4373.97,Paid
+3173,3173,UPI,475.51,Paid
+3174,3174,Visa,11137.53,Refunded
+3175,3175,Mastercard,2671.01,Paid
+3176,3176,Gift Card,7763.96,Paid
+3177,3177,Gift Card,10631.83,Paid
+3178,3178,Gift Card,3079.75,Paid
+3179,3179,Visa,7412.15,Paid
+3180,3180,PayPal,1227.6,Paid
+3181,3181,Mastercard,5579.75,Refunded
+3182,3182,UPI,6761.19,Paid
+3183,3183,PayPal,8698.7,Paid
+3184,3184,Mastercard,8148.27,Paid
+3185,3185,PayPal,5911.61,Paid
+3186,3186,UPI,8822.47,Paid
+3187,3187,Mastercard,5921.03,Refunded
+3188,3188,PayPal,8280.85,Paid
+3189,3189,UPI,1292.75,Paid
+3190,3190,PayPal,665.26,Paid
+3191,3191,PayPal,9804.42,Paid
+3192,3192,Mastercard,6023.17,Paid
+3193,3193,PayPal,6002.12,Paid
+3194,3194,PayPal,1200.95,Refunded
+3195,3195,UPI,1265.05,Paid
+3196,3196,UPI,3289.9,Paid
+3197,3197,UPI,2865.32,Paid
+3198,3198,Mastercard,804.81,Refunded
+3199,3199,PayPal,855.65,Paid
+3200,3200,PayPal,1320.05,Paid
+3201,3201,Mastercard,15500.12,Refunded
+3202,3202,Mastercard,5498.76,Refunded
+3203,3203,Visa,5206.68,Paid
+3204,3204,Gift Card,15143.96,Refunded
+3205,3205,Visa,7586.25,Paid
+3206,3206,Visa,1260.31,Paid
+3207,3207,Gift Card,5521.41,Refunded
+3208,3208,Visa,2330.29,Refunded
+3209,3209,Mastercard,5343.08,Paid
+3210,3210,PayPal,9758.49,Refunded
+3211,3211,Gift Card,4227.91,Paid
+3212,3212,Visa,15771.73,Paid
+3213,3213,UPI,38.53,Paid
+3214,3214,PayPal,10108.01,Paid
+3215,3215,Gift Card,13240.76,Paid
+3216,3216,Visa,1642.76,Paid
+3217,3217,PayPal,10172.65,Paid
+3218,3218,UPI,6236.36,Refunded
+3219,3219,Mastercard,12782.68,Paid
+3220,3220,PayPal,3638.99,Paid
+3221,3221,Mastercard,2726.87,Paid
+3222,3222,Gift Card,10348.28,Paid
+3223,3223,PayPal,5420.24,Paid
+3224,3224,PayPal,15898.72,Paid
+3225,3225,PayPal,4310.37,Paid
+3226,3226,UPI,462.23,Refunded
+3227,3227,Gift Card,11760.09,Refunded
+3228,3228,Visa,1060.26,Paid
+3229,3229,Mastercard,4391.42,Paid
+3230,3230,UPI,3643.35,Paid
+3231,3231,UPI,6976.32,Paid
+3232,3232,UPI,10072.53,Paid
+3233,3233,UPI,5030.74,Paid
+3234,3234,PayPal,8683.2,Paid
+3235,3235,Mastercard,4421.45,Paid
+3236,3236,Visa,8943.2,Refunded
+3237,3237,UPI,11078.76,Paid
+3238,3238,Visa,14616.86,Paid
+3239,3239,Gift Card,10358.26,Paid
+3240,3240,Visa,4823.55,Paid
+3241,3241,UPI,13442.12,Paid
+3242,3242,PayPal,7819.6,Paid
+3243,3243,Mastercard,316.42,Paid
+3244,3244,Mastercard,7629.18,Paid
+3245,3245,UPI,4189.88,Paid
+3246,3246,Mastercard,2396.71,Paid
+3247,3247,Gift Card,7983.13,Paid
+3248,3248,PayPal,7408.37,Paid
+3249,3249,Gift Card,10248.05,Paid
+3250,3250,PayPal,11561.67,Paid
+3251,3251,Visa,5186.84,Paid
+3252,3252,PayPal,7459.24,Paid
+3253,3253,Mastercard,8603.73,Paid
+3254,3254,Gift Card,3293.02,Paid
+3255,3255,Mastercard,8911.06,Refunded
+3256,3256,Visa,5475.09,Paid
+3257,3257,Gift Card,8663.64,Paid
+3258,3258,Gift Card,2848.33,Refunded
+3259,3259,Gift Card,734.61,Paid
+3260,3260,Visa,8910.84,Paid
+3261,3261,Visa,891.58,Paid
+3262,3262,Visa,4821.49,Paid
+3263,3263,Mastercard,920.14,Paid
+3264,3264,Visa,4256.38,Paid
+3265,3265,Visa,2509.85,Paid
+3266,3266,Visa,7295.98,Paid
+3267,3267,Gift Card,10865.58,Paid
+3268,3268,PayPal,10305.66,Paid
+3269,3269,UPI,9728.87,Refunded
+3270,3270,Mastercard,16530.98,Paid
+3271,3271,Gift Card,374.21,Paid
+3272,3272,Mastercard,5564.12,Paid
+3273,3273,UPI,3367.29,Paid
+3274,3274,PayPal,13876.93,Paid
+3275,3275,Visa,8180.68,Refunded
+3276,3276,UPI,10635.47,Paid
+3277,3277,PayPal,1407.43,Paid
+3278,3278,PayPal,3565.11,Paid
+3279,3279,Gift Card,216.52,Refunded
+3280,3280,Mastercard,6416.27,Paid
+3281,3281,UPI,5600.94,Paid
+3282,3282,PayPal,7306.33,Refunded
+3283,3283,Mastercard,12666.81,Paid
+3284,3284,Mastercard,2001.75,Paid
+3285,3285,Mastercard,1818.68,Refunded
+3286,3286,UPI,7730.99,Paid
+3287,3287,UPI,10241.59,Paid
+3288,3288,Visa,2518.24,Paid
+3289,3289,PayPal,4338.16,Paid
+3290,3290,Mastercard,1656.25,Paid
+3291,3291,UPI,3073.74,Paid
+3292,3292,Visa,11006.22,Refunded
+3293,3293,UPI,655.51,Paid
+3294,3294,Visa,12721.49,Refunded
+3295,3295,Gift Card,6384.03,Refunded
+3296,3296,UPI,479.17,Paid
+3297,3297,Visa,2423.12,Paid
+3298,3298,Mastercard,2066.07,Paid
+3299,3299,Mastercard,1606.95,Paid
+3300,3300,PayPal,7706.35,Refunded
+3301,3301,UPI,7782.91,Paid
+3302,3302,Mastercard,1048.26,Paid
+3303,3303,Mastercard,5200.06,Refunded
+3304,3304,UPI,2375.47,Paid
+3305,3305,UPI,6812.24,Refunded
+3306,3306,PayPal,4595.93,Paid
+3307,3307,Mastercard,9873.24,Paid
+3308,3308,UPI,5478.6,Paid
+3309,3309,UPI,9422.78,Paid
+3310,3310,Visa,2224.35,Refunded
+3311,3311,Mastercard,13138.79,Paid
+3312,3312,PayPal,13578.21,Paid
+3313,3313,UPI,1067.63,Paid
+3314,3314,PayPal,2170.99,Refunded
+3315,3315,UPI,8444.89,Refunded
+3316,3316,UPI,8780.4,Paid
+3317,3317,UPI,6056.66,Refunded
+3318,3318,Gift Card,3867.44,Paid
+3319,3319,UPI,915.82,Paid
+3320,3320,Mastercard,6202.45,Paid
+3321,3321,UPI,8536.9,Paid
+3322,3322,PayPal,13661.01,Paid
+3323,3323,Gift Card,5212.33,Paid
+3324,3324,Visa,9310.85,Paid
+3325,3325,UPI,7243.98,Paid
+3326,3326,Mastercard,11066.02,Paid
+3327,3327,UPI,17141.29,Paid
+3328,3328,Visa,3725.49,Refunded
+3329,3329,Gift Card,8974.64,Paid
+3330,3330,Mastercard,6875.05,Refunded
+3331,3331,Visa,2854.73,Paid
+3332,3332,PayPal,3088.76,Paid
+3333,3333,PayPal,1414.93,Paid
+3334,3334,UPI,6475.62,Paid
+3335,3335,UPI,6443.31,Paid
+3336,3336,Gift Card,9807.01,Paid
+3337,3337,Gift Card,9098.55,Paid
+3338,3338,Gift Card,8285.25,Paid
+3339,3339,UPI,8229.7,Paid
+3340,3340,Visa,10390.05,Refunded
+3341,3341,Mastercard,5975.59,Refunded
+3342,3342,PayPal,6913.57,Refunded
+3343,3343,PayPal,9989.05,Paid
+3344,3344,PayPal,62.4,Paid
+3345,3345,Gift Card,4297.72,Paid
+3346,3346,Visa,4647.71,Paid
+3347,3347,Visa,10238.74,Paid
+3348,3348,Visa,7277.6,Refunded
+3349,3349,Visa,9475.05,Paid
+3350,3350,Visa,1382.17,Paid
+3351,3351,Mastercard,3990.23,Paid
+3352,3352,Visa,9277.75,Refunded
+3353,3353,PayPal,4761.45,Paid
+3354,3354,Mastercard,7249.12,Paid
+3355,3355,UPI,11655.65,Paid
+3356,3356,Visa,1177.84,Paid
+3357,3357,UPI,8870.13,Paid
+3358,3358,PayPal,4303.09,Paid
+3359,3359,Visa,1451.51,Paid
+3360,3360,Mastercard,6061.06,Refunded
+3361,3361,Visa,3969.13,Paid
+3362,3362,Mastercard,7232.65,Paid
+3363,3363,Mastercard,14611.16,Paid
+3364,3364,Gift Card,12203.41,Paid
+3365,3365,Mastercard,11181.53,Paid
+3366,3366,Visa,6252.42,Refunded
+3367,3367,Visa,11662.24,Paid
+3368,3368,PayPal,12118.83,Refunded
+3369,3369,Mastercard,2849.86,Paid
+3370,3370,UPI,806.26,Paid
+3371,3371,UPI,7608.71,Refunded
+3372,3372,Mastercard,5760.64,Paid
+3373,3373,Visa,12295.07,Paid
+3374,3374,Gift Card,8661.84,Refunded
+3375,3375,Mastercard,10566.01,Refunded
+3376,3376,UPI,2150.78,Paid
+3377,3377,UPI,6689.83,Refunded
+3378,3378,UPI,9383.23,Paid
+3379,3379,Gift Card,6065.45,Paid
+3380,3380,Mastercard,10172.71,Paid
+3381,3381,Visa,1185.81,Paid
+3382,3382,Mastercard,7267.29,Paid
+3383,3383,PayPal,956.19,Paid
+3384,3384,Mastercard,12235.06,Paid
+3385,3385,Visa,1747.63,Paid
+3386,3386,Gift Card,6843.36,Paid
+3387,3387,PayPal,5385.03,Paid
+3388,3388,UPI,1440.31,Paid
+3389,3389,Mastercard,5607.38,Paid
+3390,3390,Mastercard,6717.97,Paid
+3391,3391,Gift Card,3662.45,Paid
+3392,3392,Gift Card,3152.16,Paid
+3393,3393,Gift Card,7679.15,Paid
+3394,3394,Visa,1690.27,Paid
+3395,3395,Gift Card,5501.42,Refunded
+3396,3396,Gift Card,3468.48,Paid
+3397,3397,Visa,7496.07,Paid
+3398,3398,Gift Card,1994.5,Paid
+3399,3399,Gift Card,7581.88,Paid
+3400,3400,Mastercard,3086.16,Paid
+3401,3401,PayPal,431.94,Refunded
+3402,3402,UPI,5273.14,Refunded
+3403,3403,Visa,3190.24,Paid
+3404,3404,Visa,8396.26,Paid
+3405,3405,Mastercard,2708.36,Paid
+3406,3406,Visa,6207.26,Refunded
+3407,3407,Visa,2364.29,Paid
+3408,3408,Mastercard,9392.98,Paid
+3409,3409,Visa,3512.55,Paid
+3410,3410,PayPal,302.91,Paid
+3411,3411,Visa,6546.05,Paid
+3412,3412,PayPal,14551.27,Paid
+3413,3413,Mastercard,2996.94,Paid
+3414,3414,UPI,2621.45,Paid
+3415,3415,Visa,11841.35,Refunded
+3416,3416,Visa,10376.53,Paid
+3417,3417,PayPal,2859.9,Refunded
+3418,3418,Visa,3065.87,Paid
+3419,3419,Gift Card,2006.47,Paid
+3420,3420,PayPal,4595.35,Paid
+3421,3421,Mastercard,4851.9,Paid
+3422,3422,Gift Card,5671.55,Paid
+3423,3423,Visa,11334.04,Paid
+3424,3424,Mastercard,8608.88,Paid
+3425,3425,PayPal,923.38,Paid
+3426,3426,Visa,10394.7,Paid
+3427,3427,PayPal,4637.22,Paid
+3428,3428,Gift Card,16318.1,Paid
+3429,3429,Mastercard,1631.32,Paid
+3430,3430,Mastercard,7577.3,Paid
+3431,3431,PayPal,526.8,Paid
+3432,3432,Gift Card,5733.55,Paid
+3433,3433,PayPal,9078.45,Refunded
+3434,3434,UPI,4001.67,Refunded
+3435,3435,Mastercard,15898.05,Paid
+3436,3436,Visa,10577.23,Paid
+3437,3437,Visa,12638.21,Paid
+3438,3438,Visa,3786.83,Paid
+3439,3439,Gift Card,1742.12,Refunded
+3440,3440,Mastercard,3478.99,Refunded
+3441,3441,UPI,2280.28,Paid
+3442,3442,Visa,11660.21,Refunded
+3443,3443,UPI,4881.56,Refunded
+3444,3444,UPI,11066.15,Refunded
+3445,3445,UPI,9038.62,Paid
+3446,3446,Mastercard,11434.35,Paid
+3447,3447,Visa,1899.67,Paid
+3448,3448,PayPal,6910.16,Paid
+3449,3449,Mastercard,8083.14,Paid
+3450,3450,UPI,12900.25,Refunded
+3451,3451,Gift Card,6867.19,Paid
+3452,3452,PayPal,9093.62,Paid
+3453,3453,Gift Card,5152.67,Paid
+3454,3454,UPI,969.39,Paid
+3455,3455,Gift Card,8385.64,Paid
+3456,3456,Visa,10248.23,Paid
+3457,3457,PayPal,7515,Paid
+3458,3458,UPI,14834.92,Paid
+3459,3459,Gift Card,7299.9,Refunded
+3460,3460,PayPal,5045.72,Paid
+3461,3461,PayPal,4579.63,Paid
+3462,3462,PayPal,4403.41,Paid
+3463,3463,Gift Card,8259.08,Paid
+3464,3464,UPI,11871.28,Paid
+3465,3465,Mastercard,9206.49,Paid
+3466,3466,Gift Card,8444.67,Paid
+3467,3467,PayPal,6580.38,Paid
+3468,3468,Mastercard,5662.1,Paid
+3469,3469,PayPal,6474.65,Paid
+3470,3470,PayPal,9808.53,Paid
+3471,3471,Mastercard,6639.18,Refunded
+3472,3472,Mastercard,3448,Paid
+3473,3473,Visa,3526.35,Paid
+3474,3474,Mastercard,11087.48,Paid
+3475,3475,UPI,4948.34,Paid
+3476,3476,Visa,1076.95,Paid
+3477,3477,Mastercard,6273.12,Paid
+3478,3478,UPI,810.58,Paid
+3479,3479,Visa,1459.07,Refunded
+3480,3480,Mastercard,87.45,Paid
+3481,3481,Gift Card,4717.09,Paid
+3482,3482,Mastercard,9771.06,Paid
+3483,3483,Visa,8972.11,Paid
+3484,3484,UPI,8164.84,Paid
+3485,3485,PayPal,6300.67,Refunded
+3486,3486,Mastercard,903.91,Paid
+3487,3487,Mastercard,2231.67,Paid
+3488,3488,Mastercard,6099.92,Paid
+3489,3489,Mastercard,5911.63,Paid
+3490,3490,Visa,3349.78,Paid
+3491,3491,Visa,4102.99,Paid
+3492,3492,Visa,1166.39,Paid
+3493,3493,Visa,557.26,Paid
+3494,3494,UPI,9482.72,Paid
+3495,3495,Visa,835.89,Paid
+3496,3496,PayPal,10106.12,Paid
+3497,3497,Visa,3529.13,Paid
+3498,3498,Mastercard,5691.13,Paid
+3499,3499,Gift Card,9501.51,Paid
+3500,3500,UPI,6394.06,Paid
+3501,3501,UPI,9750.45,Paid
+3502,3502,PayPal,4171.71,Paid
+3503,3503,PayPal,9345.12,Refunded
+3504,3504,Gift Card,5262.81,Paid
+3505,3505,PayPal,11092.08,Paid
+3506,3506,Visa,5537.31,Refunded
+3507,3507,Visa,10844.66,Refunded
+3508,3508,Gift Card,4638.34,Paid
+3509,3509,UPI,4576.93,Paid
+3510,3510,UPI,509.75,Paid
+3511,3511,Gift Card,3616.62,Paid
+3512,3512,Gift Card,625.95,Refunded
+3513,3513,UPI,816.45,Paid
+3514,3514,Visa,8206.5,Paid
+3515,3515,Mastercard,9706.18,Refunded
+3516,3516,UPI,3207.88,Paid
+3517,3517,UPI,5833.86,Paid
+3518,3518,Visa,5125.3,Paid
+3519,3519,Gift Card,3811.5,Paid
+3520,3520,Gift Card,11533.63,Paid
+3521,3521,Gift Card,12493.71,Paid
+3522,3522,Visa,2555.84,Paid
+3523,3523,UPI,7793.43,Paid
+3524,3524,PayPal,4603.66,Paid
+3525,3525,Gift Card,11131.05,Paid
+3526,3526,Gift Card,983.62,Refunded
+3527,3527,Gift Card,6858.09,Refunded
+3528,3528,Mastercard,8935.18,Paid
+3529,3529,UPI,7788.64,Paid
+3530,3530,PayPal,5785.93,Paid
+3531,3531,Gift Card,1202.03,Paid
+3532,3532,Gift Card,7537.5,Refunded
+3533,3533,Gift Card,3924.39,Paid
+3534,3534,Mastercard,1329.15,Paid
+3535,3535,Mastercard,8387.84,Paid
+3536,3536,Visa,12230.88,Refunded
+3537,3537,Mastercard,6721.39,Paid
+3538,3538,Visa,9097.05,Paid
+3539,3539,Gift Card,9170.58,Paid
+3540,3540,Visa,7958.6,Paid
+3541,3541,Mastercard,10047.54,Paid
+3542,3542,Gift Card,823.44,Refunded
+3543,3543,UPI,6977.34,Paid
+3544,3544,PayPal,12850.41,Paid
+3545,3545,Mastercard,587.5,Refunded
+3546,3546,PayPal,605.87,Paid
+3547,3547,Mastercard,1758.54,Paid
+3548,3548,PayPal,5578.16,Paid
+3549,3549,Visa,8473.1,Refunded
+3550,3550,Visa,5443.25,Paid
+3551,3551,Mastercard,7619.95,Paid
+3552,3552,PayPal,13608.58,Paid
+3553,3553,Gift Card,9515.72,Paid
+3554,3554,Visa,8653.48,Refunded
+3555,3555,PayPal,6836.86,Paid
+3556,3556,Mastercard,2373.8,Paid
+3557,3557,Visa,7249.21,Refunded
+3558,3558,PayPal,17490.83,Paid
+3559,3559,Visa,1745.69,Paid
+3560,3560,PayPal,1661.84,Paid
+3561,3561,Mastercard,3497.18,Paid
+3562,3562,Mastercard,16833.8,Paid
+3563,3563,UPI,7309.6,Paid
+3564,3564,UPI,5766.81,Paid
+3565,3565,Visa,13050.71,Paid
+3566,3566,Mastercard,7855.44,Paid
+3567,3567,Visa,6772.02,Refunded
+3568,3568,PayPal,4322.85,Paid
+3569,3569,Mastercard,7082.31,Paid
+3570,3570,Visa,2524.98,Paid
+3571,3571,Visa,6149.98,Paid
+3572,3572,Mastercard,2338.06,Refunded
+3573,3573,Mastercard,6320.51,Paid
+3574,3574,Mastercard,2357.36,Paid
+3575,3575,PayPal,12553.35,Refunded
+3576,3576,Visa,5062.98,Refunded
+3577,3577,Mastercard,11724.49,Refunded
+3578,3578,UPI,6668.98,Paid
+3579,3579,UPI,4122.21,Paid
+3580,3580,Mastercard,10570.46,Refunded
+3581,3581,UPI,3186.85,Paid
+3582,3582,Visa,5109.34,Refunded
+3583,3583,Visa,8046.44,Paid
+3584,3584,Visa,3710.28,Paid
+3585,3585,Mastercard,7161.59,Refunded
+3586,3586,Mastercard,10001.34,Paid
+3587,3587,PayPal,4945.19,Paid
+3588,3588,PayPal,538.64,Paid
+3589,3589,PayPal,8560.57,Paid
+3590,3590,Gift Card,11120.45,Paid
+3591,3591,Gift Card,2451.05,Paid
+3592,3592,Gift Card,2908.14,Paid
+3593,3593,Gift Card,4540.29,Paid
+3594,3594,Visa,6332.07,Refunded
+3595,3595,Mastercard,10476.77,Paid
+3596,3596,PayPal,4458.34,Paid
+3597,3597,Visa,889.53,Paid
+3598,3598,Mastercard,269.23,Paid
+3599,3599,Visa,5710.6,Paid
+3600,3600,PayPal,9185.13,Refunded
+3601,3601,Gift Card,3762.55,Paid
+3602,3602,Gift Card,9870.17,Paid
+3603,3603,UPI,7569.36,Refunded
+3604,3604,Visa,7916.33,Paid
+3605,3605,UPI,12344.81,Paid
+3606,3606,Gift Card,7417.97,Refunded
+3607,3607,Gift Card,14080.72,Paid
+3608,3608,Gift Card,1035.43,Paid
+3609,3609,PayPal,6303.69,Paid
+3610,3610,PayPal,4099.83,Paid
+3611,3611,Mastercard,7519.97,Refunded
+3612,3612,PayPal,5930.78,Paid
+3613,3613,UPI,14917.17,Paid
+3614,3614,Gift Card,6047.65,Paid
+3615,3615,Visa,2377.96,Paid
+3616,3616,Mastercard,7053.61,Paid
+3617,3617,Mastercard,123.92,Paid
+3618,3618,UPI,4952.95,Paid
+3619,3619,Visa,2166.46,Refunded
+3620,3620,Visa,4216.28,Paid
+3621,3621,Mastercard,4298.08,Paid
+3622,3622,UPI,5986.64,Paid
+3623,3623,Gift Card,1108.07,Refunded
+3624,3624,UPI,1021.86,Refunded
+3625,3625,Gift Card,7567.65,Paid
+3626,3626,UPI,5140.54,Paid
+3627,3627,Visa,5707.42,Paid
+3628,3628,Mastercard,5923.86,Paid
+3629,3629,PayPal,12529.98,Paid
+3630,3630,PayPal,10864.18,Paid
+3631,3631,Mastercard,6132.97,Refunded
+3632,3632,UPI,9323.38,Paid
+3633,3633,PayPal,34.87,Paid
+3634,3634,Mastercard,591.16,Paid
+3635,3635,Mastercard,16129.2,Paid
+3636,3636,UPI,5235.7,Paid
+3637,3637,UPI,6497.75,Paid
+3638,3638,PayPal,1866.2,Paid
+3639,3639,Gift Card,2822.85,Refunded
+3640,3640,PayPal,7360.82,Paid
+3641,3641,Gift Card,10178.79,Paid
+3642,3642,Visa,9386.99,Paid
+3643,3643,PayPal,3841.3,Refunded
+3644,3644,Visa,2650.26,Paid
+3645,3645,UPI,12320.58,Paid
+3646,3646,Mastercard,5519.74,Paid
+3647,3647,Mastercard,7271,Refunded
+3648,3648,UPI,1292.71,Paid
+3649,3649,Visa,2210.95,Refunded
+3650,3650,Visa,4718.76,Paid
+3651,3651,Visa,7328.71,Paid
+3652,3652,Mastercard,5628.34,Paid
+3653,3653,PayPal,596.15,Refunded
+3654,3654,PayPal,1160.52,Paid
+3655,3655,UPI,11370.41,Paid
+3656,3656,Gift Card,5922.3,Refunded
+3657,3657,Gift Card,2442.93,Paid
+3658,3658,Mastercard,9126.97,Paid
+3659,3659,Visa,4961.33,Paid
+3660,3660,PayPal,174.41,Paid
+3661,3661,UPI,8597.63,Refunded
+3662,3662,Visa,7339.91,Paid
+3663,3663,PayPal,3464.18,Paid
+3664,3664,Visa,913.66,Paid
+3665,3665,PayPal,4178.57,Paid
+3666,3666,UPI,6240.46,Paid
+3667,3667,PayPal,14930.28,Refunded
+3668,3668,Gift Card,7970.49,Paid
+3669,3669,UPI,6426.55,Paid
+3670,3670,Visa,3335.87,Paid
+3671,3671,Visa,5210.07,Refunded
+3672,3672,UPI,363.18,Paid
+3673,3673,PayPal,9006.91,Paid
+3674,3674,Visa,2517.78,Paid
+3675,3675,UPI,14174.29,Paid
+3676,3676,Mastercard,6307.78,Refunded
+3677,3677,PayPal,6936.11,Paid
+3678,3678,Mastercard,7133.89,Paid
+3679,3679,UPI,4107.12,Paid
+3680,3680,Mastercard,10203.72,Paid
+3681,3681,Visa,1584.34,Paid
+3682,3682,Gift Card,9483.02,Paid
+3683,3683,Gift Card,3648.61,Refunded
+3684,3684,PayPal,1323.81,Paid
+3685,3685,Gift Card,14735.58,Refunded
+3686,3686,Visa,13103.16,Paid
+3687,3687,Mastercard,5861.12,Paid
+3688,3688,Visa,1084.72,Paid
+3689,3689,Gift Card,3518.89,Paid
+3690,3690,PayPal,14446.94,Paid
+3691,3691,PayPal,8439.56,Refunded
+3692,3692,Visa,10191.57,Paid
+3693,3693,Gift Card,6853.17,Paid
+3694,3694,Visa,6456.56,Paid
+3695,3695,Gift Card,13545.49,Paid
+3696,3696,PayPal,4911.34,Paid
+3697,3697,PayPal,3341.68,Paid
+3698,3698,Visa,7657.61,Paid
+3699,3699,Visa,14516.36,Paid
+3700,3700,PayPal,1797.53,Paid
+3701,3701,Visa,3892.95,Paid
+3702,3702,Gift Card,8558.75,Refunded
+3703,3703,Mastercard,4805.87,Paid
+3704,3704,Mastercard,5115.06,Paid
+3705,3705,Visa,6400.76,Paid
+3706,3706,Gift Card,10604.65,Paid
+3707,3707,PayPal,4399.44,Paid
+3708,3708,Gift Card,4341.85,Paid
+3709,3709,UPI,10958.45,Refunded
+3710,3710,Mastercard,4526.85,Refunded
+3711,3711,PayPal,5202.1,Paid
+3712,3712,PayPal,1333.53,Paid
+3713,3713,Mastercard,2170.12,Paid
+3714,3714,Visa,7383.98,Paid
+3715,3715,Visa,9266.64,Paid
+3716,3716,PayPal,6779.06,Paid
+3717,3717,Mastercard,3984.85,Paid
+3718,3718,Mastercard,4887.88,Paid
+3719,3719,Visa,5202.97,Paid
+3720,3720,UPI,5629.1,Paid
+3721,3721,Mastercard,9723.98,Paid
+3722,3722,PayPal,10362.17,Paid
+3723,3723,PayPal,7823.19,Paid
+3724,3724,Visa,12818.15,Paid
+3725,3725,Mastercard,1385.08,Paid
+3726,3726,UPI,4465.07,Paid
+3727,3727,Visa,1723.96,Paid
+3728,3728,Mastercard,14861.35,Paid
+3729,3729,Mastercard,3276.03,Paid
+3730,3730,Mastercard,5610.14,Paid
+3731,3731,Visa,10348.45,Paid
+3732,3732,Mastercard,18599.45,Paid
+3733,3733,Visa,5796.17,Paid
+3734,3734,Mastercard,5038.01,Paid
+3735,3735,Gift Card,5162.27,Paid
+3736,3736,PayPal,9621.17,Paid
+3737,3737,Visa,9456.27,Paid
+3738,3738,UPI,1152.12,Paid
+3739,3739,Mastercard,6706.91,Paid
+3740,3740,UPI,3468.69,Paid
+3741,3741,Mastercard,7172.09,Paid
+3742,3742,UPI,15537.9,Paid
+3743,3743,PayPal,1088.18,Paid
+3744,3744,PayPal,4996.79,Paid
+3745,3745,Gift Card,1419.94,Paid
+3746,3746,UPI,9992.75,Paid
+3747,3747,Visa,12894.99,Refunded
+3748,3748,PayPal,2628.04,Paid
+3749,3749,Mastercard,1127.49,Paid
+3750,3750,PayPal,6801.88,Paid
+3751,3751,Visa,1097.91,Paid
+3752,3752,Visa,7701.53,Refunded
+3753,3753,Visa,1205.24,Paid
+3754,3754,Gift Card,1340.77,Refunded
+3755,3755,Mastercard,3050.48,Paid
+3756,3756,Gift Card,3967.79,Paid
+3757,3757,PayPal,5297.29,Paid
+3758,3758,UPI,1625.15,Paid
+3759,3759,PayPal,11105.13,Paid
+3760,3760,UPI,2290.06,Paid
+3761,3761,UPI,2664.41,Paid
+3762,3762,PayPal,4281.33,Paid
+3763,3763,Gift Card,4078.17,Paid
+3764,3764,Gift Card,1953.25,Paid
+3765,3765,UPI,2983.14,Refunded
+3766,3766,Mastercard,7805.24,Refunded
+3767,3767,Mastercard,13144.68,Paid
+3768,3768,Gift Card,11699.26,Paid
+3769,3769,UPI,13862.71,Paid
+3770,3770,PayPal,3974.87,Paid
+3771,3771,Visa,8099.79,Paid
+3772,3772,UPI,753.63,Paid
+3773,3773,Gift Card,5875.1,Refunded
+3774,3774,Gift Card,6649.32,Paid
+3775,3775,UPI,3982.72,Paid
+3776,3776,PayPal,7410.47,Paid
+3777,3777,UPI,9250.93,Paid
+3778,3778,Mastercard,8417.08,Paid
+3779,3779,UPI,8879.19,Paid
+3780,3780,Visa,9521.93,Paid
+3781,3781,Gift Card,4383.33,Paid
+3782,3782,PayPal,1141.97,Paid
+3783,3783,PayPal,139.53,Refunded
+3784,3784,Visa,1813.92,Paid
+3785,3785,Visa,5052.57,Paid
+3786,3786,Visa,13001.42,Paid
+3787,3787,Visa,6010.82,Paid
+3788,3788,Gift Card,7030.58,Paid
+3789,3789,PayPal,402.4,Paid
+3790,3790,Visa,6404.33,Refunded
+3791,3791,Mastercard,1398.97,Paid
+3792,3792,UPI,10614.3,Paid
+3793,3793,Gift Card,1242.37,Refunded
+3794,3794,Gift Card,6826.31,Refunded
+3795,3795,Gift Card,4250.67,Paid
+3796,3796,Mastercard,174.41,Paid
+3797,3797,UPI,4404.45,Refunded
+3798,3798,Visa,4400.25,Paid
+3799,3799,Visa,10513.71,Refunded
+3800,3800,UPI,8388.07,Paid
+3801,3801,Gift Card,4848.93,Paid
+3802,3802,UPI,12644.7,Paid
+3803,3803,UPI,9662.82,Refunded
+3804,3804,Mastercard,6296.1,Refunded
+3805,3805,Visa,1802.89,Paid
+3806,3806,UPI,2542.84,Paid
+3807,3807,Mastercard,4385.78,Paid
+3808,3808,PayPal,10550.56,Paid
+3809,3809,Gift Card,10211.5,Paid
+3810,3810,Visa,3806.54,Paid
+3811,3811,UPI,6393.26,Paid
+3812,3812,Gift Card,11856.88,Paid
+3813,3813,Gift Card,5006.84,Paid
+3814,3814,Visa,4671.54,Paid
+3815,3815,Mastercard,7023.34,Refunded
+3816,3816,Visa,2839.52,Paid
+3817,3817,PayPal,6022.95,Paid
+3818,3818,PayPal,10069.26,Paid
+3819,3819,Visa,1887.82,Paid
+3820,3820,PayPal,11188.24,Paid
+3821,3821,Visa,4900.78,Paid
+3822,3822,Gift Card,9009.4,Paid
+3823,3823,Gift Card,1839.64,Refunded
+3824,3824,UPI,4894.72,Paid
+3825,3825,Mastercard,5624.23,Paid
+3826,3826,UPI,3656.63,Paid
+3827,3827,Mastercard,6350.51,Paid
+3828,3828,UPI,9805.39,Paid
+3829,3829,Mastercard,4290.69,Refunded
+3830,3830,Gift Card,9241.7,Paid
+3831,3831,Visa,3774.33,Paid
+3832,3832,Mastercard,14204.6,Paid
+3833,3833,UPI,7962.65,Refunded
+3834,3834,Visa,7654.49,Refunded
+3835,3835,PayPal,804.14,Paid
+3836,3836,Gift Card,3446.11,Paid
+3837,3837,Visa,1428.15,Paid
+3838,3838,Gift Card,6795.58,Paid
+3839,3839,Mastercard,5596.71,Refunded
+3840,3840,Visa,7066.55,Paid
+3841,3841,Gift Card,2948.13,Paid
+3842,3842,Mastercard,8940.86,Paid
+3843,3843,Mastercard,6902.42,Paid
+3844,3844,PayPal,2240.8,Paid
+3845,3845,Gift Card,4414.77,Paid
+3846,3846,UPI,9181.53,Paid
+3847,3847,UPI,2745.36,Refunded
+3848,3848,PayPal,11441.38,Paid
+3849,3849,UPI,16897.3,Paid
+3850,3850,Gift Card,8823.6,Paid
+3851,3851,Visa,6701.35,Paid
+3852,3852,UPI,96.22,Paid
+3853,3853,UPI,1985.42,Paid
+3854,3854,UPI,12101.45,Paid
+3855,3855,Gift Card,8798.54,Refunded
+3856,3856,PayPal,2637.81,Refunded
+3857,3857,Gift Card,67.04,Paid
+3858,3858,Visa,19196.22,Paid
+3859,3859,PayPal,8429.95,Paid
+3860,3860,Mastercard,7204.48,Paid
+3861,3861,Visa,12792.63,Paid
+3862,3862,PayPal,10374.5,Paid
+3863,3863,UPI,5315.15,Paid
+3864,3864,Gift Card,4662.29,Paid
+3865,3865,Visa,5068.4,Paid
+3866,3866,Visa,5703.96,Refunded
+3867,3867,PayPal,6856.03,Paid
+3868,3868,UPI,11855.88,Paid
+3869,3869,Visa,16381.58,Paid
+3870,3870,Gift Card,2019.57,Paid
+3871,3871,Mastercard,7714.78,Paid
+3872,3872,Gift Card,8264.74,Paid
+3873,3873,PayPal,6486.53,Paid
+3874,3874,Gift Card,1018.05,Paid
+3875,3875,Mastercard,4573.76,Paid
+3876,3876,UPI,3533.05,Paid
+3877,3877,Gift Card,5679.89,Paid
+3878,3878,Visa,5740.35,Refunded
+3879,3879,Gift Card,9794.62,Paid
+3880,3880,PayPal,6225.92,Paid
+3881,3881,Gift Card,2156.8,Paid
+3882,3882,PayPal,7082.98,Paid
+3883,3883,Gift Card,337.8,Refunded
+3884,3884,PayPal,8380.75,Paid
+3885,3885,UPI,5995.05,Paid
+3886,3886,Gift Card,443.86,Paid
+3887,3887,UPI,16798.44,Paid
+3888,3888,UPI,6487.79,Refunded
+3889,3889,Gift Card,7609.36,Paid
+3890,3890,PayPal,2208.67,Paid
+3891,3891,UPI,6684.92,Paid
+3892,3892,Mastercard,1451.51,Paid
+3893,3893,PayPal,9776.63,Paid
+3894,3894,Gift Card,1601.63,Paid
+3895,3895,Mastercard,4398.73,Paid
+3896,3896,PayPal,7206.51,Paid
+3897,3897,UPI,2125.83,Paid
+3898,3898,Visa,6882.91,Paid
+3899,3899,Visa,3146.87,Paid
+3900,3900,Mastercard,9114,Paid
+3901,3901,Gift Card,9314.01,Paid
+3902,3902,UPI,16799.96,Paid
+3903,3903,UPI,7931.33,Paid
+3904,3904,Gift Card,7324.68,Paid
+3905,3905,UPI,12636.44,Paid
+3906,3906,Visa,10780.23,Paid
+3907,3907,PayPal,1271.2,Paid
+3908,3908,Gift Card,1992.93,Paid
+3909,3909,PayPal,8871.99,Refunded
+3910,3910,Mastercard,8647.8,Paid
+3911,3911,PayPal,601.74,Paid
+3912,3912,UPI,10742.15,Paid
+3913,3913,PayPal,6202.26,Paid
+3914,3914,UPI,9656.67,Refunded
+3915,3915,Visa,7447.4,Paid
+3916,3916,PayPal,10566.99,Paid
+3917,3917,Mastercard,4859.97,Refunded
+3918,3918,PayPal,10555.82,Paid
+3919,3919,UPI,13802.24,Paid
+3920,3920,PayPal,8771.82,Paid
+3921,3921,Mastercard,4039.82,Paid
+3922,3922,Gift Card,8404.7,Paid
+3923,3923,Visa,5039.06,Paid
+3924,3924,UPI,8096.39,Paid
+3925,3925,Gift Card,9460.68,Paid
+3926,3926,Mastercard,9845.04,Paid
+3927,3927,Visa,186.58,Paid
+3928,3928,Gift Card,6019.45,Paid
+3929,3929,Visa,6038.6,Paid
+3930,3930,Mastercard,7603.94,Paid
+3931,3931,Gift Card,5686.53,Refunded
+3932,3932,PayPal,4345.39,Paid
+3933,3933,Mastercard,15290.09,Paid
+3934,3934,PayPal,6978,Paid
+3935,3935,Visa,6044.67,Paid
+3936,3936,Mastercard,3788.57,Paid
+3937,3937,Mastercard,10140.47,Refunded
+3938,3938,Gift Card,8226.79,Paid
+3939,3939,UPI,837.36,Paid
+3940,3940,Gift Card,6963.11,Paid
+3941,3941,Visa,12499.56,Paid
+3942,3942,UPI,6063.36,Refunded
+3943,3943,PayPal,16671.47,Paid
+3944,3944,UPI,3679.31,Refunded
+3945,3945,Visa,10892.87,Paid
+3946,3946,Gift Card,946.07,Paid
+3947,3947,UPI,9228.67,Paid
+3948,3948,Gift Card,7701.69,Refunded
+3949,3949,Visa,10682.58,Paid
+3950,3950,UPI,6740.22,Paid
+3951,3951,UPI,7384.19,Paid
+3952,3952,Mastercard,5894.48,Paid
+3953,3953,UPI,7815.45,Paid
+3954,3954,Visa,3843.82,Paid
+3955,3955,PayPal,11381.79,Paid
+3956,3956,Gift Card,4194.17,Paid
+3957,3957,Mastercard,8603.15,Paid
+3958,3958,Visa,18504.78,Paid
+3959,3959,Visa,3943.9,Refunded
+3960,3960,Gift Card,8159.51,Paid
+3961,3961,Gift Card,12276,Refunded
+3962,3962,UPI,1115.85,Paid
+3963,3963,Mastercard,8329.12,Paid
+3964,3964,Gift Card,3310.57,Paid
+3965,3965,Visa,16882.51,Paid
+3966,3966,Visa,11937.51,Paid
+3967,3967,Mastercard,7873.97,Paid
+3968,3968,Gift Card,12976.47,Paid
+3969,3969,Gift Card,12665.16,Paid
+3970,3970,Visa,16112.15,Paid
+3971,3971,Visa,9129.76,Paid
+3972,3972,UPI,1252.71,Refunded
+3973,3973,UPI,1178.78,Paid
+3974,3974,UPI,2410.53,Paid
+3975,3975,Mastercard,5267.17,Paid
+3976,3976,Mastercard,2692.75,Paid
+3977,3977,Mastercard,813.53,Refunded
+3978,3978,Mastercard,13099.14,Paid
+3979,3979,UPI,8592.73,Refunded
+3980,3980,Gift Card,5795.59,Refunded
+3981,3981,PayPal,2130.44,Paid
+3982,3982,PayPal,4685.45,Paid
+3983,3983,PayPal,545.26,Paid
+3984,3984,PayPal,7986.83,Paid
+3985,3985,Gift Card,8609.69,Paid
+3986,3986,Gift Card,6880.82,Paid
+3987,3987,Gift Card,6923.46,Paid
+3988,3988,Visa,3619.66,Paid
+3989,3989,Mastercard,13064.39,Paid
+3990,3990,Mastercard,9296.71,Paid
+3991,3991,PayPal,923.17,Refunded
+3992,3992,Visa,1782.63,Refunded
+3993,3993,Mastercard,11321.52,Paid
+3994,3994,UPI,2794.64,Paid
+3995,3995,Mastercard,2683.97,Paid
+3996,3996,Visa,7535.8,Refunded
+3997,3997,PayPal,7890.75,Refunded
+3998,3998,UPI,8606.51,Paid
+3999,3999,Gift Card,5145.27,Refunded
+4000,4000,Mastercard,302.28,Paid
+4001,4001,PayPal,2311.3,Paid
+4002,4002,Visa,2257.7,Paid
+4003,4003,Gift Card,11366.4,Refunded
+4004,4004,Mastercard,6515.33,Paid
+4005,4005,UPI,2762.4,Paid
+4006,4006,UPI,3711.38,Paid
+4007,4007,Gift Card,2733.27,Paid
+4008,4008,Gift Card,8183.4,Paid
+4009,4009,PayPal,3093,Refunded
+4010,4010,PayPal,3916.44,Refunded
+4011,4011,Gift Card,5417.24,Paid
+4012,4012,Gift Card,3214.05,Paid
+4013,4013,Gift Card,12938.07,Refunded
+4014,4014,UPI,10983.01,Paid
+4015,4015,Gift Card,5948.2,Paid
+4016,4016,Mastercard,447.95,Paid
+4017,4017,Mastercard,3467.8,Paid
+4018,4018,Mastercard,6585.84,Refunded
+4019,4019,Mastercard,3876.67,Paid
+4020,4020,UPI,10880.56,Paid
+4021,4021,Mastercard,7022.15,Paid
+4022,4022,UPI,5529.95,Refunded
+4023,4023,Gift Card,13458.52,Paid
+4024,4024,PayPal,4545.93,Paid
+4025,4025,PayPal,10808.79,Paid
+4026,4026,Visa,3366.99,Paid
+4027,4027,Visa,5797.53,Paid
+4028,4028,Gift Card,5577.11,Paid
+4029,4029,Mastercard,7095.54,Paid
+4030,4030,UPI,7526.74,Paid
+4031,4031,UPI,4213.24,Paid
+4032,4032,UPI,10440.65,Paid
+4033,4033,UPI,8517.95,Paid
+4034,4034,PayPal,6496.29,Paid
+4035,4035,UPI,3494.84,Paid
+4036,4036,Mastercard,12843.92,Paid
+4037,4037,PayPal,1997.12,Paid
+4038,4038,UPI,7841.1,Refunded
+4039,4039,Visa,8240.34,Paid
+4040,4040,UPI,9914.49,Refunded
+4041,4041,PayPal,6378.93,Paid
+4042,4042,UPI,6521.23,Paid
+4043,4043,Mastercard,2211.43,Paid
+4044,4044,Visa,7998.49,Paid
+4045,4045,Gift Card,1961.26,Refunded
+4046,4046,Gift Card,9070.08,Paid
+4047,4047,PayPal,9381.87,Refunded
+4048,4048,Mastercard,2458.1,Paid
+4049,4049,PayPal,5758.68,Paid
+4050,4050,Gift Card,7284.85,Refunded
+4051,4051,PayPal,8952.76,Paid
+4052,4052,Visa,8797.06,Paid
+4053,4053,Gift Card,6377.53,Refunded
+4054,4054,Gift Card,5661.68,Paid
+4055,4055,PayPal,9265.49,Paid
+4056,4056,Gift Card,13539.14,Refunded
+4057,4057,PayPal,3032.61,Paid
+4058,4058,UPI,11880.61,Paid
+4059,4059,Mastercard,5659.16,Paid
+4060,4060,Mastercard,2863.03,Paid
+4061,4061,PayPal,13792.03,Paid
+4062,4062,Visa,11071.18,Paid
+4063,4063,Mastercard,1002.8,Paid
+4064,4064,Mastercard,8470.22,Paid
+4065,4065,Gift Card,18006.73,Paid
+4066,4066,PayPal,10104.39,Paid
+4067,4067,Gift Card,432.35,Paid
+4068,4068,Visa,9471.72,Paid
+4069,4069,UPI,4414.87,Paid
+4070,4070,UPI,5037.32,Paid
+4071,4071,PayPal,2846.77,Paid
+4072,4072,Gift Card,6027.59,Paid
+4073,4073,PayPal,8284.49,Paid
+4074,4074,Gift Card,17929.04,Paid
+4075,4075,UPI,13734.93,Paid
+4076,4076,Visa,997.86,Paid
+4077,4077,Mastercard,1637.44,Paid
+4078,4078,Mastercard,14266.42,Paid
+4079,4079,Gift Card,9754.91,Paid
+4080,4080,PayPal,2991.56,Paid
+4081,4081,Gift Card,6157.28,Paid
+4082,4082,Visa,2973.63,Paid
+4083,4083,Mastercard,4406.93,Paid
+4084,4084,PayPal,7169.53,Paid
+4085,4085,Visa,3528.96,Refunded
+4086,4086,Visa,6181.96,Paid
+4087,4087,Visa,5859.14,Paid
+4088,4088,UPI,2604.91,Paid
+4089,4089,Visa,12712.98,Refunded
+4090,4090,Gift Card,11040.8,Paid
+4091,4091,Visa,13717.69,Paid
+4092,4092,Gift Card,4994.09,Paid
+4093,4093,Mastercard,7969.64,Paid
+4094,4094,Visa,11038.13,Paid
+4095,4095,Gift Card,12007.34,Paid
+4096,4096,Gift Card,2414.41,Refunded
+4097,4097,UPI,4085.57,Refunded
+4098,4098,PayPal,2697.21,Paid
+4099,4099,PayPal,4564.47,Paid
+4100,4100,Mastercard,1863.71,Paid
+4101,4101,PayPal,9562.17,Paid
+4102,4102,PayPal,6557.26,Paid
+4103,4103,Mastercard,2313.92,Paid
+4104,4104,PayPal,10128.4,Paid
+4105,4105,PayPal,5424.99,Refunded
+4106,4106,PayPal,10133,Paid
+4107,4107,Gift Card,416.7,Paid
+4108,4108,Visa,4786.42,Paid
+4109,4109,UPI,8701.7,Paid
+4110,4110,Gift Card,5154.58,Paid
+4111,4111,UPI,5346.5,Paid
+4112,4112,Mastercard,6534.42,Paid
+4113,4113,PayPal,6436.83,Paid
+4114,4114,Gift Card,7739.51,Refunded
+4115,4115,Gift Card,1997.11,Paid
+4116,4116,Gift Card,1430.32,Paid
+4117,4117,UPI,11190.56,Paid
+4118,4118,Mastercard,4622.58,Paid
+4119,4119,Gift Card,10030.92,Paid
+4120,4120,Mastercard,6882.12,Refunded
+4121,4121,Gift Card,2640.93,Paid
+4122,4122,Gift Card,3980.35,Paid
+4123,4123,PayPal,4235.12,Refunded
+4124,4124,Gift Card,6782.63,Refunded
+4125,4125,Gift Card,2332.77,Paid
+4126,4126,PayPal,9053.65,Paid
+4127,4127,PayPal,2204.22,Paid
+4128,4128,Gift Card,466.52,Paid
+4129,4129,Gift Card,16198.33,Paid
+4130,4130,Visa,9937.38,Paid
+4131,4131,Gift Card,1860.38,Paid
+4132,4132,Gift Card,4747.3,Paid
+4133,4133,PayPal,5457.17,Paid
+4134,4134,Visa,7159.18,Paid
+4135,4135,UPI,3618.44,Refunded
+4136,4136,PayPal,12308.12,Paid
+4137,4137,UPI,11986.55,Refunded
+4138,4138,UPI,16097.61,Paid
+4139,4139,PayPal,9478.59,Paid
+4140,4140,UPI,8533.95,Paid
+4141,4141,PayPal,1364.65,Paid
+4142,4142,PayPal,8760.04,Refunded
+4143,4143,Visa,12072.1,Paid
+4144,4144,Gift Card,3107.41,Paid
+4145,4145,PayPal,3083.1,Refunded
+4146,4146,Mastercard,9001.91,Refunded
+4147,4147,UPI,4274.82,Paid
+4148,4148,Gift Card,2293.9,Paid
+4149,4149,Mastercard,5849.91,Refunded
+4150,4150,UPI,5534.93,Paid
+4151,4151,PayPal,1788.44,Paid
+4152,4152,Gift Card,13000.99,Paid
+4153,4153,Visa,3845.46,Paid
+4154,4154,UPI,13571.92,Refunded
+4155,4155,PayPal,3278.06,Paid
+4156,4156,Visa,11270.63,Paid
+4157,4157,UPI,7089.4,Refunded
+4158,4158,Mastercard,8570.18,Refunded
+4159,4159,UPI,3666.14,Refunded
+4160,4160,Visa,4377.87,Paid
+4161,4161,Gift Card,4198.11,Paid
+4162,4162,UPI,10765.05,Paid
+4163,4163,Visa,6229.7,Paid
+4164,4164,PayPal,12798.64,Refunded
+4165,4165,Visa,11668.02,Refunded
+4166,4166,PayPal,15098.36,Paid
+4167,4167,Visa,4795.31,Paid
+4168,4168,Visa,9989.82,Paid
+4169,4169,Mastercard,2507.94,Refunded
+4170,4170,UPI,1596,Paid
+4171,4171,Gift Card,14135.88,Paid
+4172,4172,Mastercard,2043.3,Paid
+4173,4173,Gift Card,9572.47,Refunded
+4174,4174,UPI,6292.23,Paid
+4175,4175,Mastercard,846.74,Paid
+4176,4176,Mastercard,9767.69,Paid
+4177,4177,Mastercard,7087.91,Refunded
+4178,4178,UPI,2550.61,Paid
+4179,4179,Gift Card,5526.89,Refunded
+4180,4180,Gift Card,10053.33,Paid
+4181,4181,Visa,7390.48,Paid
+4182,4182,Mastercard,16976.99,Refunded
+4183,4183,Mastercard,5765.68,Paid
+4184,4184,Visa,9047.83,Paid
+4185,4185,Mastercard,4254.61,Paid
+4186,4186,PayPal,6325.08,Refunded
+4187,4187,PayPal,4671.34,Refunded
+4188,4188,Visa,12348.37,Paid
+4189,4189,UPI,4078.74,Paid
+4190,4190,Mastercard,18568.23,Paid
+4191,4191,PayPal,9287.23,Paid
+4192,4192,Mastercard,4328.6,Paid
+4193,4193,PayPal,7509.56,Paid
+4194,4194,Mastercard,3317.85,Refunded
+4195,4195,Gift Card,1683.8,Paid
+4196,4196,PayPal,11326.48,Paid
+4197,4197,PayPal,10948.46,Paid
+4198,4198,Gift Card,4906.6,Paid
+4199,4199,PayPal,6940.32,Refunded
+4200,4200,Visa,6195.63,Refunded
+4201,4201,PayPal,2792.13,Paid
+4202,4202,Gift Card,12346.59,Paid
+4203,4203,Gift Card,18166.47,Refunded
+4204,4204,PayPal,2299.34,Paid
+4205,4205,PayPal,6258.52,Paid
+4206,4206,UPI,4386.57,Paid
+4207,4207,Gift Card,11144.45,Paid
+4208,4208,UPI,4343.94,Refunded
+4209,4209,Gift Card,2745.54,Paid
+4210,4210,Mastercard,1913.48,Paid
+4211,4211,Visa,1244.78,Refunded
+4212,4212,PayPal,17423.15,Paid
+4213,4213,Gift Card,11603.26,Refunded
+4214,4214,UPI,8736.61,Paid
+4215,4215,PayPal,5662.13,Paid
+4216,4216,PayPal,3571.6,Paid
+4217,4217,PayPal,3837.19,Paid
+4218,4218,UPI,7273.45,Paid
+4219,4219,Gift Card,7121.85,Paid
+4220,4220,Mastercard,11956.33,Refunded
+4221,4221,PayPal,4175.47,Paid
+4222,4222,Visa,10633.11,Paid
+4223,4223,Mastercard,8776.86,Refunded
+4224,4224,PayPal,11424.1,Paid
+4225,4225,UPI,13616.54,Paid
+4226,4226,Visa,7314.27,Paid
+4227,4227,Mastercard,10410.83,Refunded
+4228,4228,Mastercard,10912.17,Paid
+4229,4229,Mastercard,1155.91,Paid
+4230,4230,UPI,465.79,Paid
+4231,4231,UPI,7636.27,Paid
+4232,4232,UPI,61.55,Paid
+4233,4233,UPI,5426.02,Paid
+4234,4234,Gift Card,4082.01,Paid
+4235,4235,PayPal,8042.75,Refunded
+4236,4236,UPI,8575.36,Paid
+4237,4237,PayPal,5537.57,Paid
+4238,4238,Gift Card,6167.89,Refunded
+4239,4239,Mastercard,9569.8,Refunded
+4240,4240,PayPal,1107.05,Paid
+4241,4241,Visa,19746.76,Paid
+4242,4242,Visa,4291.64,Paid
+4243,4243,Gift Card,6317.93,Paid
+4244,4244,Mastercard,9192,Paid
+4245,4245,UPI,7457.01,Paid
+4246,4246,Gift Card,7162.8,Paid
+4247,4247,Visa,1732.23,Paid
+4248,4248,Visa,5213.7,Refunded
+4249,4249,UPI,5880.19,Paid
+4250,4250,PayPal,5622.01,Paid
+4251,4251,Gift Card,4408.72,Paid
+4252,4252,UPI,4660.55,Paid
+4253,4253,PayPal,8048.51,Paid
+4254,4254,Gift Card,10230.78,Paid
+4255,4255,Mastercard,10444.85,Paid
+4256,4256,Mastercard,2713.78,Paid
+4257,4257,PayPal,4048.55,Refunded
+4258,4258,UPI,7284.52,Paid
+4259,4259,PayPal,11367.17,Paid
+4260,4260,PayPal,4995.18,Paid
+4261,4261,Visa,3715.39,Paid
+4262,4262,Gift Card,737.63,Paid
+4263,4263,Visa,1381.66,Paid
+4264,4264,UPI,8397.18,Paid
+4265,4265,Gift Card,4698.36,Paid
+4266,4266,Mastercard,5059.12,Paid
+4267,4267,UPI,1143.81,Paid
+4268,4268,Mastercard,8800.73,Paid
+4269,4269,Visa,375.48,Refunded
+4270,4270,Visa,8741.53,Refunded
+4271,4271,PayPal,4927.06,Refunded
+4272,4272,UPI,2476.74,Paid
+4273,4273,Visa,9885.17,Paid
+4274,4274,Visa,4446.62,Paid
+4275,4275,Mastercard,12270.32,Paid
+4276,4276,UPI,10364.78,Paid
+4277,4277,UPI,11152.03,Paid
+4278,4278,PayPal,462.23,Paid
+4279,4279,Gift Card,4786.28,Paid
+4280,4280,Visa,7832.5,Paid
+4281,4281,Visa,7692.96,Paid
+4282,4282,PayPal,5221.38,Paid
+4283,4283,Gift Card,7700.14,Paid
+4284,4284,UPI,8029.45,Refunded
+4285,4285,UPI,2398.46,Refunded
+4286,4286,Mastercard,8654.04,Paid
+4287,4287,UPI,3463.25,Paid
+4288,4288,Visa,12761.66,Paid
+4289,4289,Mastercard,17456.05,Paid
+4290,4290,Mastercard,6039.94,Paid
+4291,4291,PayPal,680.21,Paid
+4292,4292,Mastercard,8169.02,Refunded
+4293,4293,PayPal,11892.05,Paid
+4294,4294,PayPal,14526.91,Paid
+4295,4295,Visa,12405.47,Paid
+4296,4296,PayPal,3377.01,Paid
+4297,4297,UPI,1740.07,Refunded
+4298,4298,UPI,4881.02,Paid
+4299,4299,UPI,2531.67,Refunded
+4300,4300,Mastercard,10154.62,Paid
+4301,4301,Mastercard,3119.81,Paid
+4302,4302,PayPal,10126.89,Paid
+4303,4303,Gift Card,152.59,Refunded
+4304,4304,PayPal,7421.63,Paid
+4305,4305,Gift Card,6868.16,Paid
+4306,4306,PayPal,3901.87,Paid
+4307,4307,UPI,4142.12,Paid
+4308,4308,Mastercard,1703.79,Paid
+4309,4309,Mastercard,7497.95,Refunded
+4310,4310,Visa,5136.63,Paid
+4311,4311,Visa,7753.27,Paid
+4312,4312,Mastercard,4411.89,Paid
+4313,4313,PayPal,1766.74,Paid
+4314,4314,Gift Card,8424.7,Refunded
+4315,4315,Visa,741.29,Refunded
+4316,4316,Mastercard,8199.39,Paid
+4317,4317,Mastercard,1939.66,Refunded
+4318,4318,Gift Card,3576.5,Paid
+4319,4319,Gift Card,12366.24,Refunded
+4320,4320,Mastercard,4570.46,Paid
+4321,4321,Gift Card,4300.78,Paid
+4322,4322,Mastercard,11324.86,Refunded
+4323,4323,PayPal,11007.9,Paid
+4324,4324,Gift Card,2302.32,Paid
+4325,4325,Mastercard,6413.58,Paid
+4326,4326,Visa,8945.17,Paid
+4327,4327,Visa,9960.42,Paid
+4328,4328,Visa,3240.81,Refunded
+4329,4329,Visa,8806.58,Paid
+4330,4330,Visa,1629.99,Paid
+4331,4331,Visa,3801.56,Paid
+4332,4332,Visa,9771.56,Paid
+4333,4333,Gift Card,4194.46,Paid
+4334,4334,PayPal,8001.85,Paid
+4335,4335,UPI,9039.47,Refunded
+4336,4336,UPI,10755.33,Paid
+4337,4337,Mastercard,7333.99,Paid
+4338,4338,Gift Card,8326.83,Paid
+4339,4339,PayPal,4038.05,Paid
+4340,4340,Mastercard,18173.76,Refunded
+4341,4341,UPI,12998.72,Refunded
+4342,4342,PayPal,6064.2,Paid
+4343,4343,Mastercard,5660.23,Paid
+4344,4344,Visa,237,Refunded
+4345,4345,UPI,3578.41,Paid
+4346,4346,UPI,4834.04,Paid
+4347,4347,UPI,18135.92,Paid
+4348,4348,Visa,14907.28,Paid
+4349,4349,Visa,15086.81,Paid
+4350,4350,UPI,1673.88,Paid
+4351,4351,Gift Card,5478.37,Paid
+4352,4352,Visa,9968.51,Paid
+4353,4353,PayPal,6341.68,Paid
+4354,4354,Mastercard,17065.95,Paid
+4355,4355,PayPal,12072.9,Paid
+4356,4356,UPI,5281.08,Paid
+4357,4357,PayPal,14444.82,Refunded
+4358,4358,Visa,8831.48,Paid
+4359,4359,Visa,3730.06,Paid
+4360,4360,Visa,5381.78,Paid
+4361,4361,PayPal,2779.61,Refunded
+4362,4362,UPI,2991.94,Paid
+4363,4363,Visa,4819.12,Paid
+4364,4364,PayPal,6012.65,Refunded
+4365,4365,PayPal,5419.33,Paid
+4366,4366,Visa,3930.83,Paid
+4367,4367,Mastercard,5158.1,Paid
+4368,4368,Mastercard,7929.26,Paid
+4369,4369,Gift Card,4408.06,Paid
+4370,4370,UPI,7801.25,Paid
+4371,4371,UPI,9917.08,Paid
+4372,4372,UPI,4270.47,Paid
+4373,4373,UPI,4320.14,Paid
+4374,4374,PayPal,6470.23,Refunded
+4375,4375,Visa,2731.94,Refunded
+4376,4376,Gift Card,4427.69,Paid
+4377,4377,PayPal,3652.52,Refunded
+4378,4378,Visa,5225.56,Paid
+4379,4379,PayPal,8906.01,Paid
+4380,4380,Mastercard,2146.25,Paid
+4381,4381,Visa,6183.76,Paid
+4382,4382,Mastercard,17120.4,Paid
+4383,4383,Visa,7995.42,Refunded
+4384,4384,Visa,2907.73,Paid
+4385,4385,Gift Card,9496.92,Paid
+4386,4386,UPI,7772.88,Refunded
+4387,4387,PayPal,5147.81,Paid
+4388,4388,Visa,14188.83,Paid
+4389,4389,Visa,4214.88,Paid
+4390,4390,Mastercard,1658.52,Paid
+4391,4391,Gift Card,13662.27,Paid
+4392,4392,PayPal,2895.56,Paid
+4393,4393,Visa,5957.94,Paid
+4394,4394,UPI,3666.23,Paid
+4395,4395,Gift Card,891.58,Paid
+4396,4396,Gift Card,5983.53,Refunded
+4397,4397,Mastercard,5402.68,Refunded
+4398,4398,Mastercard,10327.96,Refunded
+4399,4399,Gift Card,2060.61,Paid
+4400,4400,Mastercard,2303.62,Paid
+4401,4401,UPI,6003.67,Paid
+4402,4402,PayPal,449.24,Paid
+4403,4403,Gift Card,9740.36,Paid
+4404,4404,Mastercard,14948.26,Paid
+4405,4405,Gift Card,12306.99,Paid
+4406,4406,Mastercard,2928.94,Paid
+4407,4407,Gift Card,11744.27,Paid
+4408,4408,Gift Card,3082.3,Paid
+4409,4409,Visa,3883.19,Paid
+4410,4410,Visa,3193.09,Paid
+4411,4411,Mastercard,1206.23,Paid
+4412,4412,Gift Card,7490.6,Paid
+4413,4413,Visa,6093.67,Paid
+4414,4414,UPI,6863.4,Refunded
+4415,4415,Mastercard,9405.45,Paid
+4416,4416,UPI,4342.19,Paid
+4417,4417,PayPal,4610.81,Paid
+4418,4418,Gift Card,6308.2,Paid
+4419,4419,Visa,3669.78,Paid
+4420,4420,Visa,3387.38,Paid
+4421,4421,Mastercard,1823.13,Refunded
+4422,4422,Mastercard,2581.22,Paid
+4423,4423,PayPal,5673.07,Paid
+4424,4424,Visa,8141.34,Paid
+4425,4425,UPI,6906.71,Paid
+4426,4426,UPI,10814.77,Paid
+4427,4427,PayPal,6974.73,Refunded
+4428,4428,Mastercard,5808.37,Paid
+4429,4429,Gift Card,6054.06,Paid
+4430,4430,Visa,4226.86,Paid
+4431,4431,UPI,11669.84,Paid
+4432,4432,PayPal,8863.05,Paid
+4433,4433,PayPal,2400.82,Refunded
+4434,4434,PayPal,7158.07,Paid
+4435,4435,UPI,416.76,Paid
+4436,4436,Visa,2544.09,Paid
+4437,4437,PayPal,4813.97,Paid
+4438,4438,Visa,1922.36,Paid
+4439,4439,Visa,9727.19,Paid
+4440,4440,Mastercard,3595.1,Paid
+4441,4441,Mastercard,5803.27,Paid
+4442,4442,PayPal,6107.32,Paid
+4443,4443,Mastercard,11931.75,Refunded
+4444,4444,Visa,6997.93,Paid
+4445,4445,UPI,3657.15,Paid
+4446,4446,Visa,2944.62,Paid
+4447,4447,UPI,14416.55,Paid
+4448,4448,Gift Card,4544.78,Paid
+4449,4449,PayPal,16425.58,Paid
+4450,4450,Gift Card,5939.17,Paid
+4451,4451,PayPal,5508.81,Paid
+4452,4452,Gift Card,2056.07,Paid
+4453,4453,UPI,19261.06,Refunded
+4454,4454,Visa,1941.82,Paid
+4455,4455,Visa,14777.86,Paid
+4456,4456,UPI,7960.19,Paid
+4457,4457,Gift Card,1265.05,Paid
+4458,4458,Mastercard,4355.84,Paid
+4459,4459,PayPal,971.09,Refunded
+4460,4460,Visa,9221.73,Paid
+4461,4461,UPI,12906.42,Paid
+4462,4462,Visa,4584.85,Paid
+4463,4463,Gift Card,979.74,Paid
+4464,4464,Visa,10764.05,Paid
+4465,4465,Gift Card,1139.03,Refunded
+4466,4466,Visa,9929.07,Paid
+4467,4467,Visa,656.6,Paid
+4468,4468,Mastercard,12798.38,Paid
+4469,4469,UPI,5633.81,Paid
+4470,4470,Visa,8938.73,Paid
+4471,4471,Mastercard,1670.28,Refunded
+4472,4472,Mastercard,5562.58,Paid
+4473,4473,Visa,9015.62,Paid
+4474,4474,PayPal,11654.38,Paid
+4475,4475,UPI,12407.76,Paid
+4476,4476,PayPal,8724.68,Paid
+4477,4477,Gift Card,2540.99,Paid
+4478,4478,Gift Card,797.03,Paid
+4479,4479,Visa,4881.99,Paid
+4480,4480,UPI,17065.56,Paid
+4481,4481,Mastercard,6574.53,Paid
+4482,4482,PayPal,12516.54,Refunded
+4483,4483,UPI,2647.01,Refunded
+4484,4484,Gift Card,3379.61,Paid
+4485,4485,Mastercard,2777.19,Paid
+4486,4486,Visa,3079.88,Refunded
+4487,4487,Visa,4677.78,Paid
+4488,4488,Visa,1296.88,Paid
+4489,4489,Visa,563.74,Paid
+4490,4490,Gift Card,7999.33,Paid
+4491,4491,Gift Card,5651.01,Paid
+4492,4492,Gift Card,8100.47,Paid
+4493,4493,UPI,4759.67,Paid
+4494,4494,UPI,2437.24,Paid
+4495,4495,Mastercard,3473.02,Paid
+4496,4496,PayPal,7303.96,Paid
+4497,4497,Gift Card,734.39,Refunded
+4498,4498,Visa,15061.86,Paid
+4499,4499,Visa,11366.46,Paid
+4500,4500,Visa,3204.34,Paid
+4501,4501,PayPal,13726.52,Paid
+4502,4502,Gift Card,10551.02,Refunded
+4503,4503,Gift Card,10306.19,Refunded
+4504,4504,UPI,548.95,Paid
+4505,4505,UPI,6662.34,Paid
+4506,4506,Gift Card,5982.34,Paid
+4507,4507,Gift Card,4316.25,Paid
+4508,4508,PayPal,4943.95,Paid
+4509,4509,Visa,4377.85,Paid
+4510,4510,Gift Card,5771.99,Paid
+4511,4511,PayPal,8389.14,Refunded
+4512,4512,Visa,16580.62,Paid
+4513,4513,Mastercard,9035.5,Paid
+4514,4514,Gift Card,10627.29,Paid
+4515,4515,Gift Card,4390.91,Refunded
+4516,4516,UPI,10852.07,Paid
+4517,4517,Mastercard,4649,Paid
+4518,4518,Mastercard,2783.74,Refunded
+4519,4519,UPI,9871.08,Refunded
+4520,4520,UPI,2151.98,Paid
+4521,4521,Visa,9300.68,Paid
+4522,4522,Mastercard,6976.83,Paid
+4523,4523,Mastercard,12245.42,Paid
+4524,4524,UPI,1286.26,Refunded
+4525,4525,Mastercard,1140.12,Paid
+4526,4526,Mastercard,13710.65,Paid
+4527,4527,Gift Card,7700.41,Paid
+4528,4528,UPI,1747.58,Paid
+4529,4529,Mastercard,14853.9,Paid
+4530,4530,Mastercard,4451.79,Paid
+4531,4531,Gift Card,9468.29,Paid
+4532,4532,UPI,11221.98,Paid
+4533,4533,UPI,6412.68,Paid
+4534,4534,Visa,4729.03,Paid
+4535,4535,Visa,5619.37,Paid
+4536,4536,PayPal,4802.89,Paid
+4537,4537,Visa,8577.25,Paid
+4538,4538,PayPal,3736.76,Paid
+4539,4539,Gift Card,2884.2,Paid
+4540,4540,Visa,993.56,Refunded
+4541,4541,Mastercard,2347.9,Paid
+4542,4542,UPI,4116.95,Refunded
+4543,4543,Gift Card,3659.73,Refunded
+4544,4544,Mastercard,6125.21,Paid
+4545,4545,UPI,16632.92,Paid
+4546,4546,Mastercard,5856.03,Paid
+4547,4547,PayPal,714.07,Paid
+4548,4548,Gift Card,7413.03,Paid
+4549,4549,Visa,8282.97,Paid
+4550,4550,Gift Card,3549.92,Refunded
+4551,4551,Mastercard,8545.77,Paid
+4552,4552,PayPal,6683.12,Paid
+4553,4553,PayPal,8090.62,Refunded
+4554,4554,Mastercard,2612.17,Paid
+4555,4555,Mastercard,7125.71,Paid
+4556,4556,Gift Card,3305.61,Paid
+4557,4557,PayPal,5500.62,Refunded
+4558,4558,Mastercard,7017.45,Paid
+4559,4559,Gift Card,1887.82,Refunded
+4560,4560,Visa,6836.32,Paid
+4561,4561,Gift Card,6063.67,Paid
+4562,4562,Mastercard,9463.23,Refunded
+4563,4563,UPI,6495.04,Paid
+4564,4564,Mastercard,3482.95,Paid
+4565,4565,UPI,9238.25,Paid
+4566,4566,Visa,5269.54,Paid
+4567,4567,Mastercard,8545.79,Refunded
+4568,4568,UPI,132.18,Paid
+4569,4569,Visa,1459.6,Refunded
+4570,4570,Mastercard,2816.63,Paid
+4571,4571,Gift Card,9266.91,Paid
+4572,4572,UPI,9592.07,Paid
+4573,4573,PayPal,2853.68,Paid
+4574,4574,PayPal,11650.06,Paid
+4575,4575,UPI,7572.44,Paid
+4576,4576,Gift Card,4033.74,Paid
+4577,4577,Visa,4729.73,Refunded
+4578,4578,Mastercard,5702.32,Paid
+4579,4579,Mastercard,10520.71,Paid
+4580,4580,PayPal,13736.35,Refunded
+4581,4581,PayPal,4946.19,Paid
+4582,4582,UPI,6050.28,Paid
+4583,4583,Mastercard,3740.21,Paid
+4584,4584,UPI,4849.66,Paid
+4585,4585,UPI,9492.62,Refunded
+4586,4586,PayPal,5499.32,Refunded
+4587,4587,PayPal,3096.07,Paid
+4588,4588,UPI,6042.2,Paid
+4589,4589,Gift Card,11002.92,Refunded
+4590,4590,Mastercard,1207.2,Paid
+4591,4591,PayPal,11574.04,Paid
+4592,4592,Visa,7073.53,Refunded
+4593,4593,Mastercard,7272.3,Paid
+4594,4594,Visa,2869.3,Paid
+4595,4595,Gift Card,9298.67,Paid
+4596,4596,Mastercard,8709.11,Paid
+4597,4597,PayPal,7564.99,Paid
+4598,4598,UPI,2203.17,Paid
+4599,4599,Mastercard,8940.39,Paid
+4600,4600,PayPal,1238.37,Paid
+4601,4601,Mastercard,2371.64,Refunded
+4602,4602,Gift Card,4942.34,Refunded
+4603,4603,Gift Card,2344.4,Paid
+4604,4604,Visa,10772.45,Paid
+4605,4605,Visa,8395.14,Paid
+4606,4606,Gift Card,715.67,Paid
+4607,4607,Visa,8310.69,Paid
+4608,4608,PayPal,7438.47,Paid
+4609,4609,Visa,1341.34,Paid
+4610,4610,UPI,487.34,Paid
+4611,4611,UPI,2496.93,Refunded
+4612,4612,Gift Card,2073.98,Paid
+4613,4613,Mastercard,1049.72,Refunded
+4614,4614,Gift Card,11511.85,Paid
+4615,4615,PayPal,12076.67,Paid
+4616,4616,Mastercard,1602.89,Paid
+4617,4617,PayPal,7650.11,Refunded
+4618,4618,Gift Card,364.47,Paid
+4619,4619,Visa,6779.68,Refunded
+4620,4620,PayPal,5291.95,Paid
+4621,4621,Visa,2022.21,Refunded
+4622,4622,Mastercard,6375.58,Paid
+4623,4623,UPI,7054.97,Refunded
+4624,4624,UPI,8097.05,Paid
+4625,4625,Visa,619.91,Paid
+4626,4626,Visa,7084.6,Paid
+4627,4627,Gift Card,9919.15,Paid
+4628,4628,Gift Card,16990.07,Refunded
+4629,4629,Mastercard,1098.93,Paid
+4630,4630,PayPal,13776.42,Refunded
+4631,4631,UPI,12456.82,Paid
+4632,4632,Gift Card,968.52,Refunded
+4633,4633,UPI,17307.8,Refunded
+4634,4634,Mastercard,1542.55,Paid
+4635,4635,Mastercard,7659.39,Paid
+4636,4636,Mastercard,8546.89,Paid
+4637,4637,Visa,11764.98,Paid
+4638,4638,UPI,6915.32,Paid
+4639,4639,PayPal,2422.61,Refunded
+4640,4640,UPI,11987.98,Refunded
+4641,4641,Gift Card,7513.35,Paid
+4642,4642,PayPal,345.99,Paid
+4643,4643,PayPal,875.18,Refunded
+4644,4644,PayPal,1799.25,Paid
+4645,4645,UPI,8190.41,Paid
+4646,4646,Gift Card,7736.28,Paid
+4647,4647,Visa,1144.97,Paid
+4648,4648,Mastercard,12107.91,Paid
+4649,4649,Visa,15936.2,Paid
+4650,4650,UPI,2640.57,Paid
+4651,4651,UPI,4575.28,Paid
+4652,4652,Mastercard,2478.57,Paid
+4653,4653,Gift Card,7541.04,Paid
+4654,4654,Visa,2912.49,Paid
+4655,4655,Visa,2997.99,Refunded
+4656,4656,UPI,9994.66,Paid
+4657,4657,Visa,6956.05,Refunded
+4658,4658,PayPal,5684.88,Paid
+4659,4659,PayPal,2601.03,Refunded
+4660,4660,PayPal,11396.08,Paid
+4661,4661,Mastercard,16669.89,Refunded
+4662,4662,PayPal,1130.75,Paid
+4663,4663,Visa,9106.07,Refunded
+4664,4664,Visa,3328.3,Paid
+4665,4665,PayPal,3563.79,Refunded
+4666,4666,Visa,4221.5,Paid
+4667,4667,Mastercard,6153.28,Paid
+4668,4668,Gift Card,8921.4,Paid
+4669,4669,PayPal,15052.25,Refunded
+4670,4670,PayPal,5415.92,Refunded
+4671,4671,UPI,9780.43,Paid
+4672,4672,Visa,11234.93,Paid
+4673,4673,UPI,10864.78,Paid
+4674,4674,Visa,11139.64,Paid
+4675,4675,Gift Card,11565.7,Paid
+4676,4676,Mastercard,1457.01,Paid
+4677,4677,Mastercard,5749.62,Paid
+4678,4678,Visa,9760.87,Paid
+4679,4679,Mastercard,811.48,Paid
+4680,4680,Gift Card,13062.48,Paid
+4681,4681,UPI,18578.64,Paid
+4682,4682,Gift Card,13617.14,Paid
+4683,4683,PayPal,9773.79,Refunded
+4684,4684,UPI,741.95,Refunded
+4685,4685,Gift Card,5768.25,Paid
+4686,4686,Mastercard,13506.78,Refunded
+4687,4687,UPI,7136.16,Paid
+4688,4688,Gift Card,6140.12,Paid
+4689,4689,UPI,7061.64,Paid
+4690,4690,UPI,3268.05,Paid
+4691,4691,PayPal,375.48,Paid
+4692,4692,Mastercard,1458.96,Paid
+4693,4693,UPI,4118.33,Paid
+4694,4694,PayPal,6430.16,Paid
+4695,4695,UPI,754.25,Paid
+4696,4696,Visa,13256.81,Paid
+4697,4697,Gift Card,3517.09,Paid
+4698,4698,Mastercard,7620.17,Paid
+4699,4699,PayPal,4743.54,Refunded
+4700,4700,UPI,6135.08,Paid
+4701,4701,Mastercard,816.46,Paid
+4702,4702,Mastercard,1730.03,Paid
+4703,4703,Visa,9461.65,Refunded
+4704,4704,Gift Card,942.32,Paid
+4705,4705,Visa,9286.59,Paid
+4706,4706,Gift Card,6235.06,Paid
+4707,4707,PayPal,13601.93,Paid
+4708,4708,PayPal,5145.82,Refunded
+4709,4709,Gift Card,6618.98,Paid
+4710,4710,Visa,1714.8,Refunded
+4711,4711,PayPal,2886.04,Paid
+4712,4712,Mastercard,8846.96,Paid
+4713,4713,Gift Card,7349.81,Paid
+4714,4714,Visa,13678.36,Paid
+4715,4715,Gift Card,11700.17,Paid
+4716,4716,Gift Card,2193.33,Refunded
+4717,4717,Visa,7987.98,Paid
+4718,4718,Gift Card,10990.94,Paid
+4719,4719,UPI,4906.13,Paid
+4720,4720,PayPal,7165.94,Paid
+4721,4721,Mastercard,12316.35,Paid
+4722,4722,Gift Card,10083.8,Paid
+4723,4723,PayPal,737.09,Paid
+4724,4724,UPI,1355.93,Paid
+4725,4725,UPI,8879.2,Paid
+4726,4726,Gift Card,14343.64,Paid
+4727,4727,UPI,1255.8,Paid
+4728,4728,Mastercard,9824.48,Paid
+4729,4729,Gift Card,2637.23,Paid
+4730,4730,Mastercard,5617.42,Refunded
+4731,4731,Visa,10848.76,Paid
+4732,4732,PayPal,4704.38,Paid
+4733,4733,Visa,5274.69,Paid
+4734,4734,Visa,947.63,Refunded
+4735,4735,UPI,8327.21,Refunded
+4736,4736,UPI,882.55,Refunded
+4737,4737,Visa,7101.99,Paid
+4738,4738,UPI,8120.22,Paid
+4739,4739,Visa,9408.07,Paid
+4740,4740,PayPal,9826.39,Paid
+4741,4741,Mastercard,1254.9,Paid
+4742,4742,UPI,11016.83,Paid
+4743,4743,Visa,4241.8,Paid
+4744,4744,Visa,11067.06,Paid
+4745,4745,Mastercard,5067.88,Refunded
+4746,4746,Visa,6311.84,Paid
+4747,4747,PayPal,5509.25,Paid
+4748,4748,UPI,10260.74,Paid
+4749,4749,Visa,8501.09,Paid
+4750,4750,UPI,13990.58,Paid
+4751,4751,Gift Card,9472.49,Paid
+4752,4752,Gift Card,8917.7,Paid
+4753,4753,UPI,9221.06,Paid
+4754,4754,Visa,2485.17,Paid
+4755,4755,UPI,8873.18,Paid
+4756,4756,Mastercard,2590.33,Paid
+4757,4757,Visa,777.53,Paid
+4758,4758,Visa,15372.47,Refunded
+4759,4759,Visa,1113.47,Paid
+4760,4760,Mastercard,1338.4,Paid
+4761,4761,PayPal,1468.76,Paid
+4762,4762,Visa,3978.86,Paid
+4763,4763,Mastercard,5543.34,Refunded
+4764,4764,PayPal,2804.6,Refunded
+4765,4765,Mastercard,3928.12,Refunded
+4766,4766,Visa,1458.96,Paid
+4767,4767,PayPal,2991.13,Paid
+4768,4768,Gift Card,6972.25,Paid
+4769,4769,UPI,9671.04,Paid
+4770,4770,PayPal,10131.55,Paid
+4771,4771,Gift Card,1348.53,Refunded
+4772,4772,PayPal,9537.23,Paid
+4773,4773,Mastercard,1985.87,Paid
+4774,4774,PayPal,5021.16,Paid
+4775,4775,Visa,2509.79,Paid
+4776,4776,PayPal,2018.49,Refunded
+4777,4777,Mastercard,10608.41,Refunded
+4778,4778,Gift Card,1805.91,Paid
+4779,4779,PayPal,4449.76,Paid
+4780,4780,Visa,7422.2,Refunded
+4781,4781,Mastercard,8029.25,Refunded
+4782,4782,Mastercard,12465.64,Paid
+4783,4783,Visa,5388.4,Paid
+4784,4784,UPI,6458.04,Paid
+4785,4785,Visa,1583.26,Paid
+4786,4786,Gift Card,5644.24,Paid
+4787,4787,PayPal,4231.41,Paid
+4788,4788,Visa,8951.67,Paid
+4789,4789,UPI,8949.1,Paid
+4790,4790,UPI,2108.12,Paid
+4791,4791,Mastercard,5534.8,Paid
+4792,4792,UPI,10913.06,Refunded
+4793,4793,Visa,3671.21,Paid
+4794,4794,Gift Card,3465.29,Paid
+4795,4795,Gift Card,4554.36,Paid
+4796,4796,Visa,1896.41,Paid
+4797,4797,Gift Card,5034.3,Refunded
+4798,4798,Mastercard,195.36,Refunded
+4799,4799,Mastercard,6419.91,Paid
+4800,4800,Gift Card,3683.95,Refunded
+4801,4801,Gift Card,5978.64,Refunded
+4802,4802,UPI,2473.04,Paid
+4803,4803,Visa,5778.45,Paid
+4804,4804,Visa,3134.98,Paid
+4805,4805,UPI,10835.11,Paid
+4806,4806,Mastercard,2026.9,Paid
+4807,4807,UPI,11568.8,Refunded
+4808,4808,PayPal,9861.45,Refunded
+4809,4809,UPI,12492.75,Paid
+4810,4810,Visa,8293.86,Paid
+4811,4811,PayPal,13815.88,Refunded
+4812,4812,Visa,2428.51,Paid
+4813,4813,Gift Card,4603.54,Paid
+4814,4814,UPI,6298.97,Paid
+4815,4815,Gift Card,5002.4,Refunded
+4816,4816,Visa,6685.66,Paid
+4817,4817,UPI,7393.33,Paid
+4818,4818,Visa,10463.11,Refunded
+4819,4819,Mastercard,7082.41,Paid
+4820,4820,Mastercard,4426.94,Paid
+4821,4821,Visa,15475.48,Paid
+4822,4822,Gift Card,5517.5,Paid
+4823,4823,Mastercard,196.44,Paid
+4824,4824,Visa,3696.14,Refunded
+4825,4825,UPI,5238.14,Paid
+4826,4826,UPI,863.99,Refunded
+4827,4827,Mastercard,3043.09,Refunded
+4828,4828,Visa,6513.92,Paid
+4829,4829,Visa,4533.25,Paid
+4830,4830,Gift Card,8049.14,Paid
+4831,4831,Visa,9756.12,Paid
+4832,4832,Mastercard,2283.51,Paid
+4833,4833,PayPal,2285.86,Paid
+4834,4834,Gift Card,11051.46,Paid
+4835,4835,Gift Card,4420.44,Refunded
+4836,4836,PayPal,1699.01,Paid
+4837,4837,PayPal,147.71,Paid
+4838,4838,Mastercard,9913.87,Refunded
+4839,4839,Gift Card,8745.74,Paid
+4840,4840,PayPal,4796.21,Paid
+4841,4841,Gift Card,5141.75,Paid
+4842,4842,Visa,13892.83,Paid
+4843,4843,Gift Card,1487.14,Paid
+4844,4844,PayPal,4436.68,Paid
+4845,4845,PayPal,1450.21,Refunded
+4846,4846,Mastercard,1462.3,Paid
+4847,4847,Visa,12284.74,Paid
+4848,4848,PayPal,2300.46,Refunded
+4849,4849,Gift Card,213.82,Paid
+4850,4850,Visa,1737.91,Refunded
+4851,4851,Gift Card,8169.39,Paid
+4852,4852,Visa,6664.81,Paid
+4853,4853,UPI,11710.46,Paid
+4854,4854,UPI,883.93,Paid
+4855,4855,PayPal,1848.7,Paid
+4856,4856,Mastercard,6375.48,Refunded
+4857,4857,PayPal,3213.4,Paid
+4858,4858,PayPal,2976.44,Paid
+4859,4859,Mastercard,4700.73,Paid
+4860,4860,PayPal,536.59,Paid
+4861,4861,Gift Card,13115.29,Paid
+4862,4862,Gift Card,5112.12,Paid
+4863,4863,Visa,2739.49,Refunded
+4864,4864,Gift Card,8830.92,Paid
+4865,4865,Gift Card,16088.96,Paid
+4866,4866,UPI,11093.99,Refunded
+4867,4867,Gift Card,5347.95,Paid
+4868,4868,Gift Card,5950.07,Refunded
+4869,4869,Mastercard,4820.52,Paid
+4870,4870,Gift Card,870.25,Paid
+4871,4871,Mastercard,12465.81,Paid
+4872,4872,Gift Card,5505.37,Paid
+4873,4873,Visa,8486.96,Refunded
+4874,4874,Gift Card,13328.66,Paid
+4875,4875,UPI,6933.92,Paid
+4876,4876,Gift Card,12953.38,Paid
+4877,4877,Visa,10564.33,Paid
+4878,4878,Visa,8895,Paid
+4879,4879,Gift Card,11461.76,Paid
+4880,4880,Gift Card,4162.9,Paid
+4881,4881,Mastercard,8544.2,Paid
+4882,4882,PayPal,10043.78,Paid
+4883,4883,PayPal,3272.2,Refunded
+4884,4884,PayPal,8034.29,Paid
+4885,4885,Mastercard,3709.52,Paid
+4886,4886,Mastercard,8279.59,Refunded
+4887,4887,UPI,2496.86,Paid
+4888,4888,Mastercard,859.21,Paid
+4889,4889,Gift Card,7396.5,Paid
+4890,4890,Mastercard,6537.79,Paid
+4891,4891,PayPal,6104.93,Paid
+4892,4892,Mastercard,5902.66,Paid
+4893,4893,Mastercard,2554.44,Paid
+4894,4894,Mastercard,5528.19,Paid
+4895,4895,Gift Card,44.69,Refunded
+4896,4896,Mastercard,9995.05,Paid
+4897,4897,PayPal,13255.74,Paid
+4898,4898,Mastercard,2435.16,Paid
+4899,4899,PayPal,5363.88,Paid
+4900,4900,Visa,5416.43,Paid
+4901,4901,PayPal,14651.96,Paid
+4902,4902,PayPal,6296.34,Paid
+4903,4903,Visa,1493.56,Refunded
+4904,4904,Mastercard,5358.27,Paid
+4905,4905,Visa,9844.72,Paid
+4906,4906,Gift Card,12672.54,Paid
+4907,4907,UPI,11264.29,Paid
+4908,4908,Mastercard,5410.53,Paid
+4909,4909,UPI,3745.21,Paid
+4910,4910,PayPal,8076.82,Paid
+4911,4911,Visa,3819.93,Paid
+4912,4912,Gift Card,1247.8,Paid
+4913,4913,Mastercard,12225.95,Paid
+4914,4914,Mastercard,4020.04,Paid
+4915,4915,Gift Card,7974.21,Refunded
+4916,4916,PayPal,6765.48,Paid
+4917,4917,Gift Card,545.82,Paid
+4918,4918,PayPal,898.74,Paid
+4919,4919,UPI,5632.09,Paid
+4920,4920,Visa,5166.71,Paid
+4921,4921,Gift Card,13339.91,Paid
+4922,4922,Mastercard,14499.88,Refunded
+4923,4923,Gift Card,10073.3,Paid
+4924,4924,Mastercard,156.1,Paid
+4925,4925,Gift Card,4075.24,Refunded
+4926,4926,UPI,7801.26,Paid
+4927,4927,Gift Card,12896.38,Paid
+4928,4928,Mastercard,4526.02,Paid
+4929,4929,Gift Card,5060.19,Paid
+4930,4930,UPI,8965.62,Paid
+4931,4931,Visa,7240.07,Refunded
+4932,4932,Visa,10949.31,Paid
+4933,4933,Visa,2363.88,Paid
+4934,4934,PayPal,7277.13,Refunded
+4935,4935,Gift Card,7900.3,Refunded
+4936,4936,UPI,7084.4,Refunded
+4937,4937,PayPal,9000.53,Paid
+4938,4938,Gift Card,3155.73,Paid
+4939,4939,UPI,813.55,Paid
+4940,4940,PayPal,7536.34,Paid
+4941,4941,Gift Card,11938.99,Paid
+4942,4942,Visa,6431.56,Refunded
+4943,4943,Visa,2337.15,Refunded
+4944,4944,Visa,18018.43,Paid
+4945,4945,Mastercard,5636.25,Refunded
+4946,4946,Visa,8969,Paid
+4947,4947,Mastercard,7817.81,Paid
+4948,4948,UPI,11168.65,Paid
+4949,4949,Gift Card,6437.9,Refunded
+4950,4950,Mastercard,9877.2,Paid
+4951,4951,Visa,3729.53,Refunded
+4952,4952,Gift Card,8108.28,Refunded
+4953,4953,Mastercard,6331.42,Paid
+4954,4954,UPI,2023.9,Paid
+4955,4955,Mastercard,288.3,Paid
+4956,4956,Mastercard,8977.23,Refunded
+4957,4957,UPI,7132.23,Paid
+4958,4958,PayPal,4322.13,Refunded
+4959,4959,Visa,8639.88,Paid
+4960,4960,UPI,10916.16,Paid
+4961,4961,PayPal,7069.3,Paid
+4962,4962,Gift Card,6769.62,Paid
+4963,4963,Gift Card,5016.81,Refunded
+4964,4964,UPI,3802.4,Paid
+4965,4965,UPI,2555.96,Paid
+4966,4966,Visa,2080.68,Refunded
+4967,4967,PayPal,3167.56,Paid
+4968,4968,UPI,13049.89,Paid
+4969,4969,UPI,10631.75,Refunded
+4970,4970,Gift Card,11663.46,Paid
+4971,4971,Visa,2082.52,Paid
+4972,4972,UPI,7411.37,Paid
+4973,4973,Visa,3516.66,Paid
+4974,4974,Mastercard,14352.81,Refunded
+4975,4975,PayPal,14454.98,Paid
+4976,4976,Mastercard,14117.61,Paid
+4977,4977,Mastercard,1890.92,Refunded
+4978,4978,UPI,6706.69,Paid
+4979,4979,Gift Card,3207.53,Paid
+4980,4980,PayPal,3898.65,Refunded
+4981,4981,Gift Card,12136.89,Paid
+4982,4982,Visa,1014.74,Paid
+4983,4983,Visa,2421.31,Paid
+4984,4984,Mastercard,561.58,Paid
+4985,4985,Gift Card,16973.85,Paid
+4986,4986,Gift Card,7105.8,Paid
+4987,4987,Gift Card,6647.36,Refunded
+4988,4988,UPI,2237.72,Paid
+4989,4989,Mastercard,8593.64,Paid
+4990,4990,Visa,8665.59,Refunded
+4991,4991,Gift Card,9196.43,Paid
+4992,4992,Visa,2902.21,Paid
+4993,4993,Mastercard,3162.21,Paid
+4994,4994,Visa,945.52,Refunded
+4995,4995,PayPal,3391.26,Paid
+4996,4996,Visa,5267.37,Paid
+4997,4997,Gift Card,2686.25,Paid
+4998,4998,Gift Card,335.06,Refunded
+4999,4999,Visa,6423.02,Paid
+5000,5000,UPI,9439.04,Paid
