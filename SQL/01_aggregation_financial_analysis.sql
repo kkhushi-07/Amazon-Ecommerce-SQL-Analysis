@@ -394,3 +394,121 @@ GROUP BY
 -- Display the group with the higher average discount first
 ORDER BY
     AverageDiscountPercentage DESC;
+
+
+
+-- ============================================================================
+-- QUESTION 3: CROSS-CATEGORY HEAVY BUYERS
+-- ============================================================================
+
+/*
+Business Requirement:
+--------------------
+Identify all customers who have placed at least one order in
+every available product category.
+
+Business Logic:
+---------------
+A customer qualifies if the number of distinct product categories
+they have purchased from is equal to the total number of distinct
+categories available in the Products table.
+
+Tables Used:
+------------
+1. Customers
+2. Orders
+3. OrderItems
+4. Products
+*/
+
+
+-- ============================================================================
+-- STEP 1: CONNECT CUSTOMERS WITH THEIR PURCHASED PRODUCTS
+-- ============================================================================
+--
+-- Customers
+--     ↓ CustomerID
+-- Orders
+--     ↓ OrderID
+-- OrderItems
+--     ↓ ProductID
+-- Products
+--     ↓
+-- Category
+--
+-- This allows us to determine which product categories
+-- each customer has purchased from.
+-- ============================================================================
+
+SELECT
+
+    c.CustomerID,
+
+    c.FirstName,
+
+    c.LastName,
+
+    -- Count the number of unique product categories
+    -- purchased by each customer.
+    COUNT(DISTINCT p.Category) AS CategoriesPurchased
+
+
+FROM Customers c
+
+
+-- Connect customers with their orders
+INNER JOIN Orders o
+
+    ON c.CustomerID = o.CustomerID
+
+
+-- Connect orders with the products included in those orders
+INNER JOIN OrderItems oi
+
+    ON o.OrderID = oi.OrderID
+
+
+-- Connect order items with product information
+INNER JOIN Products p
+
+    ON oi.ProductID = p.ProductID
+
+
+-- Create one group for each customer
+GROUP BY
+
+    c.CustomerID,
+
+    c.FirstName,
+
+    c.LastName
+
+
+-- ============================================================================
+-- STEP 2: KEEP ONLY CUSTOMERS WHO PURCHASED FROM EVERY CATEGORY
+-- ============================================================================
+--
+-- The subquery below calculates the total number of unique categories
+-- available in the Products table.
+--
+-- Example:
+--
+-- Total Categories = 5
+--
+-- Customer Categories Purchased = 5
+--
+-- Therefore, the customer qualifies.
+-- ============================================================================
+
+HAVING COUNT(DISTINCT p.Category)
+       =
+       (
+           SELECT COUNT(DISTINCT Category)
+           FROM Products
+       )
+
+
+-- Display customers in CustomerID order
+ORDER BY
+
+    c.CustomerID;
