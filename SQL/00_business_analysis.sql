@@ -101,3 +101,21 @@ ORDER BY
     Total_Spending DESC
 
 LIMIT 10;
+
+
+
+-- Q6. Analyze the distribution of orders by delivery status
+-- Shipments contains the delivery status for each order.
+-- We group orders by DeliveryStatus and count the number of shipments
+-- in each status.
+
+SELECT
+    DeliveryStatus,
+    COUNT(*) AS Total_Shipments
+FROM Shipments
+
+GROUP BY
+    DeliveryStatus
+
+ORDER BY
+    Total_Shipments DESC;
