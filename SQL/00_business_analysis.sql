@@ -147,3 +147,29 @@ SELECT
         2
     ) AS Return_Rate_Percentage
 FROM Returns r;
+
+
+
+
+-- Q9. Analyze payment method performance
+-- We group payments by payment method and calculate:
+-- 1. Total number of payments
+-- 2. Total payment amount
+-- 3. Average payment amount
+--
+-- This helps identify the most frequently used and
+-- highest-value payment methods.
+
+SELECT
+    Method AS Payment_Method,
+    COUNT(*) AS Total_Payments,
+    ROUND(SUM(Amount), 2) AS Total_Payment_Amount,
+    ROUND(AVG(Amount), 2) AS Average_Payment_Amount
+
+FROM Payments
+
+GROUP BY
+    Method
+
+ORDER BY
+    Total_Payment_Amount DESC;
