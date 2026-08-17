@@ -131,3 +131,19 @@ SELECT
     COUNT(*) AS Cancelled_Orders
 FROM Orders
 WHERE Status = 'Cancelled';
+
+
+
+
+-- Q8. Calculate the overall order return rate
+-- We count distinct orders that have at least one return.
+-- DISTINCT is important because an order can contain multiple returned products.
+-- Return Rate = Returned Orders / Total Orders × 100
+
+SELECT
+    ROUND(
+        COUNT(DISTINCT r.OrderID) * 100.0
+        / (SELECT COUNT(*) FROM Orders),
+        2
+    ) AS Return_Rate_Percentage
+FROM Returns r;
