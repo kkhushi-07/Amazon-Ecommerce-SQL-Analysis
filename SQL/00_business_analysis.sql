@@ -24,3 +24,8 @@
 SELECT 
     SUM(LineTotal) AS Total_Revenue
 FROM OrderItems;
+
+-- Q2. Total number of orders
+SELECT 
+    COUNT(*) AS total_orders
+FROM orders;
