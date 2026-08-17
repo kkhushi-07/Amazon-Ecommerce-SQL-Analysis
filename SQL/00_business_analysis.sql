@@ -29,3 +29,25 @@ FROM OrderItems;
 SELECT 
     COUNT(*) AS total_orders
 FROM orders;
+
+-- Q3. Find the top 10 products by total revenue
+-- We join Products with OrderItems using ProductID
+-- and calculate revenue by summing LineTotal for each product.
+
+SELECT
+    p.ProductID,
+    p.ProductName,
+    SUM(oi.LineTotal) AS Total_Revenue
+FROM Products p
+
+INNER JOIN OrderItems oi
+    ON p.ProductID = oi.ProductID
+
+GROUP BY
+    p.ProductID,
+    p.ProductName
+
+ORDER BY
+    Total_Revenue DESC
+
+LIMIT 10;
