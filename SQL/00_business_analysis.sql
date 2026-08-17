@@ -119,3 +119,15 @@ GROUP BY
 
 ORDER BY
     Total_Shipments DESC;
+
+
+
+-- Q7. Calculate the total number of cancelled orders
+-- The Orders table contains the order status.
+-- We filter the orders where Status is 'Cancelled'
+-- and count the number of cancelled orders.
+
+SELECT
+    COUNT(*) AS Cancelled_Orders
+FROM Orders
+WHERE Status = 'Cancelled';
