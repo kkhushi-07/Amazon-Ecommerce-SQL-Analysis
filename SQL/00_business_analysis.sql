@@ -208,3 +208,27 @@ GROUP BY
 
 ORDER BY
     Total_Revenue DESC;
+
+
+
+
+-- Q11. Calculate monthly revenue trend
+-- Orders contains the order date.
+-- OrderItems contains the revenue generated from each order.
+-- We join both tables using OrderID and group the revenue by month.
+-- This helps identify monthly sales trends and seasonal patterns.
+
+SELECT
+    DATE_FORMAT(o.OrderDate, '%Y-%m') AS Order_Month,
+    ROUND(SUM(oi.LineTotal), 2) AS Monthly_Revenue
+
+FROM Orders o
+
+INNER JOIN OrderItems oi
+    ON o.OrderID = oi.OrderID
+
+GROUP BY
+    DATE_FORMAT(o.OrderDate, '%Y-%m')
+
+ORDER BY
+    Order_Month;
