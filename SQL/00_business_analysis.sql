@@ -308,3 +308,37 @@ ORDER BY
     Total_Returns DESC
 
 LIMIT 10;
+
+
+
+
+
+
+-- Q15. Analyze customer distribution by state and city
+-- Customers contains the geographical information of each customer.
+-- We group customers by State and City and calculate:
+-- 1. Total number of customers
+-- 2. Total number of Prime members
+--
+-- This helps identify locations with a high customer concentration
+-- and strong Prime membership presence.
+
+SELECT
+    State,
+    City,
+    COUNT(DISTINCT CustomerID) AS Total_Customers,
+    COUNT(
+        DISTINCT CASE
+            WHEN PrimeMember = 'Yes' THEN CustomerID
+        END
+    ) AS Prime_Members
+
+FROM Customers
+
+GROUP BY
+    State,
+    City
+
+ORDER BY
+    Total_Customers DESC,
+    Prime_Members DESC;
