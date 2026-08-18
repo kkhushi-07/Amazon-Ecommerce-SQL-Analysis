@@ -259,3 +259,22 @@ ORDER BY
     Total_Revenue DESC
 
 LIMIT 1;
+
+
+
+
+-- Q13. Calculate the Average Order Value (AOV)
+-- AOV represents the average revenue generated per order.
+-- Formula:
+-- AOV = Total Revenue / Total Number of Orders
+--
+-- DISTINCT OrderID is used because one order can contain
+-- multiple items and therefore multiple rows in OrderItems.
+
+SELECT
+    ROUND(
+        SUM(LineTotal) / COUNT(DISTINCT OrderID),
+        2
+    ) AS Average_Order_Value
+
+FROM OrderItems;
