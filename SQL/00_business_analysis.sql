@@ -278,3 +278,33 @@ SELECT
     ) AS Average_Order_Value
 
 FROM OrderItems;
+
+
+
+
+-- Q14. Identify the most returned products
+-- Returns contains information about returned products.
+-- Products provides the product name and category.
+-- We count the number of returns for each product
+-- and rank them from highest to lowest.
+
+SELECT
+    p.ProductID,
+    p.ProductName,
+    p.Category,
+    COUNT(*) AS Total_Returns
+
+FROM Returns r
+
+INNER JOIN Products p
+    ON r.ProductID = p.ProductID
+
+GROUP BY
+    p.ProductID,
+    p.ProductName,
+    p.Category
+
+ORDER BY
+    Total_Returns DESC
+
+LIMIT 10;
