@@ -127,6 +127,9 @@ Business Questions Covered
 💸 Average Order Value (AOV)
 🔁 Most Returned Products
 📍 State/City-wise Customer Analysis
+
+---
+
 SQL Concepts Covered
 SELECT
 WHERE
@@ -158,7 +161,8 @@ Average Order Value
 Most returned products
 Customer geographical distribution
 
-SQL queries are available in:
+---
+**SQL queries are available in:
 
 SQL/business_analysis.sql
 
@@ -173,6 +177,7 @@ Dashboard KPIs
 👥 Total Customers
 💰 Total Revenue
 🛍️ Total Products
+
 Dashboard Includes
 📱 Sales by Channel
 📊 Revenue by Category
@@ -206,6 +211,8 @@ Average revenue generated per order.
 Formula:
 
 AOV = Total Revenue / Total Orders
+
+
 🔄 Return Rate
 
 Percentage of unique orders that contained at least one returned item.
@@ -265,17 +272,19 @@ Amazon-Ecommerce-SQL-Analysis/
 │   └── README.md
 │
 ├── SQL/
+│   ├── 00_business_analysis.sql
 │   ├── 01_aggregation_financial_analysis.sql
 │   ├── 02_window_functions_ranking.sql
 │   ├── 03_customer_rfm_cohort_analysis.sql
 │   ├── 04_complex_joins_market_basket.sql
 │   ├── 05_time_series_operational_logistics.sql
 │   ├── 06_advanced_ecommerce_operations.sql
-│   ├── business_analysis.sql
 │   └── README.md
 │
 ├── .gitignore
 └── README.md
+
+---
 🚀 Future Improvements
 
 The project can be further extended with:
@@ -291,6 +300,9 @@ Automated data refresh
 Sales forecasting
 Product recommendation analysis
 Advanced customer segmentation
+
+
+----
 👩‍💻 Author
 
 Khushi
